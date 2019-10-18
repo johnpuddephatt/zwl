@@ -1,0 +1,16 @@
+.site-header {
+  svg path {
+    fill: $base-font-color;
+  }
+  body.index & {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    svg path {
+      fill: white
+    }
+  }
+  padding-top: $base-spacing;
+  padding-bottom: $base-spacing;
+  text-align: right;
+}

@@ -1,0 +1,46 @@
+.section__home-join {
+  padding: 4 * $base-spacing 0;
+  background-color: $black;
+  color: white;
+  svg {
+    flex: 0 0 33%;
+    max-width: 20em;
+  }
+  .container {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    max-width: .8 * $large-screen;
+  }
+  .section-title {
+    text-align: left;
+    margin-bottom: $base-spacing;
+    padding: 0;
+    margin-bottom: $small-spacing;
+  }
+  .button {
+    background-color: #fff;
+    color: $black;
+  }
+}
+
+.join__text {
+  margin-top: 1.5 * $base-spacing;
+  margin-left: $base-spacing;
+  @media screen and (min-width: $medium-screen) {
+    margin-top: 0;
+  }
+}
+
+.join__form {
+  display: flex;
+  flex-direction: row;
+  margin-top: $base-spacing;
+  max-width: 22.5em;
+  input {
+    margin-bottom: 0;
+    + input  {
+      margin-left: $small-spacing;
+    }
+  }
+}

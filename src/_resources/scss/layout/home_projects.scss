@@ -1,0 +1,51 @@
+.section__home-intro {
+  padding: 6 * $base-spacing 0;
+  .container {
+    display: flex;
+    flex-direction: column;
+    @media screen and (min-width: $medium-screen) {
+      align-items: center;
+      flex-direction: row;
+    }
+  }
+}
+
+.intro__title {
+  font-size: modular-scale(5);
+}
+
+.intro__copy {
+  flex: 0 0 37%;
+  margin-right: 13%;
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.intro__projects {
+  display: flex;
+  flex-direction: row;
+  margin-top: 1.5 * $base-spacing;
+  @media screen and (min-width: $medium-screen) {
+    margin-top: 0;
+  }
+}
+
+.project__title {
+  @extend .ticker;
+  .line {
+    background-color: $blue;
+  }
+  font-size: modular-scale(3);
+  margin-bottom: $base-spacing;
+}
+
+.project__description {
+  margin-bottom: $base-spacing;
+}
+
+.intro__project {
+  + .intro__project {
+    margin-left: $base-spacing;
+  }
+}

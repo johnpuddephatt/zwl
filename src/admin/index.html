@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Content Manager</title>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  </head>
+
+  <body>
+    <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+    <script>
+    var PostPreview = createClass({
+      render: function() {
+        var entry = this.props.entry;
+        var image = entry.getIn(['data', 'image', 'file']);
+
+        var bg = this.props.getAsset(image);
+        return h('div', {},
+          h('header', {className: "post-header"},
+            h('div', {className: "container"},
+              h('h1', {className: "post-title"}, entry.getIn(['data', 'title']))
+            )
+          ),
+          h('div', {"className": "post-image"},
+            h('div', {className: "container"},
+              h('figure', {className: "post-header--image-figure"},
+                h('img', {className: "post-header--image", src: bg.toString()}),
+                h('figcaption',{}, entry.getIn(['data', 'image', 'caption']))
+              ),
+            )
+          ),
+          h('div', {className: "post-content"},
+            h('div', {"className": "container"}, this.props.widgetFor('body'))
+          )
+        );
+      }
+    });
+
+    CMS.registerPreviewTemplate("blog", PostPreview);
+    CMS.registerPreviewStyle("/assets/app.css");
+
+    </script>
+  </body>
+</html>
