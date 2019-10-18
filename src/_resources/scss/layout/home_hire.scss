@@ -1,0 +1,42 @@
+.section__home-hire {
+  padding: 4 * $base-spacing 0;
+  background-color: $orange;
+  svg {
+    flex: 0 0 33%;
+    max-width: 20em;
+    align-self: flex-start;
+    @media screen and (min-width: $medium-screen) {
+      // align-self: initial;
+    }
+  }
+  .container {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    max-width: .8 * $large-screen;
+  }
+  .section-title {
+    text-align: left;
+    margin-bottom: $base-spacing;
+    padding: 0;
+    margin-bottom: $small-spacing;
+  }
+  p {
+    max-width: 30em;
+  }
+}
+
+.hire__text {
+  margin-top: 1.5 * $base-spacing;
+  margin-left: 1.5 * $base-spacing;
+  @media screen and (min-width: $medium-screen) {
+    margin-top: 0;
+    margin-left: 2 * $base-spacing;
+  }
+  .section-title {
+    margin-bottom: $base-spacing;
+  }
+  .button {
+    margin-top: $base-spacing;
+  }
+}

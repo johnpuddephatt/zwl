@@ -1,0 +1,107 @@
+.section__home-hero {
+  height: 100vh;
+  background-color: $blue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-hero__zero {
+  position: absolute;
+  top: 50%;
+  height: 80%;
+  max-width: 80%;
+  left: 50%;
+  width: auto;
+  transform: translate(-50%,-50%);
+}
+
+.home-hero__title {
+  position: relative;
+  z-index: 9;
+  font-family: $base-font-family;
+  font-size: modular-scale(2);
+  text-align: center;
+  max-width: 24em;
+  padding: $base-spacing;
+  @extend .ticker;
+  text-transform: lowercase;
+
+  span {
+    opacity: 0;
+  }
+  .line {
+    color: $black;
+    animation: fadeInHeroLine 3s 0.5s forwards;
+    text-align: center;
+    text-transform: lowercase;
+    padding: $small-spacing/2 $base-spacing;
+    margin: $small-spacing/2 (-$base-spacing) 0;
+    background-color: white;
+    clip-path: polygon(1% 6%, 97% 0%, 100% 100%, 1% 92%);
+    &:nth-child(2) {
+      animation-delay: 1.5s;
+      clip-path: polygon(2% 1%, 100% 10%, 97% 100%, 1% 90%);
+      // span.word {
+      //   @for $i from 0 to 10 {
+      //     &:nth-child(#{$i + 1}) {
+      //        animation-delay: #{3000 + $i * 230}ms;
+      //     }
+      //   }
+      // }
+    }
+    &:nth-child(2) {
+      animation-delay: 2s;
+      clip-path: polygon(4% 1%, 96% 5%, 95% 100%, 0% 90%);
+    }
+  }
+  // span.word {
+  //   animation: fadeInHeroWord 1.5s 1s forwards;
+  //   @for $i from 0 to 10 {
+  //     &:nth-child(#{$i + 1}) {
+  //        animation-delay: #{1500 + $i * 230}ms;
+  //     }
+  //   }
+  // }
+}
+
+@keyframes fadeInHeroLine {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+// @keyframes fadeInHeroWord {
+//   0% {
+//     opacity: 0;
+//   }
+//   100% {
+//     opacity: 1;
+//   }
+// }
+
+.home-hero__zero path {
+  stroke: #f7b6cf;
+  fill: none;
+  stroke-width: 10;
+  stroke-dasharray: 3700px;
+  stroke-dashoffset: 3700px;
+  animation-name: draw;
+  animation-duration: 1s;
+  animation-delay: 2.75s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+  animation-timing-function: cubic-bezier(0.460, 0.000, 0.750, 0.750);
+  opacity: 0;
+}
+
+@keyframes draw {
+  to {
+    stroke-dashoffset: 0;
+    opacity: 1;
+  }
+}

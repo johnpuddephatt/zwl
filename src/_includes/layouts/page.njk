@@ -1,0 +1,21 @@
+{% extends "extends/page.njk" %}
+
+
+{% block headStyles %}
+    {% include "partials/styles.njk" %}
+{% endblock %}
+
+{% block headMisc %}
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="apple-touch-icon" href="/assets/img/icon.png">
+{% endblock %}
+
+{% block body %}
+    {{ super() }}
+
+    {{ content | safe }}
+{% endblock %}
+
+{% block bodyScripts %}
+    {% include "partials/scripts.njk" %}
+{% endblock %}

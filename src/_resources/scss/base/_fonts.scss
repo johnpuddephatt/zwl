@@ -1,0 +1,24 @@
+@include font-face("Acumin", "/assets/fonts/acumin", $file-formats: woff2 woff){
+  font-style: normal;
+  font-weight: 400;
+}
+
+@include font-face("Grilled Cheese", "/assets/fonts/grilledcheese", $file-formats: woff2 woff){
+  font-style: normal;
+  font-weight: 700;
+}
+
+@include font-face("Mindset", "/assets/fonts/mindset", $file-formats: woff2 woff){
+  font-style: normal;
+  font-weight: 400;
+}
+
+@include font-face("Barlow", "/assets/fonts/barlow-medium", $file-formats: woff2 woff){
+  font-style: normal;
+  font-weight: 400;
+}
+
+@include font-face("Mukta", "/assets/fonts/mukta-medium", $file-formats: woff2 woff){
+  font-style: normal;
+  font-weight: 400;
+}

@@ -1,0 +1,20 @@
+---
+layout: /layouts/base.njk
+---
+<div class="page-content">
+
+  <div class="container container__narrow">
+    <h1 class="page-title">{{ title }}</h1>
+  </div>
+
+  <div class="page-image-container">
+    <div class="container container__narrow">
+      {% respimg image, image_alt, "post__image", 640, 360, "(min-width: 1120px) 1120px, 100vw" %}
+    </div>
+  </div>
+
+  <div class="page-body container container__narrow">
+    {{ content | safe }}
+  </div>
+
+</div>

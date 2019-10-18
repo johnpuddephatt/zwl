@@ -1,0 +1,142 @@
+---
+layout: layouts/base.njk
+title: Home
+---
+<section class="section__home-hero">
+  <div class="container">
+    <h1 class="home-hero__title">
+      {{ site.description }}
+    </h1>
+    {% include "zero.svg" %}
+  </div>
+</section>
+
+<section class="section__home-intro">
+  <div class="container">
+    <div class="intro__copy">
+      <h2 class="intro__title">We’re building a zero waste movement</h2>
+      <p>We’re responding to the climate emergency by exploring how we can waste less and reuse and recycle more in our city. We’re starting conversations, listening to and sharing people’s ideas, and testing new solutions.</p>
+      <p>We’re currently working on two main projects: <strong>Leeds by Example</strong> and <strong>Plastic Pioneers</strong>.</p>
+    </div>
+
+    <div class="intro__projects">
+      <div class="intro__project">
+        <h3 class="project__title">Leeds by Example</h3>
+        <p class="project__description">Since October 2018 we’ve been working on making it as easy as possible for people in Leeds to recycle whilst they're out and about.</p>
+        <a class="button" target="_blank" href="/posts/leeds-by-example/">Find out more</a>
+      </div>
+      <div class="intro__project type-2">
+        <h3 class="project__title">Plastic Pioneers</h3>
+        <p class="project__description">We have recently begun working with a secondary school in Leeds to help them to explore how to reduce the use of single-use plastics in school.</p>
+        <a class="button type-3" href="#">More info coming soon!</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section__home-pipeline">
+
+  <h2 class="section-title">In the pipeline&hellip;</h2>
+
+  <div class="container">
+      <div class="pipeline__item pipeline__item--featured">
+        <div class="pipeline__image">
+          {% respimg collections.pipeline[0].data.image, collections.pipeline[0].data.image_alt, "thinking__item__image", 640, 360, "(min-width: 1120px) 690px, (min-width: 720px) 66vw, 50vw" %}
+        </div>
+        <div class="pipeline__text">
+          <div class="pipeline__item__count">01</div>
+          <h3 class="pipeline__title">{{ collections.pipeline[0].data.title }}</h3>
+          <p>{{ collections.pipeline[0].data.intro }}</p>
+          <a class="button type-3" href="{{ collections.pipeline[0].url }}">Add your ideas</a>
+        </div>
+      </div>
+
+      <div class="pipeline__sidebar">
+        <div class="pipeline__item pipeline__item--suggest">
+          {% include "lightbulb.svg" %}
+          <div class="pipeline__text">
+            <h3 class="pipeline__title">Have an idea?</h3>
+            <p>If there’s an issue in Leeds you think we should look into, <a href="#">tell us about it</a>.</p>
+          </div>
+        </div>
+        {% for pipeline in collections.pipeline.slice(1,3) -%}
+        <div class="pipeline__item">
+          <div class="pipeline__image">
+            {% respimg pipeline.data.image, collections.pipeline[0].data.image_alt, "thinking__item__image", 360, 202, "(min-width: 1120px) 310px, 30vw" %}
+          </div>
+          <div class="pipeline__text">
+            <h3 class="pipeline__title">{{ pipeline.data.title }}</h3>
+            <div class="pipeline__footer">
+              <a class="button type-{{loop.index}}" href="{{ pipeline.url }}">Add your ideas</a>
+              <div class="pipeline__item__count">0{{ loop.index + 1 }}</div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+
+  </div>
+</section>
+
+
+<section class="section__home-tips">
+  <h2 class="section-title">Ways to waste less</h2>
+
+  <div class="container">
+
+    {% for tip in collections.tips.slice(0,3) -%}
+    <div class="home-tips__article">
+      <div class="home-tips__image">
+        {% respimg tip.data.image, tip.data.image_alt, null, 300, 300, "(min-width: 1120px) 300px, 25vw" %}
+      </div>
+      <div class="home-tips__text">
+        <h3 class="home-tips__title">{{ tip.data.title }}</h3>
+        <p>{% excerpt tip %}</p>
+        <a class="button type-{{loop.index + 2}}" href="{{ tip.url }}">Read more</a>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="section__home-hire">
+  <div class="container">
+    {% include "hire.svg" %}
+    <div class="hire__text">
+      <h2 class="section-title">Need help?<br>Hire us!</h2>
+      <p>We know there are lots of organisations in Leeds who want to reduce their waste or help the people they work with reduce theirs.</p>
+      <p>That’s something we can help with. We support businesses, event organisers, schools and communities on their zero waste journey.</p>
+      <a class="button button__large button__inverted type-2" href="mailto:info@zerowasteleeds.org.uk">Talk to us</a>
+    </div>
+  </div>
+</section>
+
+<section class="section__home-thinking">
+  <h2 class="section-title">Our thinking</h2>
+
+  <div class="container">
+    {% set featuredPost = collections.posts | first %}
+    <div class="thinking__featured-item">
+      <div class="thinking__item__image">
+        {% respimg featuredPost.data.image, featuredPost.data.image_alt, "thinking__item__image", 640, 320, "(min-width: 1120px) 536px, 100vw" %}
+      </div>
+      <h3 class="thinking__item__title">{{ featuredPost.data.title }}</h3>
+      <p>{% excerpt featuredPost %}</p>
+      <a class="button type-5" href="{{ featuredPost.url}}">Learn more</a>
+    </div>
+    <div class="thinking__sidebar">
+      {% for post in collections.posts.slice(1,3) -%}
+      <div class="thinking__item">
+        <div class="thinking__item__image">
+          {% respimg post.data.image, featuredPost.data.image_alt, "thinking__item__image", 320, 320, "(min-width: 1120px) 172px, 30vw" %}
+        </div>
+        <div class="thinking__item__text">
+          <h3 class="thinking__item__title">{{ post.data.title }}</h3>
+          <p>{% excerpt post %}</p>
+          <a class="button type-{{loop.index + 1}}" href="{{ post.url }}">Learn more</a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
