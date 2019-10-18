@@ -23,6 +23,9 @@ body {
   padding: 0 $base-spacing;
   max-width: $large-screen;
   margin: 0 auto;
+  &__wide {
+    max-width: none;
+  }
   &__narrow {
     max-width: $medium-screen;
   }

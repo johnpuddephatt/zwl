@@ -8,12 +8,13 @@
     "wepback:development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
     "webpack:watch": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --watch --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
     "webpack:hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "prod": "npm run production",
+    "prod": "run-s webpack:production 11ty:production",
     "webpack:production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "11ty": "npx @11ty/eleventy",
+    "11ty:production": "npx @11ty/eleventy --output ./dist",
     "11ty:watch": "eleventy  --quiet --watch --output ./dist",
     "serve": "browser-sync start --config .bs-config.js --proxy localhost:1234",
-    "start": "run-p webpack:watch 11ty:watch"
+    "start": "run-p webpack:watch 11ty:watch",
+    "deploy": "git add . && git commit -am $MESSAGE && git push"
   },
   "keywords": [],
   "author": "",
