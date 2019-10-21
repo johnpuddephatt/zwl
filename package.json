@@ -13,8 +13,7 @@
     "11ty:production": "npx @11ty/eleventy --output ./dist",
     "11ty:watch": "eleventy  --quiet --watch --output ./dist",
     "serve": "browser-sync start --config .bs-config.js --proxy localhost:1234",
-    "start": "run-p webpack:watch 11ty:watch",
-    "deploy": "git add . && git commit -am $MESSAGE && git push"
+    "start": "run-p webpack:watch 11ty:watch"
   },
   "keywords": [],
   "author": "",

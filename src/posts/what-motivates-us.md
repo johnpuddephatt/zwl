@@ -13,7 +13,7 @@ The suggestion is that we're more motivated by "perceived losses" - in this case
 
 We've done a bit of work with local indie coffee shops - looking at how to manage their environmental impacts - and we know there is enthusiasm for doing more around increasing the uptake of reusable cups. Many already sell their own - including [North Star Coffee Shop & General Store](https://www.facebook.com/northstarcoffeeshop/), [Laynes Espresso](https://www.facebook.com/laynesespresso) & [Café 164](https://www.facebook.com/Cafe164/) - and all have mentioned that they've seen a significant increase in customers coming in with reusable cups over the last 12 months.
 
-> We're currently looking for funding so we can do more to encourage reusable cup use in Leeds.
+> We're currently looking for funding so we can do more to encourage reusable cup use
 
 We're currently looking for funding so we can do more to encourage reusable cup use in Leeds. As you'll know we've been very involved with [#LeedsByExample](https://www.facebook.com/hashtag/leedsbyexample) over the last twelve months - which has had a primary focus on recycling single-use cups. But it's clear that we really need to be reducing the amount of cups we get through too - and using more reusable cups.
 

@@ -74,6 +74,8 @@
     .pipeline__title {
       font-size: modular-scale(4);
       margin-bottom: $small-spacing;
+      text-transform: uppercase;
+      font-family: $heading-font-family;
     }
     p {
       margin-bottom: 0;
@@ -132,6 +134,8 @@
     }
     .pipeline__title {
       font-size: modular-scale(3);
+      font-family: $heading-font-family;
+      text-transform: uppercase;
     }
     .pipeline__text {
       flex: 1 1 auto;
@@ -184,6 +188,8 @@
 .pipeline__title {
   font-size: modular-scale(2);
   margin-bottom: $base-spacing;
+  font-family: $base-font-family;
+  text-transform: none;
 }
 
 .pipeline__item__count {

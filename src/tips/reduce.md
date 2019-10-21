@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Stop waste before it gets started
+title: Stop your waste in its tracks
 image: /uploads/seagulls.jpg
 date: 2019-01-01
 ---
