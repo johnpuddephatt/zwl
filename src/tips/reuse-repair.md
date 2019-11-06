@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Get to know your reuse and repair options in Leeds
 image: /uploads/sewing.jpg
-date: 2019-01-01
+date: 2019-01-02
 ---
 When we're thinking about wasting less, we often end up focusing first on recycling.
 

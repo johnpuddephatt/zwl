@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Get to know more about recycling
 image: /uploads/waste-centre.jpg
-date: 2019-01-01
+date: 2019-01-03
 ---
 It goes without saying that recycling plays an important part in helping us to waste less as a city.
 
