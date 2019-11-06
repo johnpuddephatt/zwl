@@ -1,12 +1,12 @@
 .section__home-join {
-  padding: 4 * $base-spacing 0;
+  padding: 4 * $base-spacing 0 $base-spacing;
   background-color: $black;
   color: white;
   svg {
     flex: 0 0 33%;
     max-width: 20em;
   }
-  .container {
+  .footer--primary {
     display: flex;
     align-items: center;
     flex-direction: row;
@@ -42,5 +42,15 @@
     + input  {
       margin-left: $small-spacing;
     }
+  }
+}
+
+.footer--secondary {
+  margin-top: 4 * $base-spacing;
+  text-align: center;
+  opacity: .8;
+  a {
+    color: #fff;
+    font-weight: 700;
   }
 }

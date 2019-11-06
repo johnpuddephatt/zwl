@@ -442,7 +442,6 @@ h6 {
 
 p {
   margin: 0 0 0.75rem;
-  max-width: 45rem;
 }
 
 a {
@@ -1288,7 +1287,7 @@ body.index .site-header svg path {
 }
 
 .section__home-join {
-  padding: 6rem 0;
+  padding: 6rem 0 1.5rem;
   background-color: #000000;
   color: white;
 }
@@ -1298,8 +1297,7 @@ body.index .site-header svg path {
   max-width: 20em;
 }
 
-.section__home-join .container,
-.section__home-join .section-title {
+.section__home-join .footer--primary {
   display: flex;
   align-items: center;
   flex-direction: row;
@@ -1342,6 +1340,17 @@ body.index .site-header svg path {
 
 .join__form input + input {
   margin-left: 0.75rem;
+}
+
+.footer--secondary {
+  margin-top: 6rem;
+  text-align: center;
+  opacity: 0.8;
+}
+
+.footer--secondary a {
+  color: #fff;
+  font-weight: 700;
 }
 
 .page-title {
@@ -1387,5 +1396,9 @@ body.index .site-header svg path {
   font-size: 1.5625em;
   margin: 1.5rem 0;
   font-weight: 600;
+}
+
+#commento input {
+  margin-bottom: 0;
 }
 
