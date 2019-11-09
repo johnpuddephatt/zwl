@@ -14,9 +14,9 @@ collections:
       - { name: 'layout', widget: 'hidden', default: 'layouts/post.njk' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Introduction', name: 'intro', widget: 'string' }
-      - { label: 'Date', name: 'date', widget: 'date', format: 'Do MMM YYYY'}
+      - { label: 'Date', name: 'date', widget: 'datetime', dateFormat: 'Do MMM YYYY', timeFormat: false }
       - { label: 'Image', name: 'image', widget: 'image' }
-      - { label: 'Image alt text', name: 'image', widget: 'string'}
+      - { label: 'Image alt text', name: 'image_alt', widget: 'string'}
       - { label: 'Description', name: 'body', widget: 'markdown'}
       - { label: 'Document link', name: 'ideas_link', widget: 'string'}
   - name: 'tips'
@@ -28,9 +28,9 @@ collections:
     fields:
       - { name: 'layout', widget: 'hidden', default: 'layouts/post.njk' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Date', name: 'date', widget: 'date', format: 'Do MMM YYYY'}
+      - { label: 'Date', name: 'date', widget: 'datetime', dateFormat: 'Do MMM YYYY', timeFormat: false }
       - { label: 'Image', name: 'image', widget: 'image' }
-      - { label: 'Image alt text', name: 'image', widget: 'string'}
+      - { label: 'Image alt text', name: 'image_alt', widget: 'string'}
       - { label: 'Description', name: 'body', widget: 'markdown'}
   - name: 'posts'
     label: 'Our thinking'
@@ -41,7 +41,7 @@ collections:
     fields:
       - { name: 'layout', widget: 'hidden', default: 'layouts/post.njk' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Date', name: 'date', widget: 'date', format: 'Do MMM YYYY'}
+      - { label: 'Date', name: 'date', widget: 'datetime', dateFormat: 'Do MMM YYYY', timeFormat: false }
       - { label: 'Image', name: 'image', widget: 'image' }
-      - { label: 'Image alt text', name: 'image', widget: 'string'}
+      - { label: 'Image alt text', name: 'image_alt', widget: 'string'}
       - { label: 'Description', name: 'body', widget: 'markdown'}
