@@ -39,15 +39,16 @@ title: Home
   <h2 class="section-title">In the pipeline&hellip;</h2>
 
   <div class="container">
+      {% set latest_pipeline = collections.pipeline.reverse()[0] %}
       <div class="pipeline__item pipeline__item--featured">
         <div class="pipeline__image">
-          {% respimg collections.pipeline[0].data.image, collections.pipeline[0].data.image_alt, "thinking__item__image", 640, 360, "(min-width: 1120px) 690px, (min-width: 720px) 66vw, 50vw" %}
+          {% respimg latest_pipeline.data.image, latest_pipeline.data.image_alt, "thinking__item__image", 640, 360, "(min-width: 1120px) 690px, (min-width: 720px) 66vw, 50vw" %}
         </div>
         <div class="pipeline__text">
           <div class="pipeline__item__count">01</div>
-          <h3 class="pipeline__title">{{ collections.pipeline[0].data.title }}</h3>
-          <p>{{ collections.pipeline[0].data.intro }}</p>
-          <a class="button type-3" href="{{ collections.pipeline[0].url }}">Add your ideas</a>
+          <h3 class="pipeline__title">{{ latest_pipeline.data.title }}</h3>
+          <p>{{ latest_pipeline.data.intro }}</p>
+          <a class="button type-3" href="{{ latest_pipeline.url }}">Add your ideas</a>
         </div>
       </div>
 
@@ -59,7 +60,7 @@ title: Home
             <p>If there’s an issue in Leeds you think we should look into, <a href="#">tell us about it</a>.</p>
           </div>
         </div>
-        {% for pipeline in collections.pipeline.slice(1,3) -%}
+        {% for pipeline in collections.pipeline.reverse().slice(1,3) -%}
         <div class="pipeline__item">
           <div class="pipeline__image">
             {% respimg pipeline.data.image, collections.pipeline[0].data.image_alt, "thinking__item__image", 360, 202, "(min-width: 1120px) 310px, 30vw" %}
@@ -83,8 +84,7 @@ title: Home
   <h2 class="section-title">Ways to waste less in Leeds</h2>
 
   <div class="container">
-
-    {% for tip in collections.tips.slice(0,3) -%}
+    {% for tip in collections.tips.reverse().slice(0,3)-%}
     <div class="home-tips__article">
       <div class="home-tips__image">
         {% respimg tip.data.image, tip.data.image_alt, null, 300, 300, "(min-width: 1120px) 300px, 25vw" %}
@@ -115,7 +115,7 @@ title: Home
   <h2 class="section-title">Our thinking</h2>
 
   <div class="container">
-    {% set featuredPost = collections.posts | first %}
+    {% set featuredPost = collections.posts | reverse | first %}
     <div class="thinking__featured-item">
       <div class="thinking__item__image">
         {% respimg featuredPost.data.image, featuredPost.data.image_alt, "thinking__item__image", 640, 320, "(min-width: 1120px) 536px, 100vw" %}
@@ -125,7 +125,7 @@ title: Home
       <a class="button type-5" href="{{ featuredPost.url}}">Learn more</a>
     </div>
     <div class="thinking__sidebar">
-      {% for post in collections.posts.slice(1,3) -%}
+      {% for post in collections.posts.reverse().slice(1,3) -%}
       <div class="thinking__item">
         <div class="thinking__item__image">
           {% respimg post.data.image, featuredPost.data.image_alt, "thinking__item__image", 320, 320, "(min-width: 1120px) 172px, 30vw" %}

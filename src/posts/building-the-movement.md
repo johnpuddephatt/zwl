@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Building the movement
 image: /uploads/building-a-movement.jpg
 image_alt: Photo of an exhibition showing how much food and drink packaging we waste in Leeds every three days
-date: 2019-01-01
+date: 2019-01-03
 ---
 It can seem like everyone wants to build a movement at the moment.  So what do we mean when we're saying it too?
 

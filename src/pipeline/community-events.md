@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Improving recycling at community festivals and events in Leeds
 intro: Community events bring people together – can they lead by example when it comes to waste?
-date: 2019-01-03
+date: 2019-01-01
 ideas_link: https://docs.google.com/document/d/13l2TRiXy5JDHzJ4VoX4vO4j1Byn3gPpFco6ApI1a9gI/edit?usp=sharing
 image: /uploads/community-events.jpg
 image_alt: Rob from Zero Waste Leeds emptying a recycling bin at a recent event
