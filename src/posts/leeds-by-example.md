@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: What has Leeds By Example taught us?
 image: /uploads/leeds-by-example-1.jpg
 image_alt: Photo of Gordon Binnit – our friendly burping recycling bin – outside Leeds Town Hall
-date: 2019-01-01
+date: 2019-01-02
 ---
 Much of our time over the last 18 months has been spent working on Leeds By Example - a project led by environmental charity Hubbub.
 

@@ -1,0 +1,47 @@
+# config.yml
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: 'src/uploads'
+collections:
+  - name: 'pipeline'
+    label: 'Activities'
+    folder: 'src/pipeline/'
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { name: 'layout', widget: 'hidden', default: 'layouts/post.njk' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Introduction', name: 'intro', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'date', format: 'Do MMM YYYY'}
+      - { label: 'Image', name: 'image', widget: 'image' }
+      - { label: 'Image alt text', name: 'image', widget: 'string'}
+      - { label: 'Description', name: 'body', widget: 'markdown'}
+      - { label: 'Document link', name: 'ideas_link', widget: 'string'}
+  - name: 'tips'
+    label: 'Tips'
+    folder: 'src/tips/'
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { name: 'layout', widget: 'hidden', default: 'layouts/post.njk' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'date', format: 'Do MMM YYYY'}
+      - { label: 'Image', name: 'image', widget: 'image' }
+      - { label: 'Image alt text', name: 'image', widget: 'string'}
+      - { label: 'Description', name: 'body', widget: 'markdown'}
+  - name: 'posts'
+    label: 'Our thinking'
+    folder: 'src/posts/'
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { name: 'layout', widget: 'hidden', default: 'layouts/post.njk' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'date', format: 'Do MMM YYYY'}
+      - { label: 'Image', name: 'image', widget: 'image' }
+      - { label: 'Image alt text', name: 'image', widget: 'string'}
+      - { label: 'Description', name: 'body', widget: 'markdown'}

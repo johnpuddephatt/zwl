@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: How can we reduce waste from running events?
 intro: We're working with local running clubs and race organisers to help them to manage the environmental impacts of races.
-date: 2019-01-01
+date: 2019-01-03
 ideas_link: https://docs.google.com/document/d/1ALkA2RBOLoMuBF97xame14sS-yqzxTRp0Iuwd9GV_e0/edit
 image: /uploads/running-clubs.jpg
 image_alt: Running event in Leeds
