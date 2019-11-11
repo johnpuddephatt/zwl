@@ -1,0 +1,31 @@
+{
+  "title" : "We’re building a movement to help make Leeds a zero waste city by 2030",
+  "intro": {
+    "title": "We’re building a zero waste movement",
+    "description": "We’re responding to the climate emergency by exploring how we can waste less and reuse and recycle more in our city. We’re starting conversations, listening to and sharing people’s ideas, and testing new solutions.\n\n We’re currently working on two main projects: **Leeds by Example** and **Plastic Pioneers**."
+  },
+  "projects": [
+    {
+      "title": "Leeds by Example",
+      "description": "Since October 2018 we’ve been working on making it as easy as possible for people in Leeds to recycle while out and about.",
+      "link": "/posts/leeds-by-example/"
+    },
+    {
+      "title": "Plastic Pioneers",
+      "description": "We have recently begun working with a secondary school in Leeds to help them to explore how to reduce the use of single-use plastics in school.",
+      "link": ""
+    }
+  ],
+  "hire": {
+    "title": "Need help? \n Hire us!",
+    "description": "We know there are lots of organisations in Leeds who want to reduce their waste or help the people they work with reduce theirs.\n\nThat’s something we can help with. We support businesses, event organisers, schools and communities on their zero waste journey.",
+    "link": {
+      "text": "Talk to us",
+      "url": "mailto:info@zerowasteleeds.org.uk"
+    }
+  },
+  "join": {
+    "title": "Join our movement",
+    "description": "Every step of our journey we’re uncovering more people in Leeds who are curious, serious or passionate about reducing their waste. If you’re one of those people, join us."
+  }
+}
