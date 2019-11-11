@@ -5,8 +5,8 @@ backend:
 media_folder: 'src/uploads'
 public_folder: "/uploads"
 collections:
-  - label: "Pages"
-    name: "pages"
+  - label: "Sections"
+    name: "sections"
     editor:
       preview: false
     files:
