@@ -118,21 +118,21 @@ title: Home
     {% set featuredPost = collections.posts | reverse | first %}
     <div class="thinking__featured-item">
       <div class="thinking__item__image">
-        {% respimg featuredPost.data.image, featuredPost.data.image_alt, "thinking__item__image", 640, 320, "(min-width: 1120px) 536px, 100vw" %}
+        {% respimg featuredPost.data.image, featuredPost.data.image_alt, "thinking__item__image", 640, 360, "(min-width: 1120px) 536px, 100vw" %}
       </div>
       <h3 class="thinking__item__title">{{ featuredPost.data.title }}</h3>
-      <p>{% excerpt featuredPost %}</p>
+      <p>{{ featuredPost.templateContent | striptags | truncate(120) }}...</p>
       <a class="button type-5" href="{{ featuredPost.url}}">Learn more</a>
     </div>
     <div class="thinking__sidebar">
-      {% for post in collections.posts.reverse().slice(1,3) -%}
+      {% for post in collections.posts.reverse().slice(1,4) -%}
       <div class="thinking__item">
         <div class="thinking__item__image">
-          {% respimg post.data.image, featuredPost.data.image_alt, "thinking__item__image", 320, 320, "(min-width: 1120px) 172px, 30vw" %}
+          {% respimg post.data.image, featuredPost.data.image_alt, "thinking__item__image", 320, 240, "(min-width: 1120px) 172px, 30vw" %}
         </div>
         <div class="thinking__item__text">
           <h3 class="thinking__item__title">{{ post.data.title }}</h3>
-          <p>{% excerpt post %}</p>
+          <p>{{ post.templateContent | striptags | truncate(60) }}...</p>
           <a class="button type-{{loop.index + 1}}" href="{{ post.url }}">Learn more</a>
         </div>
       </div>

@@ -103,7 +103,7 @@ function extractExcerpt(article) {
 
   const startPosition = content.indexOf('<p>');
   const endPosition = content.indexOf('</p>');
-  const excerptLength = 120;
+  const excerptLength = 100;
 
   if (startPosition !== -1 && endPosition !== -1) {
     excerpt = content.substring(startPosition + 3, endPosition).trim().substring(0,excerptLength) + '...';
