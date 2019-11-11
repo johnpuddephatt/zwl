@@ -46,3 +46,44 @@ collections:
       - { label: 'Image', name: 'image', widget: 'image' }
       - { label: 'Image alt text', name: 'image_alt', widget: 'string'}
       - { label: 'Description', name: 'body', widget: 'markdown'}
+  - label: "Pages"
+    name: "pages"
+    editor:
+      preview: false
+    files:
+      - label: "Home"
+        name: "home"
+        file: "/src/_data/home.json"
+        fields:
+          - {label: 'Title', name: 'title', widget: 'string' }
+          - label: Intro
+            name: intro
+            widget: object
+            fields:
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - {label: 'Description', name: 'description', widget: 'markdown' }
+          - label: Projects
+            name: projects
+            widget: list
+            fields:
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - {label: 'Description', name: 'description', widget: 'text' }
+              - { label: 'Link', name: 'link', widget: 'string' }
+          - label: Hire
+            name: hire
+            widget: object
+            fields:
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - {label: 'Description', name: 'description', widget: 'markdown' }
+              - label: Link
+                name: link
+                widget: object
+                fields:
+                  - { label: 'Text', name: 'text', widget: 'string' }
+                  - { label: 'URL', name: 'url', widget: 'string' }
+          - label: Join
+            name: join
+            widget: object
+            fields:
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - {label: 'Description', name: 'description', widget: 'markdown' }

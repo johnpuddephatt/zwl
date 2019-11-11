@@ -5,7 +5,7 @@ title: Home
 <section class="section__home-hero">
   <div class="container">
     <h1 class="home-hero__title">
-      {{ site.description }}
+      {{ home.title }}
     </h1>
     {% include "zero.svg" %}
   </div>
@@ -14,22 +14,22 @@ title: Home
 <section class="section__home-intro">
   <div class="container">
     <div class="intro__copy">
-      <h2 class="intro__title">We’re building a zero waste movement</h2>
-      <p>We’re responding to the climate emergency by exploring how we can waste less and reuse and recycle more in our city. We’re starting conversations, listening to and sharing people’s ideas, and testing new solutions.</p>
-      <p>We’re currently working on two main projects: <strong>Leeds by Example</strong> and <strong>Plastic Pioneers</strong>.</p>
+      <h2 class="intro__title">{{ home.intro.title }}</h2>
+      {{ home.intro.description | markdownify | safe }}
     </div>
 
     <div class="intro__projects">
-      <div class="intro__project">
-        <h3 class="project__title">Leeds by Example</h3>
-        <p class="project__description">Since October 2018 we’ve been working on making it as easy as possible for people in Leeds to recycle whilst they're out and about.</p>
-        <a class="button" href="/posts/leeds-by-example/">Find out more</a>
-      </div>
-      <div class="intro__project type-2">
-        <h3 class="project__title">Plastic Pioneers</h3>
-        <p class="project__description">We have recently begun working with a secondary school in Leeds to help them to explore how to reduce the use of single-use plastics in school.</p>
-        <a class="button type-3">More info coming soon!</a>
-      </div>
+      {% for project in home.projects %}
+        <div class="intro__project">
+          <h3 class="project__title">{{ project.title }}</h3>
+          <p class="project__description">{{ project.description }}</p>
+          {% if project.link %}
+            <a class="button type-{{ loop.index }}" href="{{ project.link }}">Find out more</a>
+          {% else %}
+            <a class="button type-{{ loop.index }}">More info coming soon</a>
+          {% endif %}
+        </div>
+      {% endfor %}
     </div>
   </div>
 </section>
@@ -103,10 +103,9 @@ title: Home
   <div class="container">
     {% include "hire.svg" %}
     <div class="hire__text">
-      <h2 class="section-title">Need help?<br>Hire us!</h2>
-      <p>We know there are lots of organisations in Leeds who want to reduce their waste or help the people they work with reduce theirs.</p>
-      <p>That’s something we can help with. We support businesses, event organisers, schools and communities on their zero waste journey.</p>
-      <a class="button button__large button__inverted type-2" href="mailto:info@zerowasteleeds.org.uk">Talk to us</a>
+      <h2 class="section-title">{{ home.hire.title | nl2br | safe }}</h2>
+      {{ home.hire.description | markdownify | safe}}
+      <a class="button button__large button__inverted type-2" href="{{ home.hire.link.url }}">{{ home.hire.link.text }}</a>
     </div>
   </div>
 </section>

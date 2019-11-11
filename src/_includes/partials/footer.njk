@@ -2,8 +2,8 @@
   <div class="container footer--primary">
     {% include "join.svg" %}
     <div class="join__text">
-      <h2 class="section-title">Join our movement!</h2>
-      <p>Every step of our journey we’re uncovering more people in Leeds who are curious, serious or passionate about reducing their waste. If you’re one of those people, join us.</p>
+      <h2 class="section-title">{{ home.join.title | nl2br | safe }}</h2>
+      {{ home.join.description | markdownify | safe }}
       <form method="GET" action="https://facebook.us12.list-manage.com/subscribe?u=1cd16eceafaf236854a3cf974&id=b25aefdbd9" class="join__form">
         <input type="text" name="MERGE0" placeholder="Enter your email">
         <input type="hidden" name="u" value="1cd16eceafaf236854a3cf974">
