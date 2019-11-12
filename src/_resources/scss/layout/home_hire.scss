@@ -3,21 +3,23 @@
   background-color: $orange;
   svg {
     flex: 0 0 33%;
-    max-width: 20em;
+    max-width: 15em;
     align-self: flex-start;
     @media screen and (min-width: $medium-screen) {
       // align-self: initial;
+      max-width: 20em;
     }
   }
   .container {
-    display: flex;
-    align-items: center;
-    flex-direction: row;
+    @media screen and (min-width: $medium-screen) {
+      display: flex;
+      align-items: center;
+      flex-direction: row;
+    }
     max-width: .8 * $large-screen;
   }
   .section-title {
     text-align: left;
-    margin-bottom: $base-spacing;
     padding: 0;
     margin-bottom: $small-spacing;
   }
@@ -27,10 +29,7 @@
 }
 
 .hire__text {
-  margin-top: 1.5 * $base-spacing;
-  margin-left: 1.5 * $base-spacing;
   @media screen and (min-width: $medium-screen) {
-    margin-top: 0;
     margin-left: 2 * $base-spacing;
   }
   .section-title {
