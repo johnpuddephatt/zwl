@@ -17,9 +17,9 @@
 .home-tips__article {
   display: flex;
   flex-direction: row;
-  align-items: center;
-  margin: 1.5 * $base-spacing 0;
+  margin: 1.5 * $base-spacing 0 0;
   @media screen and (min-width: $medium-screen) {
+    align-items: center;
     flex: 0 0 calc(33.33% - #{2 * $base-spacing});
     flex-direction: column;
     margin: 0;
@@ -36,6 +36,9 @@
 .home-tips__image {
   flex: 0 0 30%;
   margin-right: $base-spacing;
+  img {
+    width: 100%;
+  }
   @media screen and (min-width: $medium-screen) {
     margin-bottom: $base-spacing;
     margin-right: 0;
@@ -43,13 +46,17 @@
 }
 
 .home-tips__text {
+  .button {
+    float: right;
+  }
   @media screen and (min-width: $medium-screen) {
     display: flex;
     flex-direction: column;
     flex: 1;
     .button {
-      margin-top: auto;
+      float: none;
       margin-right: auto;
+      margin-top: auto;
     }
   }
 }
