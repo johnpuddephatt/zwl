@@ -92,16 +92,18 @@
     p {
       margin-bottom: 0;
     }
-    svg {
-      display: block;
-      width: 100%;
-      height: auto;
+    .pipeline__image {
       margin-right: 0;
       flex: 0 0 calc(33% + #{$base-spacing});
       @media screen and (min-width: $medium-screen) {
         margin-bottom: $base-spacing;
         flex: 0 0 33%;
       }
+    }
+    svg {
+      display: block;
+      width: 100%;
+      height: auto;
     }
   }
   &--featured {
@@ -190,15 +192,20 @@
 
 .pipeline__text {
   display: flex;
-  flex: 1;
+  flex: 0 1 70%;
   flex-direction: column;
 }
 
 .pipeline__image {
   margin-right: $base-spacing;
+  flex: 0 0 30%;
   @media screen and (min-width: $medium-screen) {
     margin-right: 0;
     margin-bottom: $base-spacing;
+  }
+  img {
+    width: 100%;
+    height: auto;
   }
 }
 
