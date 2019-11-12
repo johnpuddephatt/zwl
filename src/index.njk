@@ -120,7 +120,7 @@ title: Home
         {% respimg featuredPost.data.image, featuredPost.data.image_alt, "thinking__item__image", 640, 360, "(min-width: 1120px) 536px, 100vw" %}
       </div>
       <h3 class="thinking__item__title">{{ featuredPost.data.title }}</h3>
-      <p>{{ featuredPost.templateContent | striptags | truncate(120) }}...</p>
+      <p>{{ featuredPost.templateContent | striptags | truncate(120) }}</p>
       <a class="button type-5" href="{{ featuredPost.url}}">Learn more</a>
     </div>
     <div class="thinking__sidebar">
@@ -131,7 +131,7 @@ title: Home
         </div>
         <div class="thinking__item__text">
           <h3 class="thinking__item__title">{{ post.data.title }}</h3>
-          <p>{{ post.templateContent | striptags | truncate(60) }}...</p>
+          <p>{{ post.templateContent | striptags | truncate(60) }}</p>
           <a class="button type-{{loop.index + 1}}" href="{{ post.url }}">Learn more</a>
         </div>
       </div>
