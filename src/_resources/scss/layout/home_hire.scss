@@ -1,6 +1,13 @@
 .section__home-hire {
-  padding: 4 * $base-spacing 0;
+  padding: 2 * $base-spacing 0 4 * $base-spacing;
+  @media screen and (min-width: $medium-screen) {
+    padding: 4 * $base-spacing 0;
+  }
   background-color: $orange;
+  text-align: center;
+  @media screen and (min-width: $medium-screen) {
+    text-align: left;
+  }
   svg {
     flex: 0 0 33%;
     max-width: 15em;
@@ -19,12 +26,18 @@
     max-width: .8 * $large-screen;
   }
   .section-title {
-    text-align: left;
+    @media screen and (min-width: $medium-screen) {
+      text-align: left;
+    }
     padding: 0;
     margin-bottom: $small-spacing;
   }
   p {
     max-width: 30em;
+    display: none;
+    @media screen and (min-width: $medium-screen) {
+      display: block;
+    }
   }
 }
 

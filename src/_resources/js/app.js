@@ -6,5 +6,12 @@
 
 require('typesplit');
 
-new SplitType('.home-hero__title', { split: 'lines', tagName: 'span' });
-new SplitType('.project__title', { split: 'lines', tagName: 'span' });
+let heroSplit = new SplitType('.home-hero__title', { split: 'lines', tagName: 'span' });
+let projectsSplit = new SplitType('.project__title', { split: 'lines', tagName: 'span' });
+
+window.addEventListener('resize', ()=>{
+  heroSplit.revert();
+  projectsSplit.revert();
+  new SplitType('.home-hero__title', { split: 'lines', tagName: 'span' });
+  new SplitType('.project__title', { split: 'lines', tagName: 'span' });
+});
