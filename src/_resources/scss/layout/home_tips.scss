@@ -46,24 +46,17 @@
 }
 
 .home-tips__text {
-  .button {
-    float: right;
-  }
   @media screen and (min-width: $medium-screen) {
     display: flex;
     flex-direction: column;
     flex: 1;
-    .button {
-      float: none;
-      margin-right: auto;
-      margin-top: auto;
-    }
   }
 }
 
 .home-tips__title {
   font-size: modular-scale(2);
   font-family: $base-font-family;
+  letter-spacing: 0;
   text-transform: none;
   // &::after {
   //   display: block;

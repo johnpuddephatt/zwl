@@ -24,7 +24,7 @@
 
 .intro__projects {
 
-  margin-top: 1.5 * $base-spacing;
+  margin-top: 2.5 * $base-spacing;
   @media screen and (min-width: $medium-screen) {
     display: flex;
     flex-direction: row;
@@ -37,7 +37,7 @@
   .line {
     background-color: $blue;
   }
-  font-size: modular-scale(3);
+  font-size: modular-scale(4);
   margin-bottom: $base-spacing;
 }
 

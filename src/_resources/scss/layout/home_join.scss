@@ -2,6 +2,10 @@
   padding: 4 * $base-spacing 0 $base-spacing;
   background-color: $black;
   color: white;
+  text-align: center;
+  @media screen and (min-width: $medium-screen) {
+    text-align: left;
+  }
   svg {
     flex: 0 0 33%;
     max-width: 15em;
@@ -18,7 +22,9 @@
     max-width: .8 * $large-screen;
   }
   .section-title {
-    text-align: left;
+    @media screen and (min-width: $medium-screen) {
+      text-align: left;
+    }
     margin-bottom: $base-spacing;
     padding: 0;
     margin-bottom: $small-spacing;
@@ -26,6 +32,13 @@
   .button {
     background-color: #fff;
     color: $black;
+  }
+  p {
+    max-width: 30em;
+    display: none;
+    @media screen and (min-width: $medium-screen) {
+      display: block;
+    }
   }
 }
 
@@ -38,8 +51,11 @@
 .join__form {
   display: flex;
   flex-direction: row;
-  margin-top: $base-spacing;
   max-width: 22.5em;
+  margin: 2 * $base-spacing auto 0;
+  @media screen and (min-width: $medium-screen) {
+    margin: $base-spacing 0 0;
+  }
   input {
     margin-bottom: 0;
     + input  {
@@ -55,5 +71,8 @@
   a {
     color: #fff;
     font-weight: 700;
+  }
+  p {
+    margin: $small-spacing auto;
   }
 }

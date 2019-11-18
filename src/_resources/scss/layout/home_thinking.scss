@@ -8,17 +8,11 @@
       justify-content: space-between;
     }
   }
-  .button {
-    float: right;
-    @media screen and (min-width: $medium-screen) {
-      float: none;
-    }
-  }
 }
 
 .thinking__featured-item {
   flex: 0 0 50%;
-  margin-bottom: 3 * $base-spacing;
+  margin-bottom: 2 * $base-spacing;
   @media screen and (min-width: $medium-screen) {
     margin-bottom: 0;
   }
@@ -59,19 +53,26 @@
 
   }
   .thinking__item__image {
-    flex: 0 0 30%;
+    display: none;
     @media screen and (min-width: $medium-screen) {
+      display: block;
       flex: 0 0 40%;
     }
   }
   .thinking__item__text {
     flex: 1 0 60%;
-    padding-left: $base-spacing;
+    @media screen and (min-width: $medium-screen) {
+      padding-left: $base-spacing;
+    }
   }
   .thinking__item__title {
     font-family: $base-font-family;
+    letter-spacing: 0;
     text-transform: none;
-    font-size: modular-scale(2);
+    font-size: modular-scale(3);
+    @media screen and (min-width: $medium-screen) {
+      font-size: modular-scale(2);
+    }
   }
 }
 
