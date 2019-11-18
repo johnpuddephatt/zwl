@@ -24,6 +24,9 @@
     flex-direction: row;
     flex: 0 0 33.3%;
   }
+  .pipeline__title {
+    letter-spacing: 0;
+  }
   .pipeline__image {
     display: none;
     @media screen and (min-width: $medium-screen) {
@@ -139,13 +142,11 @@
     .button {
       @media screen and (min-width: $medium-screen) {
         margin-top: $small-spacing;
+        margin-right: auto;
       }
     }
     .pipeline__title {
       font-size: modular-scale(3);
-      @media screen and (min-width: $medium-screen) {
-        font-size: modular-scale(2);
-      }
       font-family: $heading-font-family;
       text-transform: uppercase;
     }
@@ -209,10 +210,12 @@
 }
 
 .pipeline__title {
-  font-size: modular-scale(2);
+  font-size: modular-scale(3);
+  @media screen and (min-width: $medium-screen) {
+    font-size: modular-scale(2);
+  }
   margin-bottom: $base-spacing;
   font-family: $base-font-family;
-  letter-spacing: 0;
   text-transform: none;
 }
 
