@@ -7,7 +7,7 @@ image_alt: Dan Webb Everyday Plastic
 ---
 With support from [Hubbub](https://www.hubbub.org.uk/), and in collaboration with TK Maxx and Homesense, we are working on a ground-breaking project called [Plastic Pioneers](https://www.hubbub.org.uk/plastic-pioneers) with [Cardinal Heenan Catholic High School](https://www.cardinalheenan.com/pages/news/89622) in Meanwood.
 
-Cardinal Heenan are one of twelve trail blazing schools have joined Plastic Pioneers to encourage students and staff to re-think school life with less single-use plastic. 
+Cardinal Heenan are one of 12 trail blazing schools to have joined Plastic Pioneers which encourages students and staff to re-think school life with less single-use plastic. 
 
 We’ve been working hard with a group of students at the school, who’ve formed a Plastic Pioneers lunchtime group to take a lead on reducing the amount of single-use plastic at school.  
 
