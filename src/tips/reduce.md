@@ -21,7 +21,7 @@ And we know a lot of you are also having a bit of a rethink about how you show y
 
 ![](/uploads/beeswax-wraps.jpg "Beeswax wraps can help you banish clingfilm from the kitchen")
 
-Plenty of you are also looking at ways you can reduce the amount of single-use products you get through. Plenty of people on [our Facebook group](https://www.facebook.com/zerowasteleeds/) are keen on beeswax wraps in place of cling-film, and reusable water bottles are increasingly popular – particularly given that it's easy to find places to fill them up thanks to [the Refill app](https://refill.org.uk/get-the-refill-app/).
+Plenty of you are also looking at ways you can **reduce** the amount of single-use products you get through. Plenty of people on [our Facebook group](https://www.facebook.com/zerowasteleeds/) are keen on beeswax wraps in place of cling-film, and reusable water bottles are increasingly popular – particularly given that it's easy to find places to fill them up thanks to [the Refill app](https://refill.org.uk/get-the-refill-app/).
 
 Grocery shopping is another area that lots of people in Leeds are focusing on, as they try to reduce the amount of waste they create. We know lots of people love shopping at [Leeds Market](https://www.facebook.com/LeedsMarkets/), at farmers markets, or at greengrocers because it's so much easier to buy produce with little or no packaging. And there are zero waste shops springing up all over Leeds, including [The Jar Tree](http://www.thejartree.co.uk/), [Ecotopia](https://www.ecotopialeeds.co.uk/), [The Refilling Station](https://www.facebook.com/refillingstationstore/), [Refills by Seagulls](https://seagullsreuse.org.uk/refills/), [SCRAP](https://www.scrapstuff.co.uk/) and [Refill and Go](https://www.refillandgo.co.uk/).
 
