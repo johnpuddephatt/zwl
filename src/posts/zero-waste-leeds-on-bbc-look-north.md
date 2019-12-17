@@ -9,9 +9,7 @@ image_alt: >-
 ---
 Leeds By Example, the on-the-go recycling project on which Zero Waste Leeds were a local partner, was recently the lead story on BBC Look North.
 
-```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jtYP-N1x65c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
 
 Zero Waste Leeds co-director Rob Greenland joined Keeley Donovan and Phil Bodmer on the BBC Look North sofa to talk about the success of the project - which is now being rolled out to two other cities.
 
