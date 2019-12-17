@@ -18,4 +18,4 @@ We're currently exploring how we can work with CAAF to learn from their approach
 
 We're also keen to build upon the great work that CAAF have done, for example by exploring opportunities for introducing reusable pint glasses at events (like we've seen recently at the cricket and rugby at Headingley) alongside composting of food waste and packaging.
 
-If this is a project you would like to get involved with, please [email us](mailto:info@zerowasteleeds.org.uk), comment below or add to our google doc.
+If this is a project you would like to get involved with, please [email us](mailto:info@zerowasteleeds.org.uk).
