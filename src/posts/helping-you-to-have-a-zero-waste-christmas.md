@@ -7,7 +7,7 @@ image_alt: 12 Days of Zero Waste Image
 ---
 Christmas can be a time when so much gets wasted or thrown away - but it doesn't need to be that way!
 
-We've been working on a really exciting project with local TV production company [True North](https://www.truenorth.tv/), to produce a series of [twelve short films](https://www.youtube.com/playlist?list=PLcImqkHEpk0oc1kzeyHu-y_a5qpbUI3Hm) on the theme of a Zero Waste Christmas.
+We've been working on a really exciting project with local TV production company [True North](https://www.truenorth.tv/), to produce a series of [twelve short films](https://www.youtube.com/channel/UCD4AOnL4OuGUnxHqDi_5ghQ/videos?view_as=public) on the theme of a Zero Waste Christmas.
 
 The films feature many of the fantastic small businesses, social enterprises and community groups in Leeds that are making it easier than ever for us to have a fun, but less wasteful, Christmas. 
 
