@@ -4,6 +4,7 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'src/uploads'
 public_folder: "/uploads"
+publish_mode: editorial_workflow
 collections:
   - label: "Sections"
     name: "sections"
@@ -47,7 +48,7 @@ collections:
               - { label: 'Title', name: 'title', widget: 'string' }
               - {label: 'Description', name: 'description', widget: 'markdown' }
   - name: 'pipeline'
-    label: 'Activities'
+    label: 'In the pipeline'
     folder: 'src/pipeline/'
     create: true
     editor:
@@ -58,9 +59,9 @@ collections:
       - { label: 'Introduction', name: 'intro', widget: 'string' }
       - { label: 'Date', name: 'date', widget: 'datetime', dateFormat: 'Do MMM YYYY', timeFormat: false }
       - { label: 'Image', name: 'image', widget: 'image' }
-      - { label: 'Image alt text', name: 'image_alt', widget: 'string'}
+      - { label: 'Image alt text', name: 'image_alt', widget: 'string', required: false}
       - { label: 'Description', name: 'body', widget: 'markdown'}
-      - { label: 'Document link', name: 'ideas_link', widget: 'string'}
+      - { label: 'Document link', name: 'ideas_link', widget: 'string', required: false}
   - name: 'tips'
     label: 'Tips'
     folder: 'src/tips/'
@@ -72,7 +73,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Date', name: 'date', widget: 'datetime', dateFormat: 'Do MMM YYYY', timeFormat: false }
       - { label: 'Image', name: 'image', widget: 'image' }
-      - { label: 'Image alt text', name: 'image_alt', widget: 'string'}
+      - { label: 'Image alt text', name: 'image_alt', widget: 'string', required: false}
       - { label: 'Description', name: 'body', widget: 'markdown'}
   - name: 'posts'
     label: 'Our thinking'
@@ -85,5 +86,5 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Date', name: 'date', widget: 'datetime', dateFormat: 'Do MMM YYYY', timeFormat: false }
       - { label: 'Image', name: 'image', widget: 'image' }
-      - { label: 'Image alt text', name: 'image_alt', widget: 'string'}
+      - { label: 'Image alt text', name: 'image_alt', widget: 'string', required: false}
       - { label: 'Description', name: 'body', widget: 'markdown'}
