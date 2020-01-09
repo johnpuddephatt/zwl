@@ -16,5 +16,3 @@ A staggering £60.5bn was spent by UK households on clothing in 2018; 336,000 to
 You can read more about [our thinking](https://www.zerowasteleeds.org.uk/posts/sustainability-in-fashion-why-and-how/) on fashion sustainability here.
 
 Find out more about our #ZeroWasteFashion project on our dedicated [Zero Waste Fashion website](https://zerowastefashion.fashion.blog/).
-
-<!--EndFragment-->
