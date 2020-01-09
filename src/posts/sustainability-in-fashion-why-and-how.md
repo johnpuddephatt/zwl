@@ -5,13 +5,13 @@ date: 2020-01-09T20:54:04.958Z
 image: /uploads/Fashion photo.jpg
 image_alt: Photo courtesy of Leeds Community Clothes Exchange
 ---
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +50,9 @@ image_alt: Photo courtesy of Leeds Community Clothes Exchange
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +631,9 @@ image_alt: Photo courtesy of Leeds Community Clothes Exchange
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 10]>
+<!--\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -660,7 +660,7 @@ image_alt: Photo courtesy of Leeds Community Clothes Exchange
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\\\[endif]-->
+<!\\\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -670,7 +670,7 @@ Public awareness of the perils of fast fashion on the environment is at an all t
 
 The lure of cheap clothing made at high volumes has been enticing us for years. Unfortunately this equates to poorly made clothes, questionable labour, waste and pollution. We also don’t value this type of clothing in the same way which means we’re more likely to throw it away, rather than recycle, repair or offer it for reuse.
 
-The [WRAP report](https://www.wrap.org.uk/sustainable-textiles) - part of their [Sustainable Clothing Action Plan](https://www.wrap.org.uk/sustainable-textiles/scap?_ga=2.204559504.107776740.1578570104-1786129430.1578570104) - reveals some alarming statistics about how the clothing landscape has changed in recent times, particularly on the rise of cheaply produced clothes.  According to WRAP, clothing prices fell by 58% between 1988 and 2010 which is in stark contrast to overall consumer prices which rose by 64% over the same period.   It's perhaps not surprising that as a nation, it's clothing we chose to indulge in.  In 2018 UK households spent a staggering £60.5bn on clothes. 
+The [WRAP report](https://www.wrap.org.uk/sustainable-textiles) - part of their [Sustainable Clothing Action Plan](https://www.wrap.org.uk/sustainable-textiles/scap?_ga=2.204559504.107776740.1578570104-1786129430.1578570104) - reveals some alarming statistics about how the clothing landscape has changed over the years, particularly on the rise of cheaply produced clothes.  According to WRAP, clothing prices fell by 58% between 1988 and 2010 which is in stark contrast to overall consumer prices which rose by 64% over the same period.   It's perhaps not surprising that as a nation, it's clothing we chose to indulge in.  In 2018 UK households spent a staggering £60.5bn on clothes. 
 
 There are plenty of alternatives but they aren’t always visible or easy to find. With your help, we’re planning to change that. We’re working with the [School of Design](https://ahc.leeds.ac.uk/design/staff/458/dr-pammi-sinha) at the University of Leeds and [Leeds City Council](https://www.leeds.gov.uk/residents/bins-and-recycling) to host a [\#FashionHack](https://www.facebook.com/hashtag/fashionhack?source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARDfwrYF_Gj-3B7dEGauSPC9bi2PGLxJSqYkCdposFNn8KzMkKKYB7-yO8LFPmadiJPYcy_Q0vWp55DxWjkWdwm35mqeJzS-Vf1GGxBZqRH_aWhssK3TGXOe9n68_AZY8vS1oFY8psrnoueuVg4YRvGRRBP6fdzrTrdloJ_sWA0W0s4f3PtyceI4TvQox4ptkx6oUHlYsH0OpiKNFuYRf2KYjzHrKY7LjJU76nE6aa9K2vcrT4_MuvLZDLpTNHeygXnYXueKn5S5UDlz7pkdaUe5LCCj2Wjz1_fGGwPtlx7zWCICU6LirXRyV9CnkfkwzOUf2u3cI9DMpLolB5bsgb4&__tn__=%2ANK-R) this Spring where we’ll explore what we can do in Leeds to reduce the environmental impacts of our wardrobes.
 
