@@ -11,17 +11,8 @@ One key area of work is around understanding what people currently do with cloth
 
 For starters, we have developed a Zero Waste Fashion [website](https://zerowastefashion.fashion.blog/) with tips on where to recycle, reuse, repair and upcycle clothing and textiles in Leeds. This includes a [map](https://www.google.com/maps/d/u/1/viewer?hl=en&mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&ll=53.83676365656107%2C-1.5013154999999188&z=11) of all the textile banks, charity shops, repair shops, sewing classes and clothes exchanges in Leeds. If you spot any places we have missed or have any ideas for the site please [get in touch](rob@zerowasteleeds.org.uk)!
 
-<!-- wp:spacer {"height":44} -->
-
-<div style="height:44px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
 
 <iframe src="https://www.google.com/maps/d/embed?mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&hl=en" width="640" height="480"></iframe>
-
-<!-- wp:spacer {"height":44} -->
-
-<div style="height:44px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
 
 We are also planning to host a Zero Waste Fashion hack in the Spring, where we will explore a range of practical ways that we can work together in our city to reduce the environmental impacts of the clothes we wear.  
 
