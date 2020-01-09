@@ -49,7 +49,7 @@ collections:
               - {label: 'Description', name: 'description', widget: 'markdown' }
   - name: 'pipeline'
     label: 'In the pipeline'
-    folder: 'src/pipeline/'
+    folder: 'src/pipeline'
     create: true
     editor:
       preview: true
@@ -64,7 +64,7 @@ collections:
       - { label: 'Document link', name: 'ideas_link', widget: 'string', required: false}
   - name: 'tips'
     label: 'Tips'
-    folder: 'src/tips/'
+    folder: 'src/tips'
     create: true
     editor:
       preview: true
@@ -77,7 +77,7 @@ collections:
       - { label: 'Description', name: 'body', widget: 'markdown'}
   - name: 'posts'
     label: 'Our thinking'
-    folder: 'src/posts/'
+    folder: 'src/posts'
     create: true
     editor:
       preview: true
