@@ -5,13 +5,13 @@ date: 2020-01-09T20:54:04.958Z
 image: /uploads/Fashion photo.jpg
 image_alt: Photo courtesy of Leeds Community Clothes Exchange
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +50,9 @@ image_alt: Photo courtesy of Leeds Community Clothes Exchange
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +631,9 @@ image_alt: Photo courtesy of Leeds Community Clothes Exchange
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -660,11 +660,11 @@ image_alt: Photo courtesy of Leeds Community Clothes Exchange
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-We’re focusing on fashion, clothing and textiles in 2020. Why? A new report from waste reduction charity [WRAP](https://www.wrap.org.uk/sustainable-textiles) shows a 10% increase in the amount of clothing that is getting thrown away.  In just two years an extra 36,000 tonnes of clothing ended up in our black bins!
+We’re focusing on fashion, clothing and textiles in 2020. Why? A new [report](https://www.wrap.org.uk/sites/files/wrap/Textiles%20market%20situation%20report%202019.pdf) from waste reduction charity [WRAP](https://www.wrap.org.uk/sustainable-textiles) shows a 10% increase in the amount of clothing that is getting thrown away.  In just two years an extra 36,000 tonnes of clothing ended up in our black bins!
 
 Public awareness of the perils of fast fashion on the environment is an all time high and yet this isn’t translating into the kind of changes we need. The reasons for this will be varied and complex but the rise of consumerist fast fashion certainly plays a big role. 
 
