@@ -14,16 +14,15 @@
       render: function() {
         var entry = this.props.entry;
         var image = entry.getIn(['data', 'image']);
-        var bg = this.props.getAsset(image);
-        console.log('image:' + bg);
-        
+        // var bg = this.props.getAsset(image);
+
         return h('div', {className: "page-content"},
           h('div', {className: "container container__narrow"},
             h('h1', {className: "page-title"}, entry.getIn(['data', 'title']))
           ),
           h('div', {"className": "post-image-container"},
             h('div', {className: "container container__narrow"},
-              h('img', {className: "post__image", src: bg.toString()}),
+              h('img', {className: "post__image", src: image }),
             )
           ),
           h('div', {className: "page-body container container__narrow"}, this.props.widgetFor('body'))
