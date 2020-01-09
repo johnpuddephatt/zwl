@@ -29,7 +29,15 @@ h6 {
   text-align: center;
   margin-bottom: 2 * $base-spacing;
   font-size: modular-scale(5);
-  @extend .container;
+  @extend %container;
+}
+
+.section-subtitle {
+  text-align: center;
+  @extend %container;
+  font-size: modular-scale(2);
+  margin-top: -2 * $base-spacing;
+  margin-bottom: 2 * $base-spacing;
 }
 
 p {
@@ -87,7 +95,7 @@ hr {
 }
 
 %ticker, .ticker {
-  padding: 0 $small-spacing;
+  // padding: 0 $small-spacing;
   .line {
     clip-path: polygon(1% 6%, 97% 0%, 100% 100%, 1% 92%);
     .type-2 & {
@@ -100,6 +108,6 @@ hr {
     display: inline-block !important;
     width: initial !important;
     padding: $small-spacing/2 $small-spacing;
-    margin: 0 (-$small-spacing) $small-spacing/4;
+    margin: 0 0 $small-spacing/4;
   }
 }

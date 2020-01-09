@@ -19,10 +19,15 @@ body {
 }
 
 
-.container {
+%container {
   padding: 0 $base-spacing;
   max-width: $large-screen;
   margin: 0 auto;
+}
+
+.container {
+  @extend %container;
+
   &__wide {
     max-width: none;
   }

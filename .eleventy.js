@@ -1,22 +1,18 @@
 const path = require('path');
-const markdownIt = require("markdown-it");
-const markdownItResponsive = require('@gerhobbelt/markdown-it-responsive');
+const pluginSrcsetImg = require( "eleventy-plugin-srcset" );
 const svgContents = require("eleventy-plugin-svg-contents");
-
-const respImg = require(path.join(process.cwd(), "lib/extensions/respimg"));
-const respImgShortcode = respImg.shortcode;
-const respImgAuto = respImg.auto;
 
 
 
 module.exports = function(eleventyConfig) {
 
 
+
   // Shortcodes
-  eleventyConfig.addShortcode( 'respimg', ( image, alt, className, width, height, sizes ) => respImgShortcode( image, alt, className, width, height, sizes ) );
   eleventyConfig.addShortcode('excerpt', article => extractExcerpt(article));
 
   // Plugins
+  eleventyConfig.addPlugin( pluginSrcsetImg );
   eleventyConfig.addPlugin(svgContents);
 
   // Copy files
@@ -64,10 +60,6 @@ module.exports = function(eleventyConfig) {
       return (reducedKey.indexOf(value) == -1 ? false : item);
     });
   });
-
-
-  eleventyConfig.addTransform("respImgAuto", respImgAuto);
-
 
   eleventyConfig.setLiquidOptions({
     dynamicPartials: false,

@@ -6,12 +6,25 @@
 
 require('typesplit');
 
-let heroSplit = new SplitType('.home-hero__title', { split: 'lines', tagName: 'span' });
-let projectsSplit = new SplitType('.project__title', { split: 'lines', tagName: 'span' });
+document.documentElement.classList.remove('no-js');
+
+let heroSplit;
+let projectsSplit;
+
+window.addEventListener('DOMContentLoaded', ()=>{
+  let heroSplit = new SplitType('.home-hero__title', { split: 'lines', tagName: 'span' });
+  let projectsSplit = new SplitType('.project__title', { split: 'lines', tagName: 'span' });
+  document.documentElement.classList.add('ready');
+});
 
 window.addEventListener('resize', ()=>{
-  heroSplit.revert();
-  projectsSplit.revert();
+  if(heroSplit) {
+    heroSplit.revert();
+  }
+  if(projectsSplit) {
+    projectsSplit.revert();
+  }
+
   new SplitType('.home-hero__title', { split: 'lines', tagName: 'span' });
   new SplitType('.project__title', { split: 'lines', tagName: 'span' });
 });
