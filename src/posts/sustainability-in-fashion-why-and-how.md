@@ -666,7 +666,7 @@ image_alt: Photo courtesy of Leeds Community Clothes Exchange
 
 We’re focusing on fashion, clothing and textiles in 2020. Why? A new [report](https://www.wrap.org.uk/sites/files/wrap/Textiles%20market%20situation%20report%202019.pdf) from waste reduction charity [WRAP](https://www.wrap.org.uk/sustainable-textiles) shows a 10% increase in the amount of clothing that is getting thrown away.  In just two years an extra 36,000 tonnes of clothing ended up in our black bins!
 
-Public awareness of the perils of fast fashion on the environment is an all time high and yet this isn’t translating into the kind of changes we need. The reasons for this will be varied and complex but the rise of consumerist fast fashion certainly plays a big role. 
+Public awareness of the perils of fast fashion on the environment is at an all time high and yet this isn’t translating into the kind of changes we need. The reasons for this will be varied and complex but the rise of consumerist fast fashion certainly plays a big role. 
 
 The lure of cheap clothing made at high volumes has been enticing us for years. Unfortunately this equates to poorly made clothes, questionable labour, waste and pollution. We also don’t value this type of clothing in the same way which means we’re more likely to throw it away, rather than recycle, repair or offer it for reuse.
 
