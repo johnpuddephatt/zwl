@@ -16,6 +16,14 @@
       "link": "https://www.zerowasteleeds.org.uk/posts/zero-waste-fashion/"
     }
   ],
+  "ideas": {
+    "title": "Get involved",
+    "subtitle": ""
+  },
+  "tips": {
+    "title": "Ways to waste less in Leeds",
+    "subtitle": ""
+  },
   "hire": {
     "title": "Need help? \n Hire us!",
     "description": "We know there are lots of organisations in Leeds who want to reduce their waste or help the people they work with reduce theirs.\n\nThat’s something we can help with. We support businesses, event organisers, schools and communities on their zero waste journey.",
@@ -23,6 +31,10 @@
       "text": "Talk to us",
       "url": "mailto:info@zerowasteleeds.org.uk"
     }
+  },
+  "blog": {
+    "title": "Our thinking",
+    "subtitle": ""
   },
   "join": {
     "title": "Join our movement",

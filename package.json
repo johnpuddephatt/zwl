@@ -1,5 +1,5 @@
 {
-  "name": "yorspace11ty",
+  "name": "zwl",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -40,5 +40,7 @@
     "typesplit": "^1.0.0",
     "vue-template-compiler": "^2.6.10"
   },
-  "dependencies": {}
+  "dependencies": {
+    "eleventy-plugin-srcset": "^0.1.13"
+  }
 }

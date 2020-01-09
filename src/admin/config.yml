@@ -16,7 +16,7 @@ collections:
         file: "/src/_data/home.json"
         fields:
           - {label: 'Title', name: 'title', widget: 'string' }
-          - label: Intro
+          - label: Intro section
             name: intro
             widget: object
             fields:
@@ -29,7 +29,19 @@ collections:
               - { label: 'Title', name: 'title', widget: 'string' }
               - {label: 'Description', name: 'description', widget: 'text' }
               - { label: 'Link', name: 'link', widget: 'string' }
-          - label: Hire
+          - label: New ideas section
+            name: ideas
+            widget: object
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: Subtitle, name: subtitle, widget: string, required: false }
+          - label: Tips section
+            name: tips
+            widget: object
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: Subtitle, name: subtitle, widget: string, required: false }
+          - label: Hire section
             name: hire
             widget: object
             fields:
@@ -41,7 +53,13 @@ collections:
                 fields:
                   - { label: 'Text', name: 'text', widget: 'string' }
                   - { label: 'URL', name: 'url', widget: 'string' }
-          - label: Join
+          - label: Blog section
+            name: blog
+            widget: object
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: Subtitle, name: subtitle, widget: string, required: false }
+          - label: Join section
             name: join
             widget: object
             fields:
