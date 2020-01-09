@@ -14,9 +14,9 @@
       render: function() {
         var entry = this.props.entry;
         var image = entry.getIn(['data', 'image']);
-        console.log('image:' + image);
-
         var bg = this.props.getAsset(image);
+        console.log('image:' + bg);
+        
         return h('div', {className: "page-content"},
           h('div', {className: "container container__narrow"},
             h('h1', {className: "page-title"}, entry.getIn(['data', 'title']))
