@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Join our fashion revolution
 intro: >-
   We’re buying and throwing away more clothes than ever before and it’s costing
-  our planet dearly.  See how you can join us to make a change.
+  our planet dearly.  Join us to make a change.
 date: 2020-01-09T14:31:28.146Z
 image: /uploads/Fashion photo2.jpg
 ---
