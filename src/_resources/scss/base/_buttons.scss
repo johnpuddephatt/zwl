@@ -66,3 +66,7 @@ $_button-background-color-hover: shade($action-color, 20%);
   background-color: white;
   color: $black;
 }
+
+.button__read-more {
+  margin: 2 * $base-spacing auto 0;
+}

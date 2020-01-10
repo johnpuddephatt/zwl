@@ -63,8 +63,7 @@ title: Home
             <p>If there’s an issue in Leeds you think we should look into, <a href="mailto:info@zerowasteleeds.org.uk">tell us about it</a>.</p>
           </div>
         </div>
-        {% for pipeline in collections.pipeline | reverse -%}
-          {% if loop.index0 > 0 and loop.index0 < 3 %}
+        {% for pipeline in collections.pipeline | reverse | slice(1,3) -%}
             <div class="pipeline__item">
               <a href="{{ pipeline.url }}" class="pipeline__image">
                 {% srcset pipeline.data.image, collections.pipeline[0].data.image_alt, "thinking__item__image", 360, 202, "(min-width: 1120px) 310px, 30vw" %}
@@ -77,7 +76,6 @@ title: Home
                 </div>
               </div>
             </div>
-          {% endif %}
         {% endfor %}
       </div>
 
@@ -90,7 +88,7 @@ title: Home
   {% if home.tips.subtitle %}<p class="section-subtitle">{{ home.tips.subtitle}}</p>{% endif %}
 
   <div class="container">
-    {% for tip in collections.tips.reverse().slice(0,3)-%}
+    {%- for tip in collections.tips | limit(3) -%}
     <div class="home-tips__article">
       <a href="{{tip.url}}" class="home-tips__image">
         {% srcset tip.data.image, tip.data.image_alt, null, 300, 300, "(min-width: 1120px) 300px, 25vw" %}
@@ -101,7 +99,10 @@ title: Home
         <a class="button type-{{loop.index + 2}}" href="{{ tip.url }}">Read more</a>
       </div>
     </div>
-    {% endfor %}
+    {%- endfor -%}
+
+    <a href="/tips/" class="button button__read-more button__large type-3">See more of our waste reducing tips</a>
+
   </div>
 </section>
 
@@ -131,7 +132,7 @@ title: Home
       <a class="button type-5" href="{{ featuredPost.url}}">Learn more</a>
     </div>
     <div class="thinking__sidebar">
-      {% for post in collections.posts.reverse().slice(1,4) -%}
+      {% for post in collections.posts | reverse | slice(1,4) -%}
       <div class="thinking__item">
         <a href="{{ post.url }}" class="thinking__item__image">
           {% srcset post.data.image, featuredPost.data.image_alt, "thinking__item__image", 320, 240, "(min-width: 1120px) 172px, 30vw" %}
@@ -145,4 +146,6 @@ title: Home
       {% endfor %}
     </div>
   </div>
+  <a href="/blog/" class="button button__read-more button__large type-4">See more of our thinking</a>
+
 </section>

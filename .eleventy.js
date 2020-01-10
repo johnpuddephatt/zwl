@@ -61,6 +61,15 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  eleventyConfig.addNunjucksFilter("limit", function(arr, limit) {
+    return arr.slice(0, limit);
+  });
+
+  eleventyConfig.addNunjucksFilter("slice", function(arr, start, end) {
+    return arr.slice(start, end);
+  });
+
+
   eleventyConfig.setLiquidOptions({
     dynamicPartials: false,
     root: [
@@ -99,14 +108,12 @@ function extractExcerpt(article) {
   const content = article.templateContent || 'foo';
 
   // The start and end separators to try and match to extract the excerpt
-
-
   const startPosition = content.indexOf('<p>');
   const endPosition = content.indexOf('</p>');
   const excerptLength = 100;
 
   if (startPosition !== -1 && endPosition !== -1) {
-    excerpt = content.substring(startPosition + 3, endPosition).trim().substring(0,excerptLength) + '...';
+    excerpt = content.substring(startPosition, endPosition).replace(/(<([^>]+)>)/ig,"").trim().substring(0,excerptLength) + '...';
   }
   else {
     excerpt = '';
