@@ -30,7 +30,7 @@
   z-index: 9;
   font-family: $base-font-family;
   letter-spacing: 0;
-  font-size: modular-scale(2);
+  font-size: modular-scale(3);
   text-align: center;
   max-width: 24em;
   padding: $base-spacing 0;
@@ -57,33 +57,14 @@
     background-color: white;
     clip-path: polygon(1% 6%, 97% 0%, 100% 100%, 1% 92%);
     &:nth-child(2) {
-      animation-delay: 1.5s;
-      clip-path: polygon(2% 1%, 100% 10%, 97% 100%, 1% 90%);
-      // span.word {
-      //   @for $i from 0 to 10 {
-      //     &:nth-child(#{$i + 1}) {
-      //        animation-delay: #{3000 + $i * 230}ms;
-      //     }
-      //   }
-      // }
-    }
-    &:nth-child(2) {
       animation-delay: 2s;
       clip-path: polygon(4% 1%, 96% 5%, 95% 100%, 0% 90%);
     }
     &:nth-child(3) {
-      animation-delay: 2.5s;
+      animation-delay: 3s;
       clip-path: polygon(4% 5%, 98% 2%, 100% 90%, 0% 95%);
     }
   }
-  // span.word {
-  //   animation: fadeInHeroWord 1.5s 1s forwards;
-  //   @for $i from 0 to 10 {
-  //     &:nth-child(#{$i + 1}) {
-  //        animation-delay: #{1500 + $i * 230}ms;
-  //     }
-  //   }
-  // }
 }
 
 @keyframes fadeInHeroLine {

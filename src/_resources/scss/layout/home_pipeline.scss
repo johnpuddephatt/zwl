@@ -141,6 +141,8 @@
       }
     }
     .button {
+        font-size: modular-scale(1);
+        padding: $small-spacing $base-spacing;
       @media screen and (min-width: $medium-screen) {
         margin-top: $small-spacing;
         margin-right: auto;
