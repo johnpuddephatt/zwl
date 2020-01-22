@@ -2,15 +2,14 @@
 layout: layouts/post.njk
 title: Zero Waste Fashion
 date: 2019-12-17T14:53:37.629Z
-image: /uploads/Screen Shot 2020-01-07 at 23.25.54.png
+image: /uploads/Zero Waste project logo.jpg
 image_alt: Leeds Community Clothing Exchange
 ---
 We have recently started a project working with the [School of Design](https://ahc.leeds.ac.uk/design/staff/458/dr-pammi-sinha) at the University of Leeds and [Leeds City Council,](https://www.leeds.gov.uk/residents/bins-and-recycling) looking at issues around textiles, clothing and fashion.
 
 One key area of work is around understanding what people currently do with clothing that they no longer need. We want to make it as easy as possible for people to donate clothing that’s still in good condition - and we also want to make sure that people know what their options are for disposing of clothing that’s no longer in good condition.
 
-For starters, we have developed a Zero Waste Fashion [website](https://zerowastefashion.fashion.blog/) with tips on where to recycle, reuse, repair and upcycle clothing and textiles in Leeds. This includes a [map](https://www.google.com/maps/d/u/1/viewer?hl=en&mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&ll=53.83676365656107%2C-1.5013154999999188&z=11) of all the textile banks, charity shops, repair shops, sewing classes and clothes exchanges in Leeds. If you spot any places we have missed or have any ideas for the site please [get in touch](rob@zerowasteleeds.org.uk)!
-
+For starters, we have developed a Zero Waste Fashion [website](https://zerowastefashion.fashion.blog/) with tips on where to recycle, reuse, repair and upcycle clothing and textiles in Leeds. This includes a [map](https://www.google.com/maps/d/u/1/viewer?hl=en&mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&ll=53.83676365656107%2C-1.5013154999999188&z=11) of all the textile banks, charity shops, repair shops, sewing classes and clothes exchanges in Leeds. If you spot any places we have missed or have any ideas for the site please [get in touch](mailto:rob@zerowasteleeds.org.uk)!
 
 <iframe src="https://www.google.com/maps/d/embed?mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&hl=en" width="640" height="480"></iframe>
 
