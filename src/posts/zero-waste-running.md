@@ -13,4 +13,6 @@ Late last year, we held a workshop to get running clubs and race organisers in L
 
 All our work so far is on this [google doc](https://docs.google.com/document/d/1ALkA2RBOLoMuBF97xame14sS-yqzxTRp0Iuwd9GV_e0/edit?fbclid=IwAR3lHT-wsL3eBnrnAb8mVD40EerwJy6gYlFTlW-qqa1jQOhwvkX_hGa5AxU). We’re currently looking for funding and sponsorship to work more on this issue. [](https://docs.google.com/document/d/1ALkA2RBOLoMuBF97xame14sS-yqzxTRp0Iuwd9GV_e0?fbclid=IwAR3lHT-wsL3eBnrnAb8mVD40EerwJy6gYlFTlW-qqa1jQOhwvkX_hGa5AxU)
 
-![Zero Waste Leeds work with local running clubs and race organisers is featured in the latest edition of Runners World magazine](/uploads/Screen Shot 2020-02-03 at 10.16.47.png)
+
+
+![Zero Waste Running](/uploads/Screen Shot 2020-02-03 at 10.16.47.png)
