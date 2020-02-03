@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Our Zero Waste Running featured in Runners World magazine!
+title: Zero Waste Running featured in Runners World magazine!
 date: 2020-02-03T10:14:27.933Z
 image: /uploads/84404431_692802467944946_8708113533432233984_n.jpg
 image_alt: Zero Waste Running
