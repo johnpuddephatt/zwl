@@ -5,7 +5,9 @@ date: 2020-02-07T15:46:32.137Z
 image: /uploads/Screen Shot 2020-02-07 at 15.47.24.png
 image_alt: Zero Waste Valentine's
 ---
-Traditionally, February 14th has been a day to celebrate love. But Valentine's Day seems to have evolved into another excuse for consumerism, with negative impacts for the environment. So without ruining all the fun, how can we have a more sustainable Valentine's Day? 
+Traditionally, February 14th has been a day to celebrate love. But Valentine's Day seems to have evolved into another excuse for consumerism, with negative impacts for the environment. 
+
+So without ruining all the fun, how can we have a more sustainable Valentine's Day? 
 
 ### **Flowers**  
 
@@ -33,7 +35,7 @@ Around 8.7 million Valentine’s cards are bought a year in the UK alone, which 
 
 \--
 
-Find some more ideas and top tips for having a #ZeroWasteValentine's below:
+Find some more ideas and top tips for having a #ZeroWasteValentines below:
 
 <https://realsustainability.org/an-ethical-guide-to-valentines-day/>
 
