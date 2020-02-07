@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Zero Waste Valentine's
 date: 2020-02-07T15:46:32.137Z
 image: /uploads/Screen Shot 2020-02-07 at 15.47.24.png
-image_alt: Zero Waste Valentine's
+image_alt: Zero Waste Valentines
 ---
 Traditionally, February 14th has been a day to celebrate love. But Valentine's Day seems to have evolved into another excuse for consumerism, with negative impacts for the environment. 
 
