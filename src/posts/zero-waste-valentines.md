@@ -19,7 +19,7 @@ Many flowers are grown out of season in energy-intense greenhouses and imported 
 
 A lot of waste is created on Valentine's Day from unwanted gifts. And jewellery is often made in unfair conditions.
 
-*This year, why not get more creative with gift ideas. Could you could buy less, give experiences, upcycle, buy secondhand, make gifts or buy local/ethical gifts?*
+*This year, why not get more creative with gift ideas. Could you buy less, give experiences, upcycle, buy secondhand, make gifts or buy local/ethical gifts?*
 
 ### **Chocolates** 
 
