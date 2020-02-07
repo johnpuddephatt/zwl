@@ -2,18 +2,12 @@
 layout: layouts/post.njk
 title: Zero Waste Valentine's
 date: 2020-02-07T15:46:32.137Z
-image: /uploads/Screen Shot 2020-02-07 at 15.54.54.png
+image: /uploads/Screen Shot 2020-02-07 at 15.47.24.png
 image_alt: Zero Waste Valentine's
 ---
 Traditionally, February 14th has been a day to celebrate love. But Valentine's Day seems to have evolved into another excuse for consumerism, with negative impacts for the environment. 
 
 So without ruining the fun, how can we have a more sustainable Valentine's Day? 
-
-
-
-![Valentine's Day gifts](/uploads/Screen Shot 2020-02-07 at 16.23.25.png)
-
-
 
 
 
@@ -23,7 +17,7 @@ Many flowers are grown out of season in energy-intense greenhouses and imported 
 
 *Instead, could you buy a potted plant, Fairtrade or seasonal flowers, or even plant a tree?*
 
-### Gifts 
+### Gifts
 
 A lot of waste is created on Valentine's Day from unwanted gifts. And jewellery is often made in unfair conditions.
 
