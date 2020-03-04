@@ -15,7 +15,7 @@ We have developed a [Zero Waste Fashion website](https://zerowastefashion.fashio
 
 <br><iframe src="https://www.google.com/maps/d/embed?mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&hl=en" width="640" height="480"></iframe><br><br>
 
-We are planning a **Zero Waste Fashion Hack** on the 31st March 2020 at the University of Leeds, and are organising a **Zero Waste Fashion Week** (17th-25th April 2020), exploring the following themes: 
+We are planning a **Zero Waste Fashion Hack** on the 31st March 2020 at the University of Leeds, and are organising a **Zero Waste Fashion Week** (17th-24th April 2020), exploring the following themes: 
 
 <br>- Sharing practical ways for people in Leeds to manage the impacts of their clothing choices;
 
