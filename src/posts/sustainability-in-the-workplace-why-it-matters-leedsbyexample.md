@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: 'Sustainability in the workplace. Why it matters. #LeedsbyExample'
+title: Sustainability in the workplace. Why it matters
 date: 2020-03-06T11:05:53.206Z
 image: /uploads/business1.jpg
 ---
