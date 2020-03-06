@@ -681,6 +681,4 @@ From this month, we’ll be out visiting businesses across Leeds. We’re alread
 
 **If you work in the city and would like us to visit your organisation, [GET IN TOUCH. ](info@zerowasteleeds.org.uk)**
 
-\*[ISO 14001](https://www.iso.org/iso-14001-environmental-management.html) refers to the tools, standards and management systems that organisations can use to manage their responsibilities to the environment.
-
 <!--EndFragment-->
