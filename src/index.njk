@@ -88,7 +88,7 @@ title: Home
   {% if home.tips.subtitle %}<p class="section-subtitle">{{ home.tips.subtitle}}</p>{% endif %}
 
   <div class="container">
-    {%- for tip in collections.tips | limit(3) -%}
+    {%- for tip in collections.tips | reverse | limit(3) -%}
     <div class="home-tips__article">
       <a href="{{tip.url}}" class="home-tips__image">
         {% srcset tip.data.image, tip.data.image_alt, null, 300, 300, "(min-width: 1120px) 300px, 25vw" %}

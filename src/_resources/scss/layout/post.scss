@@ -52,6 +52,17 @@
     font-weight: 700;
     text-transform: none;
   }
+  ul,ol {
+    margin: $base-spacing 0;
+  }
+  li {
+    list-style-type: disc;
+    margin-left: 1.5 * $base-spacing;
+  }
+  li + li {
+    margin-top: $small-spacing;
+  }
+
 }
 
 .ideas-link {
