@@ -8,13 +8,13 @@ We’re building a movement to help make Leeds a zero waste city by 2030.  We do
 
 We inhabit the space between local government, business, education, communities and individuals who want to work with us to create a more sustainable way of life.  Our aim is to inspire more people to waste less and reuse and recycle more.
 
-You can find out more about who we work with below.
+Everything we do is collaborative and in partnership with others.
 
 ## Our partners and funders
 
 We’re proud to have partnered with these local and national organisations on one or more of our projects.
 
-{% include partials/supporters %}
+{% include widgets/supporters %}
 
 ## Support us
 
