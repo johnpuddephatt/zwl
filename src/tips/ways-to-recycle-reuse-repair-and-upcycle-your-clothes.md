@@ -4,13 +4,13 @@ title: 'Ways to recycle, reuse, repair and upcycle your clothes '
 date: 2020-03-09T16:39:45.576Z
 image: /uploads/Fashion photo.jpg
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -49,9 +49,9 @@ image: /uploads/Fashion photo.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -630,9 +630,9 @@ image: /uploads/Fashion photo.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -659,7 +659,7 @@ image: /uploads/Fashion photo.jpg
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -669,7 +669,7 @@ We’ve marked all the ways to recycle, reuse, repair and upcycle your clothes i
 
 Here are some things to consider when thinking about your wardrobe and ways to avoid waste and be more sustainable.
 
-* One of the best things you can do is to buy fewer and better quality clothes that last more than just a few seasons. Fast fashion means high volumes, low prices, cheap imitations, and production and retail speed equates to poorly made clothes, often questionable labour, waste and pollution.
+* One of the best things you can do is to buy fewer and better quality clothes that last more than just a few seasons.  Fast fashion means high volumes, low prices, cheap imitations, and production and retail speed equates to poorly made clothes, often questionable labour, waste and pollution.
 * Wash your clothes less and use cool water to save energy and lengthen the life of the fabrics.
 * Choose clothes made from natural fibres and limit synthetic materials which are more difficult to recycle and more complex to degrade.
 * Visit a sewing shop to get clothes mended or to refashion existing clothes.Even better learn to do it yourself!
@@ -678,7 +678,5 @@ Here are some things to consider when thinking about your wardrobe and ways to a
 * Try to avoid garments that use a combination of textiles, metals and plastics such as zips, studs, poppers, buttons, stones, furs, synthetic and natural fibres.
 
 FInd out more about our [Zero Waste Fashion week](https://zerowastefashion.fashion.blog/fashion-week/) - a series of events to celebrate the rich textile, fashion and clothing history of Leeds and explore how we can lead the world again but in a more sustainable way.
-
-
 
 <!--EndFragment-->
