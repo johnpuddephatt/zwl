@@ -20,4 +20,4 @@ Our aim is to replicate the success of #LeedsbyExample on-the-go recycling to al
 
 From this month, we’ll be out visiting businesses across Leeds. We’re already working with Direct Line Insurance, True North TV, Hays Recruitment, Bruntwood and others.
 
-**If you work in the city and would like us to visit your organisation, [GET IN TOUCH](mailto:admin@zerowasteleeds.org.uk).**
+**If you work in the city and would like us to visit your organisation, [GET IN TOUCH](mailto:info@zerowasteleeds.org.uk).**
