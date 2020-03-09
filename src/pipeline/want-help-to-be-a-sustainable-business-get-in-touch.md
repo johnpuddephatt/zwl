@@ -7,13 +7,13 @@ intro: >-
 date: 2020-03-09T12:09:01.487Z
 image: /uploads/business1.jpg
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -52,9 +52,9 @@ image: /uploads/business1.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -633,9 +633,9 @@ image: /uploads/business1.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -662,7 +662,7 @@ image: /uploads/business1.jpg
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -670,8 +670,8 @@ We’re visiting businesses across Leeds to help them become more environmentall
 
 Our aim is to replicate the success of #LeedsbyExample on-the-go recycling to all aspects of sustainability in the workplace from supply chain/procurement, energy and water to travel, catering, waste and recycling.
 
-There’s a reason why businesses are taking this seriously and why we think it's important.  [Read more](https://www.zerowasteleeds.org.uk/posts/sustainability-in-the-workplace-why-it-matters-leedsbyexample/) here.
+There’s a reason why businesses are taking this seriously and why we think it's important.   [Read more](https://www.zerowasteleeds.org.uk/posts/sustainability-in-the-workplace-why-it-matters-leedsbyexample/) here.
 
-[GET IN TOUCH](https://www.zerowasteleeds.org.uk/posts/sustainability-in-the-workplace-why-it-matters-leedsbyexample/info@zerowasteleeds.org.uk) if you work in the city and would like to discuss how we can help your organisation.   
+[GET IN TOUCH](mailto:info@zerowasteleeds.org.uk) if you work in the city and would like to discuss how we can help your organisation.   
 
 <!--EndFragment-->
