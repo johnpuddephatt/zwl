@@ -71,6 +71,7 @@ collections:
         fields:
           - widget: list
             label: 'Supporters'
+            name: 'supporters'
             fields:
               - { label: 'Name', name: 'name', widget: 'string' }
               - {label: 'Logo', name: 'logo', widget: 'image' }
