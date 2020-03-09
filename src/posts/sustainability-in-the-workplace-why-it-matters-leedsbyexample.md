@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Sustainability in the workplace. Why it matters
 date: 2020-03-06T11:05:53.206Z
-image: /uploads/business1.jpg
+image: /uploads/website-pic.jpg
 ---
 The success of #LeedsbyExample city centre on-the-go recycling was incredible. Recycling rates in the city nearly tripled from 17% to 49% and it’s being used as the template for other UK cities.
 
