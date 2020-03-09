@@ -4,13 +4,13 @@ title: Sustainability in the workplace. Why it matters
 date: 2020-03-06T11:05:53.206Z
 image: /uploads/business1.jpg
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -49,9 +49,9 @@ image: /uploads/business1.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -630,9 +630,9 @@ image: /uploads/business1.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -659,7 +659,7 @@ image: /uploads/business1.jpg
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -679,6 +679,6 @@ Our aim is to replicate the success of #LeedsbyExample on-the-go recycling to al
 
 From this month, we’ll be out visiting businesses across Leeds. We’re already working with Direct Line Insurance, True North TV, Hays Recruitment, Bruntwood and others.
 
-**If you work in the city and would like us to visit your organisation, [GET IN TOUCH. ](info@zerowasteleeds.org.uk)**
+**If you work in the city and would like us to visit your organisation, email suzanne@zerowasteleeds.org.uk** 
 
 <!--EndFragment-->
