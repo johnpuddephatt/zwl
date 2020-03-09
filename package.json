@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "npm run webpack:development",
-    "wepback:development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "webpack:development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
     "webpack:watch": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --watch --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
     "webpack:hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
     "prod": "run-s webpack:production 11ty:production",

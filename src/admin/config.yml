@@ -65,6 +65,13 @@ collections:
             fields:
               - { label: 'Title', name: 'title', widget: 'string' }
               - {label: 'Description', name: 'description', widget: 'markdown' }
+          - label: Supporters
+            name: supporters
+            file: "/src/_data/supporters.json"
+            widget: object
+            fields:
+              - { label: 'Name', name: 'name', widget: 'string' }
+              - {label: 'Logo', name: 'logo', widget: 'image' }
   - name: 'pipeline'
     label: 'In the pipeline'
     folder: 'src/pipeline'
@@ -105,4 +112,15 @@ collections:
       - { label: 'Date', name: 'date', widget: 'datetime', dateFormat: 'Do MMM YYYY', timeFormat: false }
       - { label: 'Image', name: 'image', widget: 'image' }
       - { label: 'Image alt text', name: 'image_alt', widget: 'string', required: false}
+      - { label: 'Description', name: 'body', widget: 'markdown'}
+  - name: 'pages'
+    label: 'Pages'
+    folder: 'src/pages'
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { name: 'layout', widget: 'hidden', default: 'layouts/page.njk' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'datetime', dateFormat: 'Do MMM YYYY', timeFormat: false }
       - { label: 'Description', name: 'body', widget: 'markdown'}

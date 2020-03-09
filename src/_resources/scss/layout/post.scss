@@ -40,6 +40,18 @@
     margin: $base-spacing 0;
     font-weight: 600;
   }
+  h2, h3 {
+    margin-top: 2 * $base-spacing;
+    margin-bottom: $base-spacing;
+  }
+  h2 {
+    font-size: modular-scale(2);
+  }
+  h3 {
+    font-family: $base-font-family;
+    font-weight: 700;
+    text-transform: none;
+  }
 }
 
 .ideas-link {
