@@ -1,21 +1,14 @@
-{% extends "extends/page.njk" %}
+---
+layout: /layouts/base.njk
+---
+<div class="page-content">
 
+  <div class="container container__narrow">
+    <h1 class="page-title">{{ title }}</h1>
+  </div>
 
-{% block headStyles %}
-    {% include "partials/styles.njk" %}
-{% endblock %}
-
-{% block headMisc %}
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="apple-touch-icon" href="/assets/img/icon.png">
-{% endblock %}
-
-{% block body %}
-    {{ super() }}
-
+  <div class="page-body container container__narrow">
     {{ content | safe }}
-{% endblock %}
+  </div>
 
-{% block bodyScripts %}
-    {% include "partials/scripts.njk" %}
-{% endblock %}
+</div>

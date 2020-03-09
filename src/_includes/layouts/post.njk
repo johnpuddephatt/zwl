@@ -7,11 +7,13 @@ layout: /layouts/base.njk
     <h1 class="page-title">{{ title }}</h1>
   </div>
 
-  <div class="page-image-container">
-    <div class="container container__narrow">
-      {% srcset image, image_alt, "post__image", 640, 360, "(min-width: 1120px) 1120px, 100vw" %}
+  {% if image %}
+    <div class="page-image-container">
+      <div class="container container__narrow">
+        {% srcset image, image_alt, "post__image", 640, 360, "(min-width: 1120px) 1120px, 100vw" %}
+      </div>
     </div>
-  </div>
+  {% endif %}
 
   <div class="page-body container container__narrow">
     {{ content | safe }}

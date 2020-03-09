@@ -34,9 +34,12 @@ module.exports = function(eleventyConfig) {
     return collection.getFilteredByGlob('./src/pipeline/*.md');
   });
 
-  eleventyConfig.addCollection('discussions', collection => {
-    return collection.getFilteredByGlob('./src/discussions/*.md');
+  eleventyConfig.addCollection('pages', collection => {
+    return collection.getFilteredByGlob('./src/pages/*.md');
   });
+
+  eleventyConfig.addLayoutAlias('supporters', 'partials/supporters.html');
+
 
   eleventyConfig.addFilter('where', function (array, key, value) {
     return array.filter(item => {
