@@ -666,7 +666,9 @@ image: /uploads/business1.jpg
 
 <!--StartFragment-->
 
-We’re visiting businesses across Leeds to help them become more environmentally sustainable.  We’re already working with Direct Line Insurance, True North TV, Hays Recruitment, Bruntwood and others.
+We’re visiting businesses across Leeds to help them become more environmentally sustainable.  
+
+We’re already working with Direct Line Insurance, True North TV, Hays Recruitment, Bruntwood and others.
 
 Our aim is to replicate the success of #LeedsbyExample on-the-go recycling to all aspects of sustainability in the workplace from supply chain/procurement, energy and water to travel, catering, waste and recycling.
 
