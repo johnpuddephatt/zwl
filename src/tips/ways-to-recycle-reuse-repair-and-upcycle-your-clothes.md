@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: 'Ways to recycle, reuse, repair and upcycle your clothes '
+title: 'Recycle, reuse, repair and upcycle your clothes '
 date: 2020-03-09T16:39:45.576Z
 image: /uploads/Fashion photo.jpg
 ---
