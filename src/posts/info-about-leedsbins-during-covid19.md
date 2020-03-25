@@ -8,6 +8,8 @@ During the current Covid-19 outbreak, we are pausing the rest of our work and fo
 
 To keep in touch with any changes to your bin collections, please visit [the Council's website](https://www.leeds.gov.uk/residents/bins-and-recycling).  You can also keep up to date by following the Council's Leeds Recycles accounts on [Twitter](https://twitter.com/leedsrecycles) and [Facebook](https://www.facebook.com/LeedsRecycles/).  
 
+You can also sign up for an email alert when there are any changes to bin collections - [here on the Council website](https://public.govdelivery.com/accounts/UKLEEDS/subscriber/new?topic_id=UKLEEDS_3).  
+
 We will also be sharing Council updates, and sharing other relevant news on our social media - please follow us on [Facebook](https://www.facebook.com/zerowasteleeds/), [Twitter](https://twitter.com/zerowasteleeds) and [Instagram](https://www.instagram.com/zerowasteleeds/).  
 
 The hashtag #LeedsBins will be used for updates to bin collection services in Leeds.
