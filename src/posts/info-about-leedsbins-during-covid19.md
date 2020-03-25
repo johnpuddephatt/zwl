@@ -12,6 +12,8 @@ You can also sign up for an email alert when there are any changes to bin collec
 
 We will also be sharing Council updates, and sharing other relevant news on our social media - please follow us on [Facebook](https://www.facebook.com/zerowasteleeds/), [Twitter](https://twitter.com/zerowasteleeds) and [Instagram](https://www.instagram.com/zerowasteleeds/).  
 
+We'll also be posting regular video updates on [our YouTube channel](https://www.youtube.com/watch?v=4Z1XbKQe5I0&list=PLcImqkHEpk0q4hYF9BzvWl4wsX6illXyD).  
+
 The hashtag #LeedsBins will be used for updates to bin collection services in Leeds.
 
 Alongside sharing important information about services, we will also be sharing lots of waste reduction tips and ideas over the coming weeks.  
