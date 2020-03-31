@@ -16,3 +16,5 @@ We're sharing one film a day in the run up to Christmas, and so far we've had fi
 You can see each of the films as they come out by [following us on Facebook](https://www.facebook.com/zerowasteleeds/), or by subscribing to [our YouTube channel](https://www.youtube.com/playlist?list=PLcImqkHEpk0pB_bvCe8dLyhwYma2pn3zg).
 
 We are SO grateful for the time and expertise that the team at [True North](https://www.truenorth.tv/) have so generously offered to this project - and we hope you like the films as much as we do!
+
+![](/uploads/screenshot-2020-02-21-at-15.49.40.jpg)
