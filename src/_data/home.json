@@ -1,10 +1,10 @@
 {
   "hero" : {
-    "link_text": "See what Coronavirus means for waste and recyling in Leeds »",
+    "link_text": "See the latest updates on bins, waste and recycling »",
     "link_href": "#home-intro"
   },
   "intro": {
-    "title": "COVID-19: info on bins, waste and recycling in Leeds",
+    "title": "COVID-19: info on bins, waste and recycling",
     "description": "Our other work is on hold for the next few weeks while we focus on supporting the Council to spread the word out about bin collections, recycling and waste reduction.\n\nFor the latest on bin collections, [visit the Council's website](https://www.leeds.gov.uk/residents/bins-and-recycling) or follow the Council's Leeds Recycles accounts on [Twitter](https://twitter.com/leedsrecycles) and [Facebook](https://www.facebook.com/LeedsRecycles/). We'll be posting regular updates on our [Facebook](https://www.facebook.com/zerowasteleeds/), [Twitter](https://twitter.com/zerowasteleeds) and [Instagram](https://www.instagram.com/zerowasteleeds/) accounts."
   },
   "projects": [

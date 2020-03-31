@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Zero Waste Leeds on BBC Look North
+title: Zero Waste Leeds returns to BBC Look North
 date: 2019-12-19T13:33:10.804Z
 image: /uploads/28448.jpg
 image_alt: Gill from Zero Waste Leeds at BBC Look North
