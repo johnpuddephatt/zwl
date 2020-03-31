@@ -17,4 +17,4 @@ You can see each of the films as they come out by [following us on Facebook](htt
 
 We are SO grateful for the time and expertise that the team at [True North](https://www.truenorth.tv/) have so generously offered to this project - and we hope you like the films as much as we do!
 
-![](/uploads/screenshot-2020-02-21-at-15.49.40.jpg)
+![]()
