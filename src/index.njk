@@ -5,20 +5,22 @@ title: Home
 <section class="section__home-hero">
   <div class="container">
     <h1 class="home-hero__title">
-      {{ home.title }}
+      {{ site.description  }}
     </h1>
+    {% if home.hero.link_text %}<a class="home-hero__link" href="{{ home.hero.link_href}}">{{ home.hero.link_text }}</a>{% endif %}
     {% include "zero.svg" %}
+
   </div>
 </section>
 
-<section class="section__home-intro">
+<section class="section__home-intro" id="home-intro">
   <div class="container">
     <div class="intro__copy">
       <h2 class="intro__title">{{ home.intro.title }}</h2>
       {{ home.intro.description | markdownify | safe }}
     </div>
 
-    <div class="intro__projects">
+    <div class="intro__projects" id="home-projects">
       {% for project in home.projects %}
         <div class="intro__project">
           <h3 class="project__title">{{ project.title }}</h3>
@@ -34,7 +36,7 @@ title: Home
   </div>
 </section>
 
-<section class="section__home-pipeline">
+<section class="section__home-pipeline" id="home-pipeline">
 
   <h2 class="section-title">{{ home.ideas.title }}</h2>
   {% if home.ideas.subtitle %}<p class="section-subtitle">{{ home.ideas.subtitle}}</p>{% endif %}
@@ -83,7 +85,7 @@ title: Home
 </section>
 
 
-<section class="section__home-tips">
+<section class="section__home-tips" id="home-tips">
   <h2 class="section-title">{{ home.tips.title }}</h2>
   {% if home.tips.subtitle %}<p class="section-subtitle">{{ home.tips.subtitle}}</p>{% endif %}
 
@@ -106,7 +108,7 @@ title: Home
   </div>
 </section>
 
-<section class="section__home-hire">
+<section class="section__home-hire" id="home-hire">
   <div class="container">
     {% include "hire.svg" %}
     <div class="hire__text">
@@ -117,14 +119,14 @@ title: Home
   </div>
 </section>
 
-<section class="section__home-thinking">
+<section class="section__home-thinking" id="home-thinking">
   <h2 class="section-title">{{ home.blog.title }}</h2>
   {% if home.blog.subtitle %}<p class="section-subtitle">{{ home.blog.subtitle}}</p>{% endif %}
 
   <div class="container">
     {% set featuredPost = collections.posts | reverse | first %}
     <div class="thinking__featured-item">
-      <a href="{{ post.url }}" class="thinking__item__image">
+      <a href="{{ featuredPost.url }}" class="thinking__item__image">
           {% srcset featuredPost.data.image, featuredPost.data.image_alt, "thinking__item__image", 640, 360, "(min-width: 1120px) 536px, 100vw" %}
       </a>
       <h3 class="thinking__item__title">{{ featuredPost.data.title }}</h3>

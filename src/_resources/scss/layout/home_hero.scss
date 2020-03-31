@@ -32,7 +32,7 @@
   letter-spacing: 0;
   font-size: modular-scale(3);
   text-align: center;
-  max-width: 24em;
+  max-width: 20em;
   padding: $base-spacing 0;
   margin: 0 (-$base-spacing);
 
@@ -57,13 +57,29 @@
     background-color: white;
     clip-path: polygon(1% 6%, 97% 0%, 100% 100%, 1% 92%);
     &:nth-child(2) {
-      animation-delay: 2s;
+      animation-delay: 1.5s;
       clip-path: polygon(4% 1%, 96% 5%, 95% 100%, 0% 90%);
     }
     &:nth-child(3) {
-      animation-delay: 3s;
+      animation-delay: 2.5s;
       clip-path: polygon(4% 5%, 98% 2%, 100% 90%, 0% 95%);
     }
+  }
+}
+
+.home-hero__link {
+  color: white;
+  display: block;
+  max-width: 15em;
+  font-size: modular-scale(1);
+  text-align: center;
+  text-decoration: none;
+  line-height: $heading-line-height;
+  margin: $small-spacing auto (-2 * $base-spacing);
+  position: relative;
+  z-index: 999;
+  &:hover {
+    color: white;
   }
 }
 

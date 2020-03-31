@@ -1,18 +1,21 @@
 {
-  "title": "Scroll down the page for latest info on bin collections, recycling & waste reduction #LeedsBins",
+  "hero" : {
+    "link_text": "See what Coronavirus means for waste and recyling in Leeds »",
+    "link_href": "#home-intro"
+  },
   "intro": {
-    "title": "COVID-19 - information about bins, waste and recycling in Leeds",
-    "description": "During the next few weeks the rest of our work is on hold and we are focusing on supporting the Council to get messages out about bin collections, recycling and waste reduction.\n\nFor the latest info re bin collections, [visit the Council's website](https://www.leeds.gov.uk/residents/bins-and-recycling).  You can also follow the Council's Leeds Recycles accounts on [Twitter](https://twitter.com/leedsrecycles) and [Facebook](https://www.facebook.com/LeedsRecycles/).  \n\nWe'll be posting regular updates too on our [Facebook](https://www.facebook.com/zerowasteleeds/), [Twitter](https://twitter.com/zerowasteleeds) and [Instagram](https://www.instagram.com/zerowasteleeds/) accounts."
+    "title": "COVID-19: info on bins, waste and recycling in Leeds",
+    "description": "Our other work is on hold for the next few weeks while we focus on supporting the Council to spread the word out about bin collections, recycling and waste reduction.\n\nFor the latest on bin collections, [visit the Council's website](https://www.leeds.gov.uk/residents/bins-and-recycling) or follow the Council's Leeds Recycles accounts on [Twitter](https://twitter.com/leedsrecycles) and [Facebook](https://www.facebook.com/LeedsRecycles/). We'll be posting regular updates on our [Facebook](https://www.facebook.com/zerowasteleeds/), [Twitter](https://twitter.com/zerowasteleeds) and [Instagram](https://www.instagram.com/zerowasteleeds/) accounts."
   },
   "projects": [
     {
-      "title": "Bin collections in Leeds",
-      "description": "It's likely that bin collections will be disrupted in the coming weeks if Council staff are unable to report for work due to the COVID-19 outbreak.\n\nTo get the latest information from the Council about bin collections and other waste and recycling services, click on the Find Out More link, below which takes you to the Council's website. \n\n",
+      "title": "Changes to collections",
+      "description": "Bin collections could be disrupted in the coming weeks if Council staff can’t report for work due to the COVID-19 outbreak.\n\nUse the link below to get the latest collection and service updates from the Council. \n\n",
       "link": "https://www.leeds.gov.uk/residents/bins-and-recycling"
     },
     {
       "title": "Waste Reduction",
-      "description": "Alongside sharing the latest information about bin collections during the COVID-19 outbreak, we'll be using our social media to share ideas and top tips on waste reduction .  #binittogether\n\n",
+      "description": "Alongside sharing the latest information about bin collections during the COVID-19 outbreak, we'll be using our social media to share ideas and top tips on waste reduction. #binittogether\n\n",
       "link": "https://www.zerowasteleeds.org.uk/posts/info-about-leedsbins-during-covid19/"
     }
   ],
