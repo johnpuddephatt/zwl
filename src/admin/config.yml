@@ -35,6 +35,18 @@ collections:
             fields:
               - { label: Title, name: title, widget: string }
               - { label: Subtitle, name: subtitle, widget: string, required: false }
+          - label: Supporters section
+            name: supporters
+            widget: object
+            fields:
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - {label: 'Description', name: 'description', widget: 'markdown' }
+              - label: Link
+                name: link
+                widget: object
+                fields:
+                  - { label: 'Text', name: 'text', widget: 'string' }
+                  - { label: 'URL', name: 'url', widget: 'string' }
           - label: Tips section
             name: tips
             widget: object
