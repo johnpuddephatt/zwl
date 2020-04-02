@@ -80,10 +80,19 @@ title: Home
             </div>
         {% endfor %}
       </div>
-
   </div>
 </section>
 
+<section class="section__home-supporters" id="home-supporters">
+  <div class="container">
+    {% include "supporters.svg" %}
+    <div class="hire__text">
+      <h2 class="section-title">{{ home.supporters.title | nl2br | safe }}</h2>
+      {{ home.supporters.description | markdownify | safe}}
+      <a class="button button__large button__inverted type-4" href="{{ home.supporters.link.url }}">{{ home.supporters.link.text }}</a>
+    </div>
+  </div>
+</section>
 
 <section class="section__home-tips" id="home-tips">
   <h2 class="section-title">{{ home.tips.title }}</h2>

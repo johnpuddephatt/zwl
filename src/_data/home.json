@@ -23,6 +23,14 @@
     "title": "Get involved",
     "subtitle": ""
   },
+  "supporters": {
+    "title": "Our supporters",
+    "description": "We’re building a movement which means everything we do is collaborative and in partnership with others. Find out who we’re partnering with and who’s helping to fund our work here.",
+    "link": {
+      "text": "Read more",
+      "url": "/pages/supporters/"
+    }
+  },
   "tips": {
     "title": "Ways to waste less in Leeds",
     "subtitle": ""
