@@ -11,6 +11,16 @@
 {% block headMisc %}
     <link rel="manifest" href="/site.webmanifest">
     <link rel="apple-touch-icon" href="/assets/img/icon.png">
+
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    {% if image %}
+      <meta property="og:image" content="{{ site.url }}{{ image }}" />
+    {% else %}
+      <meta property="og:image" content="{{ site.url }}/assets/images/default-og.jpg" />
+    {% endif %}
+
 {% endblock %}
 
 {% block body %}
