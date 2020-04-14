@@ -21,7 +21,7 @@ date: 2020-04-14T11:28:15.750Z
 
 ### 8. Multiple entries are allowed if there are multiple posts
 
-### 9. Entry is by liking our page (if you haven’t already) and tagging a friend or sharing the post with someone on Facebook; OR by following our page (if you haven’t already) or sharing the post on Twitter. Or by following our page (if you haven't already) and tagging someone in the comments on Instagram.
+### 9. Entry is by liking our page (if you haven’t already) and tagging a friend or sharing the post with someone on Facebook; OR by following our page (if you haven’t already) and sharing the post on Twitter. Or by following our page (if you haven't already) and tagging someone in the comments on Instagram.
 
 ### 10. Any changes to the competition will be notified to entrants as soon as possible by the promoter.
 
