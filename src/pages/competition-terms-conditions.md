@@ -5,7 +5,7 @@ date: 2020-04-14T11:28:15.750Z
 ---
 <!--StartFragment-->
 
-### 1. The promoter is: Zero Waste Leeds whose registered office is at Micklethwaite House,70 Cross Green Lane, Leeds, LS9 0DG
+### 1. The promoter is: Zero Waste Leeds whose registered office is at Micklethwaite House, 70 Cross Green Lane, Leeds, LS9 0DG
 
 ### 2. Anyone connected in any way with the competition or helping to set up the competition shall not be permitted to enter the competition.
 
@@ -17,9 +17,9 @@ date: 2020-04-14T11:28:15.750Z
 
 ### 6. There are 2 prizes of compost bins
 
-### 7. Entrants must be over 18 years of age and live within the Leeds postcode area (pay Council Tax to Leeds City Council) 
+### 7. Entrants must be over 18 years of age and live within the Leeds postcode area (pay Council Tax to Leeds City Council)
 
-### 8. Multiple entries are allowed if there’s multiple posts
+### 8. Multiple entries are allowed if there are multiple posts
 
 ### 9. Entry is by liking our page (if you haven’t already) and tagging a friend or sharing the post with someone on Facebook; OR by following our page (if you haven’t already) or sharing the post on Twitter. Or by following our page (if you haven't already) and tagging someone in the comments on Instagram.
 
@@ -33,7 +33,7 @@ date: 2020-04-14T11:28:15.750Z
 
 ### 14. The winners will be notified via their social media account within five working days of the closing date. If the winner cannot be contacted or does not claim the prize within 48 hours of notification, we reserve the right to withdraw the prize from the winner and pick a replacement winner.
 
-### 15. The promoter will notify the winners and arrange for delivery of the prizes. Due to a high demand for compost bins, delivery may take up to 28 days. 
+### 15. The promoter will notify the winners and arrange for delivery of the prizes. Due to the current high demand for compost bins, delivery may take up to 28 days.
 
 ### 16. The promoter’s decision in respect of all matters to do with the competition will be final and no correspondence will be entered into.
 
@@ -44,7 +44,5 @@ date: 2020-04-14T11:28:15.750Z
 ### 19. The winner’s names will be announced on the Zero Waste Leeds social media sites.
 
 ### 22. By entering this competition, an entrant is indicating their agreement to be bound by these terms and conditions.
-
-
 
 <!--EndFragment-->
