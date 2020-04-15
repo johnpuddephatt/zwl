@@ -15,7 +15,7 @@ date: 2020-04-14T11:28:15.750Z
 
 ### 5. No responsibility can be accepted for entries not received for whatever reason.
 
-### 6. There are 2 prizes of compost bins
+### 6. There are 2 prizes of compost bins. The compost bins that are being offered as a prize are 220 litre black bins.
 
 ### 7. Entrants must be over 18 years of age and live within the Leeds postcode area (pay Council Tax to Leeds City Council)
 
