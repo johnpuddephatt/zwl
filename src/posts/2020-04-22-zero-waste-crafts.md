@@ -6,8 +6,6 @@ image: /uploads/evo0gr5uuaakc9c.jpeg
 ---
 Show us your Zero Waste Crafts! We'll make a collage of all the pictures you send - a nice memory from our coronavirus lockdown 🌈
 
-<br>
-
 ![](/uploads/evo0gmwumaankbp.jpeg)
 
 <br>
