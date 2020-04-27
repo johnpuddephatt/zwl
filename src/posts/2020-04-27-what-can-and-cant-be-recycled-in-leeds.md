@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: What can and can't be recycled in Leeds?!
 date: 2020-04-27T14:05:45.135Z
-image: /uploads/1c.png
+image: /uploads/canva-assorted-plastic-bottles.jpg
 ---
 If you've ever spent longer than necessary wondering whether the margarine tub, orange juice carton or crisp packet in your hand is recyclable or not, then you're definitely not alone. A study carried out a couple of years ago in the UK revealed that over 56% of people are confused about what can and can't be recycled which inevitably leads many to just give up.
 
@@ -12,9 +12,9 @@ On Wednesday 29th April, we're going to be joined by recycling expert Kathryn Ir
 
 We have also gathered all the information you need about what can and can't be recycled in Leeds below. 
 
+![](/uploads/1c.png)
+
 ## Plastics
-
-
 
 You CAN recycle:
 
@@ -28,11 +28,7 @@ You CAN recycle:
 
 ## Metals
 
-
-
 You CAN recycle:
-
-
 
 \- Metal cans - drink cans, food cans, pet food cans
 
@@ -46,8 +42,6 @@ You CAN recycle:
 
 ## Card and Paper
 
-
-
 You CAN recycle:
 
 \- Paper - junk mail, office paper, newspapers, magazines, telephone directories, paperback books
@@ -58,11 +52,9 @@ You CAN recycle:
 
 ![](/uploads/7c.png)
 
-## You can't recycle 
+## You can't recycle
 
 You CAN'T recycle (at home in your green bin):
-
-
 
 \- Glass
 
