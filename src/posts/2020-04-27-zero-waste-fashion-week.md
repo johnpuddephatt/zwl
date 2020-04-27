@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Zero Waste Fashion Week
+title: Zero Waste Fashion Week 2020
 date: 2020-04-27T10:50:55.361Z
 image: /uploads/zerowastefashionweek2020.png
 ---
