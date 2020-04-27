@@ -16,6 +16,12 @@ We are loving all of your pictures so far! Keep them coming in at info@zerowaste
 
 <br>
 
-![](/uploads/ev31xzewsaizh45.jpeg)
 
-![](/uploads/ev31xxmxqamwwy8.jpeg)
+
+![](/uploads/craft.png)
+
+Need some inspiration? Local artist Alison Gordon shares her tips for making some beautiful Zero Waste Crafts.
+
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/3A3BraYg3Kc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GqXZJqdCTPo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
