@@ -12,7 +12,7 @@ Show us your Zero Waste Crafts! We'll make a collage of all the pictures you sen
 
 We'd love to see and share what you and your children have made from stuff found around the house - anything that would normally be thrown in the bin. Egg and cereal boxes, cans, foil, cardboard, eggshells, whatever you find! Things in the garden too.
 
-We are loving all of your pictures so far! Keep them coming in at info@zerowasteleeds.org.uk
+We are loving all of your pictures so far! Keep them coming in [here](mailto:info@zerowasteleeds.org.uk).
 
 <br>
 
@@ -26,4 +26,6 @@ Need some inspiration? Local artist Alison Gordon shares her tips for making som
 
 <br><iframe width="560" height="315" src="https://www.youtube.com/embed/GqXZJqdCTPo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
-<br><iframe width="560" height="315" src="https://www.youtube.com/embed/07dDmfH3iDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/07dDmfH3iDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/P8-ZFukjBEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
