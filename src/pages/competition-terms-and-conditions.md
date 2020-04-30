@@ -9,11 +9,11 @@ date: 2020-04-30T16:16:42.920Z
 
 ### 3. There is no entry fee and no purchase necessary to enter this competition.
 
-### 4. Closing date for receipt of entries will be 10am on ??????. No further entries to the competition will be permitted after this time and date.
+### 4. Closing date for receipt of entries will be 10am on Friday 15 May. No further entries to the competition will be permitted after this time and date.
 
 ### 5. No responsibility can be accepted for entries not received for whatever reason.
 
-### 6. There are ?? prizes of ?????. 
+### 6. There is one prize of a cookery voucher. 
 
 ### 7. Entrants must be over 18 years of age and live within the Leeds postcode area (pay Council Tax to Leeds City Council)
 
@@ -27,11 +27,11 @@ date: 2020-04-30T16:16:42.920Z
 
 ### 12. No cash alternative to the prize will be offered. The prize is not transferable.
 
-### 13. Winner will be chosen at random. There will be ???? winners
+### 13. Winner will be chosen at random. There will be one winner. 
 
 ### 14. The winners will be notified via their social media account within five working days of the closing date. If the winner cannot be contacted or does not claim the prize within 48 hours of notification, we reserve the right to withdraw the prize from the winner and pick a replacement winner.
 
-### 15. The promoter will notify the winners and arrange for delivery of the prizes. 
+### 15. The promoter will notify the winners and arrange for delivery of the prizes.
 
 ### 16. The promoter’s decision in respect of all matters to do with the competition will be final and no correspondence will be entered into.
 
