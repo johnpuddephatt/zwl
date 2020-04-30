@@ -13,7 +13,7 @@ date: 2020-04-30T16:16:42.920Z
 
 ### 5. No responsibility can be accepted for entries not received for whatever reason.
 
-### 6. There is one prize of a cookery voucher. 
+### 6. There is one prize of a voucher to the value of £100 redeemable for a class or classes at the [Leeds Cookery School](http://www.leedscookeryschool.org.uk/). Classes are subject to availability. 
 
 ### 7. Entrants must be over 18 years of age and live within the Leeds postcode area (pay Council Tax to Leeds City Council)
 
@@ -29,9 +29,9 @@ date: 2020-04-30T16:16:42.920Z
 
 ### 13. Winner will be chosen at random. There will be one winner. 
 
-### 14. The winners will be notified via their social media account within five working days of the closing date. If the winner cannot be contacted or does not claim the prize within 48 hours of notification, we reserve the right to withdraw the prize from the winner and pick a replacement winner.
+### 14. The winner will be notified via their social media account within five working days of the closing date. If the winner cannot be contacted or does not claim the prize within 48 hours of notification, we reserve the right to withdraw the prize from the winner and pick a replacement winner.
 
-### 15. The promoter will notify the winners and arrange for delivery of the prizes.
+### 15. The promoter will notify the winner and arrange for delivery of the prize.
 
 ### 16. The promoter’s decision in respect of all matters to do with the competition will be final and no correspondence will be entered into.
 
@@ -39,6 +39,6 @@ date: 2020-04-30T16:16:42.920Z
 
 ### 18. The winner agrees to the publication of their name as competition winner. Any personal data relating to the winner or any other entrants will be used solely in accordance with current UK data protection legislation and will not be disclosed to a third party without the entrant’s prior consent.
 
-### 19. The winner’s names will be announced on the Zero Waste Leeds social media sites.
+### 19. The winner’s name will be announced on the Zero Waste Leeds social media sites.
 
 ### 22. By entering this competition, an entrant is indicating their agreement to be bound by these terms and conditions.
