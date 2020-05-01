@@ -8,7 +8,7 @@ It is estimated that 4000 tonnes of clothing and textiles end up in Leeds househ
 
 Due to COVID-19, we decided to make use of online platforms to share practical ways for people in Leeds to manage the impacts of their clothing choices; explore reasons why sustainability in fashion is so important; celebrate the rich textile heritage of Leeds and build a #ZeroWasteFashion movement.
 
-## Monday 20th 
+## Monday 20th
 
 ### Fashion week launch
 
@@ -28,11 +28,11 @@ We also ask Dr Pammi Sinha, Associate Professor of Fashion Management at the Sch
 
 <br>
 
-## Tuesday 21st 
+## Tuesday 21st
 
 ### Second hand clothing & what to do with your donations during the lockdown
 
-Day 2 of Zero Waste Fashion Week is all about secondhand – donating, buying, sharing, swapping, hiring. We asked people to share their favourite[\#SecondhandSelfies](https://twitter.com/hashtag/secondhandselfies?src=hashtag_click)– keep them coming in on our social media!
+Day 2 of Zero Waste Fashion Week is all about secondhand – donating, buying, sharing, swapping, hiring. We asked people to share their favourite [\#SecondhandSelfies](https://twitter.com/hashtag/secondhandselfies?src=hashtag_click)– keep them coming in on our social media!
 
 ![](/uploads/screen-shot-2020-04-27-at-12.04.46.png)
 
@@ -42,15 +42,21 @@ We spoke to Nicola Woodgate, Head of Marketing and Communications at [St Gemma�
 
 <br><iframe width="670" height="376" src="https://www.youtube.com/embed/J0rOTGA8q80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
-
-
 ![](/uploads/screen-shot-2020-04-21-at-14.37.36.png)
+
+
+
+<br>
+
+Have you ever thought about going along to a clothes exchange - but not been sure about how it works? We asked Lauren from [Leeds Community Clothes Exchange](https://www.facebook.com/LeedsCommunityClothesExchange/?__tn__=K-R&eid=ARAa8j68rb8nflsz0mYhyE6L2KO5TvoDGyle2_MsEAS1zRFh2LB37DlR3i2FreY4Wn4WLCBkqdhzarQK&fref=mentions&__xts__%5B0%5D=68.ARAylA6FO7wuCwyjJW4T3BJP4fbQsK67CH3OlwXaz8-7FabrHy8QeW_jLMl76AL71_J9iR4kS6Rno2zp4yiQpG1t0PMNUuJ-f6AmlWWXYgVxURa6lpeZ8TiuS_LMBXB53Yu17zlcrGEP5FaoauCYrQougSFZwhq1MTf7cNUeIVnkojMTqlT7bJHshP49bPqxaVFP-v3aNjbYpAQSTPYgl1QOmtLz6-0mVTituKkc5FzLOCO4fblNLN3dSmQlVhiKkdGCJjyE0VhLjfLeRmSwtuiw3Mt3eMeMoqELzXEhyZZk1hwhLte0JlXccXC_XkQeRU6jZzw7Uc8UjCJFG39XsspujmC5zO-3ECE) to tell us more about how their monthly event works. It's nice and simple - but following a few guidelines - nicely explained here by Lauren - makes it work better for everyone. Obviously the exchanges aren't happening at the moment but the people behind LCCE are keen to get things going again as soon as possible.
+
+There are other opportunities to swap clothes too - including [Bramley Community Clothing Exchange](https://www.facebook.com/BramleyCommunityClothingExchange/?__tn__=K-R&eid=ARDqry5azoYz8Ax-KN3xZ5ACKt5kZBnupoCrDNaUPPmSb0JpRDKgf6fGrJK3-spcg-BnKRbDU4lewvMj&fref=mentions&__xts__%5B0%5D=68.ARAylA6FO7wuCwyjJW4T3BJP4fbQsK67CH3OlwXaz8-7FabrHy8QeW_jLMl76AL71_J9iR4kS6Rno2zp4yiQpG1t0PMNUuJ-f6AmlWWXYgVxURa6lpeZ8TiuS_LMBXB53Yu17zlcrGEP5FaoauCYrQougSFZwhq1MTf7cNUeIVnkojMTqlT7bJHshP49bPqxaVFP-v3aNjbYpAQSTPYgl1QOmtLz6-0mVTituKkc5FzLOCO4fblNLN3dSmQlVhiKkdGCJjyE0VhLjfLeRmSwtuiw3Mt3eMeMoqELzXEhyZZk1hwhLte0JlXccXC_XkQeRU6jZzw7Uc8UjCJFG39XsspujmC5zO-3ECE) - and we also know of workplaces that have run exchanges at particular times of the year - for staff to swap Christmas jumpers, World Book Day outfits or whatever. If you know of any other opportunities to swap clothes in Leeds, please let us know.
+
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/siRejscIg4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 We also spoke to local sustainable fashion designer, Dominic Browning. Dom wants us to remember the stories of our clothes – our clothes are special and part of our own memories. So why throw them out?
 
 <br><iframe width="670" height="376" src="https://www.youtube.com/embed/OBioY3mK4GM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-
-
 
 ![](/uploads/unnamed-1-.png)
 
@@ -109,8 +115,6 @@ We also talk to Kresse, co-founder of Elvis and Kresse, who has been shocked by 
 <br><iframe width="670" height="376" src="https://www.youtube.com/embed/qydMJ1ihH1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 ![](/uploads/zero-waste-fashion-5.png)
-
-
 
 We also talk to Rachel Hatfield from Fashion Fiesta, a fashion show hosted in Leeds that’s a showcase for local designers. Rachel is clear that fashion needs new designers but the world needs them to be sustainable. Fast Fashion is on the way out, this season its all about sustainability.
 
