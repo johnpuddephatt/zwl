@@ -17,14 +17,14 @@ window.addEventListener('DOMContentLoaded', ()=>{
   document.documentElement.classList.add('ready');
 });
 
-window.addEventListener('resize', ()=>{
-  if(heroSplit) {
-    heroSplit.revert();
-  }
-  if(projectsSplit) {
-    projectsSplit.revert();
-  }
-
-  new SplitType('.home-hero__title', { split: 'lines', tagName: 'span' });
-  new SplitType('.project__title', { split: 'lines', tagName: 'span' });
-});
+// window.addEventListener('resize', ()=>{
+//   if(heroSplit) {
+//     heroSplit.revert();
+//   }
+//   if(projectsSplit) {
+//     projectsSplit.revert();
+//   }
+//
+//   new SplitType('.home-hero__title', { split: 'lines', tagName: 'span' });
+//   new SplitType('.project__title', { split: 'lines', tagName: 'span' });
+// });

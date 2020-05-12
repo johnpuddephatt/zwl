@@ -148,3 +148,13 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Date', name: 'date', widget: 'datetime', dateFormat: 'Do MMM YYYY', timeFormat: false }
       - { label: 'Description', name: 'body', widget: 'markdown'}
+  - name: 'tags'
+    label: 'Tags'
+    folder: 'src/tags'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Slub', name: 'slug', widget: 'string' }
+      - { label: 'Description', name: 'body', widget: 'markdown'}
