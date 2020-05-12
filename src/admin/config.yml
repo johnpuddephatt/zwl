@@ -156,5 +156,5 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Slub', name: 'slug', widget: 'string' }
+      - { label: 'Slug', name: 'slug', widget: 'string' }
       - { label: 'Description', name: 'body', widget: 'markdown'}
