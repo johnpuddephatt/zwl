@@ -4,6 +4,7 @@ title: Get to know more about recycling
 date: 2019-01-03T00:00:00.000Z
 image: /uploads/bottles.jpg
 image_alt: Plastic bottles
+tags: recycling
 ---
 It goes without saying that recycling plays an important part in helping us to waste less as a city.
 

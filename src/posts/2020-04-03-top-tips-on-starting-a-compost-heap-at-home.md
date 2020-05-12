@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Top tips on starting a compost heap at home
 date: 2020-04-03T13:13:08.851Z
 image: /uploads/screen-shot-2020-04-03-at-14.13.31.png
+tags: garden-waste
 ---
 Leeds City Council have had to suspend garden waste (brown bin) collections until further notice due to the coronavirus outbreak. So we've shared some tips on how you can create your own compost heap at home.
 
