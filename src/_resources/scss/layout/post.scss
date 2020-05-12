@@ -2,6 +2,7 @@
   font-size: modular-scale(5);
   text-align: center;
   margin: $base-spacing 0;
+  padding-bottom: 0.5em;
   &::after {
     display: block;
     content: '';

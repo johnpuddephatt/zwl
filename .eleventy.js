@@ -7,7 +7,6 @@ const svgContents = require("eleventy-plugin-svg-contents");
 module.exports = function(eleventyConfig) {
 
 
-
   // Shortcodes
   eleventyConfig.addShortcode('excerpt', article => extractExcerpt(article));
 
@@ -24,6 +23,11 @@ module.exports = function(eleventyConfig) {
   // Collections
   eleventyConfig.addCollection('posts', collection => {
     return collection.getFilteredByGlob('./src/posts/*.md');
+  });
+
+  // Categories
+  eleventyConfig.addCollection('tags', collection => {
+    return collection.getFilteredByGlob('./src/tags/*.md');
   });
 
   eleventyConfig.addCollection('tips', collection => {
