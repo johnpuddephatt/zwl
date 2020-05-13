@@ -8,19 +8,13 @@ image: ""
 
 This is the waste that you generate in your garden such as grass clippings, weeds, prunings, dead plants, leaves and twigs. When thinking about compost it can also include some kitchen waste like veg peelings, tea leaves, coffee grounds and fruit. All of this will end up in your brown or black bins unless you compost that waste in your garden. What we'll talk about here is how to divert that waste from your bins into a really beneficial product that will enrich your garden.
 
-
-
 **What is compost?**
 
 Compost is decomposed or recycled organic matter (plants, grass clippings, kitchen waste and cardboard for example) that has broken down into a rich, moist, crumbly, dark brown and earthy material that can be used in the garden. It’s full of nutrients and adds goodness back into your soil to feed your plants.
 
-
-
 **Why is it important**
 
 Most of your brown bin contents can be composted, but did you know that a lot of what goes in our black bins can be composted at home as well? If we can stop that going into the bin then it doesn’t have to be transported and it doesn’t have to be sent to landfill or an incinerator. That means less energy used and fewer emissions. The big plus for you though is you retain all of that goodness in your garden and can feed your plants for free.
-
-
 
 **How to make compost**
 
@@ -29,8 +23,6 @@ There’s a whole range of things that can be composted and they break down into
 Normal compost heaps don’t contain raw or cooked meat, dairy, bread, cooked kitchen waste, though you can compost these in some of the more advanced systems. No heap should ever contain faeces from meat eating animals such as cats and dogs, though it is fine to put used bedding from rabbits and other rodents in (they’re a good source of browns).
 
 Another thing you can add to it that might seem slightly unusual is human wee, people have been adding wee to compost heaps for years. It’s full of nitrogen and other trace elements such as potassium and phosphorous and is really beneficial for you garden, it also saves what is essentially fertiliser being flushed down the toilet and wasted (and treated, which requires lots of energy).
-
-
 
 **What do you do with it and when will it be ready**
 
@@ -56,13 +48,11 @@ Advanced composting. You may have seen insulated compost bins or compost tumbler
 
 Wormeries. A wormery is essentially a small compost bin filled with worms, you can use wormeries alongside your normal heap or instead of if you don’t have much space or are wanting to compost more of your food waste that you wouldn't put in a standard compost bin. Wormeries are particularly well suited to small gardens or flats with balconies as they don’t take up much space, produce small amounts of compost but lots of worm compost tea which can go on your houseplants or pot plants.
 
-
-
 **Where to put your heap**
 
 You can get a heap to work pretty much anywhere in your garden and they’re often tucked away in a corner out of sight, but there are two things to consider to help make your heap more successful. The first is temperature, they don’t like to get too hot or too cold, can dry out in full sun and might not get hot enough in full shade, so a spot that gets some sun during the day is ideal. The second is where will the majority of the contents come from and where the resulting compost is going to be used. You don’t want to be carting material from one end of the garden to the other if you can help it, you’re also much less likely to maintain your heap if it’s in a corner of the garden. So have it somewhere where it’s easy to fill up and maintain if possible.
 
-
+![](/uploads/where-to-put-your-bin.png "Where to put your heap")
 
 **Managing your heap**
 
@@ -71,8 +61,6 @@ You can just add brown and green layers and eventually you’ll get compost you 
 When you’re adding more material or mixing you can also take the opportunity to look at your heap to see if it’s too dry or wet, if dry then add some greens and/or water it, if wet then give it a mix and add some browns, cardboard will really suck up that moisture. A sniff test will tell you the same thing, if it smells a bit earthy or of plants then it’s okay, no smell and it’s too dry, smells a bit rancid or of ammonia then it’s too wet or not mixed.
 
 Most of the time it’s also a good idea to keep your heap covered so that it has more constant temperature and moisture content. If it’s a bit dry and rain is forecast then you can leave uncovered, similarly if it’s wet and a dry, sunny spell expected.
-
-
 
 **Problems and troubleshooting**
 
@@ -83,8 +71,6 @@ Do not compost any grass clippings that have been treated with herbicides or wee
 Rats. It’s said you’re never far from a rat and a warm compost heap can be an attractive place for them to nest in. Here’s how to discourage them: don’t let your heap get dry, rats don’t like it moist, don’t put meat or dairy in your heap, keep mixing or turning your heap, they don’t like disturbance. There’s also anecdotal evidence that human wee is a turn off for rats, to do with territory marking, so another good reason to add wee to your compost.
 
 Some perennial weeds shouldn't be added to your heap or they need to be treated in a different way. Common problem weeds include dandelions, ground elder, dock, nettles and bindweed, the leaves of all these are fine to add straight to your heap as it's the roots that are the problem. If you fill a bucket with water you can put these weeds in it (they must be fully submerged) and leave for a few weeks, this drowns the weeds and kills the parts that could regrow. The resultant weed slop can then be added to your heap. If you feel unsure about doing this then you can always put these weeds in your brown bin, the council composters get hot enough to kill all these weeds.
-
-
 
 **Wildlife**
 
