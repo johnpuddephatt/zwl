@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: What is garden waste?
 date: 2020-05-13T12:22:07.813Z
 tags: composting-compost-heap-advice
-image: /uploads/garden-waste.png
+image: /uploads/wheelbarrow.jpg
 ---
 It’s the waste that you generate in your garden such as grass clippings, weeds, prunings, dead plants, leaves, twigs and branches or logs. It can also include some kitchen waste that can go in your compost bin like veg peelings, tea leaves, coffee grounds and fruit. 
 
