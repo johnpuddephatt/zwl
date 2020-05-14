@@ -51,7 +51,7 @@ Your compost heap is unlikely to get hot enough to kill some weeds so avoid putt
 
 Common problem weeds include dandelions, ground elder, dock, nettles and bindweed.  The leaves of all these are fine to add straight to your heap, it's the roots that are the problem.
 
-To avoid this problem - 
+To avoid this - 
 
 \- put the weeds in a full bucket of water (they must be fully submerged) and leave for a few weeks.  This drowns the weeds and kills the parts that could regrow. The resulting weed slop can then be added to your heap.  
 
