@@ -23,11 +23,11 @@ All of this kitchen and garden waste, apart from branches and logs, can go into 
 
 Compost is decomposed or recycled organic matter (plants, grass clippings, kitchen waste and cardboard for example) that has broken down into a rich, moist, crumbly, dark brown and earthy material that can be used in the garden. It’s full of nutrients and adds goodness back into your soil to feed your plants.
 
+![](/uploads/1.jpg)
+
 **Why is it important?**
 
 Most of your brown bin (garden waste) contents can be composted, but did you know that a lot of what goes in our black bins can be composted at home as well? If we can stop that going into the bin then it doesn’t have to be collected and transported using large lorries and it doesn’t have to be sent to landfill or an incinerator. That means less energy used and fewer emissions (carbon dioxide, methane and nitrogen oxides). The big plus for you though is you retain all of that goodness in your garden and can feed your plants for free.
-
-
 
 <!--StartFragment-->
 
