@@ -34,3 +34,5 @@ Most of your brown bin (garden waste) contents can be composted, but did you kno
 > Did you know that a lot of what goes in our black bins can be composted at home as well
 
 <!--EndFragment-->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9jQa9gb3Xio" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
