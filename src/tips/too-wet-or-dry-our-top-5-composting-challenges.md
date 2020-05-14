@@ -21,6 +21,12 @@ Greens are grass clippings, leafy or soft plant growth, veg peelings, tea leaves
 
 Greens provide the moisture and energy for the bacteria (where you get the heat) and browns provide the structure and air, you want about a 50:50 mix of each.
 
+<!--StartFragment-->
+
+> One of the most important things you can do is balance your greens and browns
+
+<!--EndFragment-->
+
 So to avoid your compost heap or bin drying out or getting too wet, 
 
 \- use one layer of brown and one of green, and repeat. 
@@ -33,7 +39,7 @@ So to avoid your compost heap or bin drying out or getting too wet,
 
 **Rats**
 
-It’s said you’re never far from a rat and a warm compost heap can be an attractive place for them to nest. Here’s how to discourage them: 
+It’s said you’re never far from a rat and a warm compost heap can be an attractive place for them to nest.   Here’s how to discourage them: 
 
 \- don’t let your heap get dry, rats like it dry, they dislike it moist 
 
