@@ -22,8 +22,6 @@ Check what you already have in - Have a rummage through your fridge, freezer and
 
 Come up with a meal plan - Based on what’s in your cupboards, fridge and freezer, make a plan for the week’s meals. There are loads of ideas online from people like Jack Monroe and Jamie Oliver.
 
-![](/uploads/3.png)
-
 Make a shopping list - With all of us being asked to limit our shopping and only shop for essentials, it helps more than ever to shop from a list. Only buy what you need and eat what you buy.
 
 ![](/uploads/4.png)
