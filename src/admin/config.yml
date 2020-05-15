@@ -2,6 +2,7 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
+site_url: https://www.zerowasteleeds.org.uk
 media_folder: '/src/uploads'
 public_folder: "/uploads"
 publish_mode: editorial_workflow
@@ -90,6 +91,7 @@ collections:
   - name: 'pipeline'
     label: 'In the pipeline'
     folder: 'src/pipeline'
+    preview_path: pipeline/{{slug}}
     create: true
     editor:
       preview: true
@@ -105,6 +107,8 @@ collections:
   - name: 'tips'
     label: 'Tips'
     folder: 'src/tips'
+    summary: "[{{tags}}] {{title}}  ({{day}}.{{month}}.{{year}})"
+    preview_path: tips/{{slug}}
     create: true
     editor:
       preview: true
@@ -125,9 +129,10 @@ collections:
   - name: 'posts'
     label: 'Our thinking'
     folder: 'src/posts'
+    preview_path: posts/{{slug}}
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    summary: "{{title}} – {{day}}.{{month}}.{{year}}"
+    summary: "{{title}}  ({{day}}.{{month}}.{{year}})"
     editor:
       preview: true
     fields:
