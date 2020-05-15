@@ -145,6 +145,7 @@ collections:
   - name: 'pages'
     label: 'Pages'
     folder: 'src/pages'
+    preview_path: pages/{{slug}}
     create: true
     editor:
       preview: true
