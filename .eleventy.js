@@ -27,7 +27,9 @@ module.exports = function(eleventyConfig) {
 
   // Categories
   eleventyConfig.addCollection('tags', collection => {
-    return collection.getFilteredByGlob('./src/tags/*.md');
+    return collection.getFilteredByGlob('./src/tags/*.md').sort(function(a, b) {
+      return Number(b.data.order || 0) - Number(a.data.order || 0);
+    });
   });
 
   eleventyConfig.addCollection('tips', collection => {
