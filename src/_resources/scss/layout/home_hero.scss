@@ -25,6 +25,7 @@
   html.no-js &,
   html.ready & {
     opacity: 1;
+    color: transparent !important;
   }
   position: relative;
   z-index: 9;
@@ -51,7 +52,7 @@
     opacity: 0;
   }
   .line {
-    color: $blue;
+    color: $dark-blue;
     display: inline-block !important;
     width: auto !important;
     animation: fadeInHeroLine 3s 0.5s forwards;
