@@ -6,7 +6,7 @@ layout: layouts/base.njk
     <h1 class="home-hero__title">
       {{ site.description  }}
     </h1>
-    {% if home.hero.link.text %}<a class="home-hero__link" href="{{ home.hero.link.href}}">{{ home.hero.link.text }}</a>{% endif %}
+    {% if home.hero.link.text %}<div class="home-hero__link"><a class="line" href="{{ home.hero.link.url }}">{{ home.hero.link.text }}</a></div>{% endif %}
     {% include "zero.svg" %}
   </div>
 </section>
@@ -106,7 +106,7 @@ layout: layouts/base.njk
         </div>
         <div class="pipeline__text">
           <h3 class="pipeline__title">{{ pipeline.data.title }}</h3>
-          <p>{% excerpt pipeline %}</p>
+          <p>{{ pipeline.templateContent | striptags | truncate(80) | safe }}</p>
           <div class="pipeline__footer">
             <span class="read-more" href="{{ pipeline.url }}">Read more</span>
           </div>
@@ -134,26 +134,28 @@ layout: layouts/base.njk
 
   <div class="container">
     {% set featuredPost = collections.posts | reverse | first %}
-    <div class="thinking__featured-item">
-      <a href="{{ featuredPost.url }}" class="thinking__item__image">
+
+    <a href="{{ featuredPost.url }}" class="thinking__featured-item">
+      <div class="thinking__item__image">
           {% srcset featuredPost.data.image, featuredPost.data.image_alt, "thinking__item__image", 640, 360, "(min-width: 1120px) 536px, 100vw" %}
-      </a>
+      </div>
       <h3 class="thinking__item__title">{{ featuredPost.data.title }}</h3>
-      <p>{{ featuredPost.templateContent | striptags | truncate(175) | safe }}</p>
-      <a class="read-more" href="{{ featuredPost.url}}">Learn more</a>
-    </div>
+      <p>{{ featuredPost.templateContent | striptags | truncate(160) | safe }}</p>
+      <span class="read-more" href="{{ featuredPost.url}}">Learn more</span>
+    </a>
+
     <div class="thinking__sidebar">
       {% for post in collections.posts | reverse | slice(1,4) -%}
-      <div class="thinking__item">
-        <a href="{{ post.url }}" class="thinking__item__image">
-          {% srcset post.data.image, featuredPost.data.image_alt, "thinking__item__image", 240, 240, "(min-width: 1120px) 172px, 30vw" %}
+        <a href="{{ post.url }}" class="thinking__item">
+          <div class="thinking__item__image">
+            {% srcset post.data.image, featuredPost.data.image_alt, "thinking__item__image", 240, 240, "(min-width: 1120px) 172px, 30vw" %}
+          </div>
+          <div class="thinking__item__text">
+            <h3 class="thinking__item__title">{{ post.data.title }}</h3>
+            <p>{{ post.templateContent | striptags | truncate(75) | safe }}</p>
+            <span class="read-more">Learn more</span>
+          </div>
         </a>
-        <div class="thinking__item__text">
-          <h3 class="thinking__item__title">{{ post.data.title }}</h3>
-          <p>{{ post.templateContent | striptags | truncate(75) | safe }}</p>
-          <a class="read-more" href="{{ post.url }}">Learn more</a>
-        </div>
-      </div>
       {% endfor %}
     </div>
   </div>

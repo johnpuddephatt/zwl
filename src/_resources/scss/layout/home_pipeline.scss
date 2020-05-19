@@ -20,7 +20,6 @@
 
 .pipeline__item {
   margin-top: $base-spacing;
-  margin-bottom: $base-spacing;
   flex: 0 1 33.33%;
   display: flex;
   flex-direction: row;
@@ -29,7 +28,6 @@
   transition: box-shadow 0.5s, transform 0.5s;
 
   @media screen and (min-width: $medium-screen) {
-    margin-bottom: 0;
     flex-direction: column;
   }
   @media screen and (min-width: $medium-screen) {
@@ -76,11 +74,12 @@
 }
 
 .pipeline__title {
-  font-size: modular-scale(3);
+  font-size: modular-scale(2);
+  margin-bottom: $small-spacing;
   @media screen and (min-width: $medium-screen) {
     font-size: modular-scale(1);
+    margin-bottom: $base-spacing;
   }
-  margin-bottom: $base-spacing;
   font-family: $base-font-family;
   text-transform: none;
 }

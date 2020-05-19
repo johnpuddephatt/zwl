@@ -76,6 +76,9 @@ a {
 
   &:hover {
     color: $action-color;
+    .read-more {
+      color: $action-color;
+    }
   }
 
   &:focus {
@@ -90,6 +93,7 @@ a {
   text-decoration: none;
   border-bottom: none;
   font-size: modular-scale(-1);
+  transition: color $base-duration $base-timing;
   -webkit-font-smoothing: antialiased;
 
   &::after {
@@ -101,15 +105,15 @@ a {
   }
 }
 
+
 blockquote {
   color: $blue;
-  font-family: $heading-font-family;
-  text-transform: uppercase;
   text-align: center;
   margin: 2 * $base-spacing auto;
   max-width: $medium-screen * .75;
   line-height: $heading-line-height;
-  font-size: modular-scale(2);
+  font-size: modular-scale(1);
+  font-style: oblique;
   * {
     display: inline;
   }
@@ -117,6 +121,9 @@ blockquote {
     content: open-quote;
     display: inline;
     font-size: modular-scale(3);
+    line-height: 0;
+    vertical-align: middle;
+    font-style: normal;
   }
   &::after {
     content: close-quote;

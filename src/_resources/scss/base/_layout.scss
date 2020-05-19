@@ -10,7 +10,7 @@ html {
 }
 
 html {
-  // scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 
 html,
@@ -36,7 +36,7 @@ body {
     max-width: none;
   }
   &__narrow {
-    max-width: $medium-screen;
+    max-width: $max-line-length;
   }
 }
 

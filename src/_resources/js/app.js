@@ -13,6 +13,7 @@ let projectsSplit;
 
 window.addEventListener('DOMContentLoaded', ()=>{
   let heroSplit = new SplitType('.home-hero__title', { split: 'lines', tagName: 'span' });
+  // let heroLinkSplit = new SplitType('.home-hero__link', { split: 'lines', tagName: 'span' });
   let projectsSplit = new SplitType('.project__title', { split: 'lines', tagName: 'span' });
   document.documentElement.classList.add('ready');
 });
