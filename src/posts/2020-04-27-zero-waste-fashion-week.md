@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Zero Waste Fashion Week 2020
 date: 2020-04-27T10:50:55.361Z
-image: /uploads/zerowastefashionweek2020.png
+image: /uploads/clothespile.png
 ---
 It is estimated that 4000 tonnes of clothing and textiles end up in Leeds householders’ black bins each year. Zero Waste Fashion Week (20th-24th April) has been all about exploring how we can get more of that volume of waste reused or recycled.
 
