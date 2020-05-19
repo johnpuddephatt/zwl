@@ -183,4 +183,4 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Intro', name: 'intro', widget: 'text', hint: 'This text will be shown on the homepage.'}
       - { label: 'Photo', name: 'image', widget: 'image', required: false }
-      - { label: 'Description', name: 'body', widget: 'markdown', , hint: 'If provided, this information will be shown on the tag page, otherwise the intro will be shown.', required: false}
+      - { label: 'Description', name: 'body', widget: 'markdown', hint: 'If provided, this information will be shown on the tag page, otherwise the intro will be shown.', required: false }
