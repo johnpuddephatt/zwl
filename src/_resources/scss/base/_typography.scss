@@ -3,11 +3,15 @@ html {
   font-family: $base-font-family;
   line-height: $base-line-height;
   font-size: 0.75em;
+  letter-spacing: $base-letter-spacing;
   @media screen and (min-width: $medium-screen) {
     font-size: 0.875em;
   }
   @media screen and (min-width: $large-screen) {
     font-size: 1em;
+  }
+  @media screen and (min-width: $xl-screen) {
+    font-size: 1.125em;
   }
 }
 
@@ -20,9 +24,15 @@ h6 {
   font-family: $heading-font-family;
   font-size: modular-scale(1);
   text-transform: uppercase;
+  font-weight: 900;
   line-height: $heading-line-height;
   margin: 0 0 $small-spacing;
   letter-spacing: $heading-letter-spacing;
+}
+
+.pre-title {
+  font-weight: 900;
+  font-size: modular-scale(1);
 }
 
 .section-title {
@@ -30,10 +40,14 @@ h6 {
   margin-bottom: 2 * $base-spacing;
   font-size: modular-scale(5);
   @extend %container;
+  &__large {
+    font-size: modular-scale(7);
+  }
 }
 
 .section-subtitle {
   text-align: center;
+  font-weight: 900;
   @extend %container;
   font-size: modular-scale(2);
   margin-top: -2 * $base-spacing;
@@ -42,22 +56,49 @@ h6 {
 
 p {
   margin: 0 0 $small-spacing;
+  font-weight: 600;
+  strong {
+    font-weight: 900;
+  }
+  a {
+    transition: border-bottom $base-duration $base-timing, color $base-duration $base-timing;
+    border-bottom: .2em solid transparentize($action-color, 0.75);
+    &:hover {
+      border-bottom-color: $action-color;
+    }
+  }
 }
 
 a {
-  color: $action-color;
+  color: inherit;
   text-decoration-skip-ink: auto;
-  transition: color $base-duration $base-timing;
+  text-decoration: none;
 
   &:hover {
-    color: shade($action-color, 25%);
+    color: $action-color;
   }
 
   &:focus {
     outline: $focus-outline;
     outline-offset: $focus-outline-offset;
   }
+
+  &.read-more {
+    font-weight: 700;
+    color: $black;
+    text-decoration: none;
+    border-bottom: none;
+
+    &::after {
+      display: inline-block;
+      font-weight: 900;
+      margin-left: .25em;
+      content: '>';
+      font-family: $heading-font-family;
+    }
+  }
 }
+
 
 blockquote {
   color: $blue;
@@ -95,19 +136,29 @@ hr {
 }
 
 %ticker, .ticker {
-  // padding: 0 $small-spacing;
+  text-transform: uppercase;
   .line {
-    clip-path: polygon(1% 6%, 97% 0%, 100% 100%, 1% 92%);
-    .type-2 & {
-      clip-path: polygon(3% 1%, 98% 5%, 95% 100%, 2% 98%);
+    position: relative;
+    &::before {
+      content: '';
+      position: absolute;
+      z-index: -1;
+      background-color: $black;
+      top: -$small-spacing/2;
+      bottom: -$small-spacing/2;
+      left: -$small-spacing;
+      right: -$small-spacing;
+      clip-path: polygon(1% 6%, 97% 0%, 100% 100%, 1% 92%);
     }
-    text-transform: uppercase;
-    background-color: $black;
+    .type-2 & {
+      &::before {
+        clip-path: polygon(3% 1%, 98% 5%, 95% 100%, 2% 98%);
+      }
+    }
     color: white;
     -webkit-font-smoothing: antialiased;
     display: inline-block !important;
     width: initial !important;
-    padding: $small-spacing/2 $small-spacing;
-    margin: 0 0 $small-spacing/4;
+    margin: 0 0 $small-spacing;
   }
 }

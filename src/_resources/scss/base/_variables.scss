@@ -4,14 +4,15 @@ $large-screen: 1120px;
 $xl-screen: 1300px;
 
 // Typography
-$max-line-length: 45rem;
-$base-font-family: 'Mukta';
+$max-line-length: 50rem;
+$base-font-family: 'Nunito Sans', sans-serif;
 $heading-font-family: 'Grilled Cheese', $base-font-family;
-$heading-letter-spacing: 0.025em;
+$base-letter-spacing: 0.015em;
+$heading-letter-spacing: 0em;
 
 // Line height
-$base-line-height: 1.5;
-$heading-line-height: 1.1;
+$base-line-height: 1.7;
+$heading-line-height: 1.3;
 
 // Other Sizes
 $base-border-radius: 3px;
@@ -21,8 +22,10 @@ $base-z-index: 0;
 
 // Colors
 $blue: #42747e;
+$lightblue: #A2CFE4;
 $orange: #f89d33;
 $gray: #D3DBDC;
+$dark-gray: #686867;
 $black: #000000;
 $pink: #F8BDD4;
 
@@ -33,6 +36,8 @@ $action-color: $blue;
 // Border
 $base-border-color: $gray;
 $base-border: 1px solid $base-border-color;
+
+$base-box-shadow: 0 0.5em 1em -0.125em rgba($black, 0.1), 0 0px 0 1px rgba($black, 0.02);
 
 // Background Colors
 $viewport-background-color: #fff;

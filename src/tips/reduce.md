@@ -4,6 +4,7 @@ title: Stop your waste in its tracks
 date: 2019-01-01T00:00:00.000Z
 image: /uploads/seagulls.jpg
 image_alt: Refill containers
+tags: stuff
 ---
 When we think about wasting less, we often think first of recycling. And whilst that's very important, there's lots more to think about too, before we start worrying about what can and can't go in our green bin.
 

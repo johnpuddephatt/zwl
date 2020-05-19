@@ -1,15 +1,17 @@
 .section__home-thinking {
   padding: 4 * $base-spacing 0;
+  @media screen and (min-width: $large-screen) {
+    padding: 6 * $base-spacing 0;
+  }
   .section-title,
   .section-subtitle {
     text-align: center;
-    @media screen and (min-width: $medium-screen) {
-      text-align: left;
-    }
   }
   .container {
     display: flex;
     flex-direction: column;
+    margin-top: $base-spacing;
+    margin-bottom: $base-spacing;
     @media screen and (min-width: $medium-screen) {
       flex-direction: row;
       justify-content: space-between;
@@ -18,7 +20,7 @@
 }
 
 .thinking__featured-item {
-  flex: 0 0 50%;
+  flex: 0 0 47.5%;
   margin-bottom: 2 * $base-spacing;
   @media screen and (min-width: $medium-screen) {
     margin-bottom: 0;
@@ -29,27 +31,13 @@
       width: 100%;
     }
   }
-  .thinking__item__title {
-    font-size: modular-scale(3);
-    &::after {
-      background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="270.6" height="10.7" viewBox="0 0 270.6 10.7"><path d="M4.2 6.2c22.9-2.6 45.7.7 68.6.7 22.7 0 45.2 1.2 67.9 1 21.4-.2 42.5 3.8 63.9 2.7 19.2-1 38.2-2.4 57.4-2.3 2.1 0 12.7-4.9 6.9-5.3-2-.2-4-.3-6-.5-2.5-.2-13.9 4.8-8.2 5.3 2 .2 4 .3 6 .5 2.3-1.8 4.6-3.5 6.9-5.3-19.2-.2-38.2 1.3-57.4 2.3-22.6 1.1-45.2-2.9-67.8-2.6-22.6.2-45.1-.9-67.7-1-22.7-.1-45.1-3-67.9-.4C2 1.6-4.3 7.1 4.2 6.2z"/></svg>');
-      content: '';
-      display: block;
-      width: 50%;
-      height: $base-spacing;
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-position: left center;
-    }
-  }
-  .button {
-    font-size: modular-scale(1);
-    padding: $small-spacing $base-spacing;
+  p {
+    color: $dark-gray;
   }
 }
 
 .thinking__sidebar {
-  flex: 0 0 40%;
+  flex: 0 0 45%;
   .thinking__item {
     display: flex;
     flex-direction: row;
@@ -58,6 +46,9 @@
       margin-bottom: 1.5 * $base-spacing;
     }
 
+    p {
+      color: $dark-gray;
+    }
   }
   .thinking__item__image {
     display: none;
@@ -69,18 +60,19 @@
   .thinking__item__text {
     flex: 1 0 60%;
     @media screen and (min-width: $medium-screen) {
-      padding-left: $base-spacing;
-    }
-  }
-  .thinking__item__title {
-    font-family: $base-font-family;
-    letter-spacing: 0;
-    text-transform: none;
-    font-size: modular-scale(3);
-    @media screen and (min-width: $medium-screen) {
-      font-size: modular-scale(2);
+      padding-left: $small-spacing;
     }
   }
 }
 
+.thinking__item__title {
+  font-family: $base-font-family;
+  letter-spacing: 0;
+  text-transform: none;
+  font-size: modular-scale(2);
+  margin-bottom: $small-spacing/2;
+  @media screen and (min-width: $medium-screen) {
+    font-size: modular-scale(1);
+  }
+}
 
