@@ -4,7 +4,7 @@
 // const html5Boilerplate = require('_includes/extends/html5boilerplate.njk');
 // console.log(nunjucks.render('/src/_includes/extends/html5boilerplate.njk'))
 
-require('typesplit');
+require('./_splittype.js');
 
 document.documentElement.classList.remove('no-js');
 

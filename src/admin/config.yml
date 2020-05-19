@@ -174,7 +174,7 @@ collections:
       - { label: 'Date', name: 'date', widget: 'datetime', dateFormat: 'Do MMM YYYY', timeFormat: false }
       - { label: 'Description', name: 'body', widget: 'markdown'}
   - name: 'tags'
-    label: 'Tags'
+    label: 'Article tags'
     folder: 'src/tags'
     create: true
     editor:
