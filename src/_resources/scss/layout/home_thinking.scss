@@ -10,8 +10,8 @@
   .container {
     display: flex;
     flex-direction: column;
-    margin-top: $base-spacing;
-    margin-bottom: $base-spacing;
+    margin-top: 2 * $base-spacing;
+    margin-bottom: 2 * $base-spacing;
     @media screen and (min-width: $medium-screen) {
       flex-direction: row;
       justify-content: space-between;
@@ -48,21 +48,29 @@
 
     p {
       color: $dark-gray;
+      font-size: modular-scale(-1);
+      margin-bottom: 0;
     }
   }
   .thinking__item__image {
     display: none;
     @media screen and (min-width: $medium-screen) {
       display: block;
-      flex: 0 0 40%;
+      flex: 0 0 30%;
     }
   }
   .thinking__item__text {
-    flex: 1 0 60%;
+    flex: 1 0 70%;
     @media screen and (min-width: $medium-screen) {
-      padding-left: $small-spacing;
+      padding-left: $base-spacing;
     }
   }
+
+  .thinking__item__title {
+    font-size: modular-scale(1);
+  }
+
+
 }
 
 .thinking__item__title {
