@@ -1,4 +1,5 @@
 ---
+order: 3
 title: Garden waste
 intro: Rather than another source of waste, the right approach can be a waste reducer’s best friend.
 slug: garden-waste
