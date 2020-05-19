@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: How to compost in a trench
 date: 2020-05-18T15:23:36.163Z
-tags: composting-compost-heap-advice
+tags: garden-waste
 image: /uploads/earth-and-worms.jpg
 ---
 ### This a guest blog from Helen Butt of the [Leeds Rotters](https://www.facebook.com/leedsrotters/)
@@ -13,21 +13,21 @@ Well, this is perfectly possible if you have a garden or allotment which you are
 
 Here’s the story of a trench I made back in 2015.
 
-First, I dug a trench where I wanted to grow vegetables. 
+First, I dug a trench where I wanted to grow vegetables.
 
 ![](/uploads/img_2926.jpg)
 
-Then I lined the bottom of the trench with carbon rich material such as branches and newspaper before filling in the rest of the space with green waste such as vegetable peelings and soft stems from flowers. 
+Then I lined the bottom of the trench with carbon rich material such as branches and newspaper before filling in the rest of the space with green waste such as vegetable peelings and soft stems from flowers.
 
 ![](/uploads/img_2927.jpg)
 
-Finally, I covered the green waste with a layer of finished compost before putting the soil removed to make the hole over the top of the whole lot. 
+Finally, I covered the green waste with a layer of finished compost before putting the soil removed to make the hole over the top of the whole lot.
 
 The principle is that the brown material will soak up water which reduces the need for water and you need it at the bottom of the trench since it takes longer to decompose than the green material.
 
 ![](/uploads/img_2928.jpg)
 
-I was actually able to plant my tomato plants straight into the soil over the trench because of the finished compost and the fact that the green waste was already partially decomposed. 
+I was actually able to plant my tomato plants straight into the soil over the trench because of the finished compost and the fact that the green waste was already partially decomposed.
 
 ![](/uploads/img_2929.jpg)
 
