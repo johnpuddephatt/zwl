@@ -25,7 +25,10 @@
 }
 
 .intro__projects {
-  margin-top: $base-spacing;
+  margin-top: 2 * $base-spacing;
+  @media screen and (min-width: $medium-screen) {
+    margin-top: $base-spacing;
+  }
 
   p {
     color: $dark-gray;

@@ -20,7 +20,7 @@ layout: /layouts/base.njk
         </a>
         <div class="archive__text">
           <h3 class="archive__title">{{ item.data.title }}</h3>
-          <p>{% excerpt item %}</p>
+          <p>{{ item.templateContent | striptags | truncate(85) | safe }}</p>
           <a class="read-more" href="{{ item.url }}">Read more</a>
         </div>
       </div>
