@@ -17,7 +17,7 @@
 }
 
 .intro__copy {
-  flex: 0 0 42.5%;
+  flex: 0 0 47.5%;
   margin-right: 7.5%;
   p:last-child {
     margin-bottom: 0;
@@ -25,15 +25,16 @@
 }
 
 .intro__projects {
-  margin-top: 1.5 * $base-spacing;
+  margin-top: $base-spacing;
   p {
     color: $dark-gray;
+    font-size: modular-scale(-1);
   }
 }
 
 .project__title {
   @extend .ticker;
-  font-size: modular-scale(2);
+  font-size: modular-scale(1);
   font-family: $base-font-family;
   text-transform: none;
   margin-bottom: $small-spacing/2;
