@@ -1,6 +1,20 @@
 $_button-background-color: $action-color;
 $_button-background-color-hover: shade($action-color, 20%);
 
+.button_alt {
+  border: 0.1em solid $pink;
+  border-radius: $base-border-radius;
+  font-weight: 900;
+  padding: 0.5em 1em;
+  color: $black;
+  text-decoration: none;
+  text-transform: lowercase;
+
+  &__large {
+    font-size: modular-scale(2);
+  }
+}
+
 #{$all-buttons} {
   clip-path: polygon(1% 6%, 97% 0%, 100% 100%, 1% 92%);
   &.type-2 {

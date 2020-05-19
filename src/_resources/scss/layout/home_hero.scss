@@ -30,39 +30,62 @@
   z-index: 9;
   font-family: $base-font-family;
   letter-spacing: 0;
-  font-size: modular-scale(3);
+  font-size: modular-scale(4);
   text-align: center;
   max-width: 20em;
   padding: $base-spacing 0;
   margin: 0 (-$base-spacing);
+  text-transform: none;
 
   @media screen and (min-width: $medium-screen) {
     padding: $base-spacing;
     margin: 0;
-    font-size: modular-scale(3);
+    font-size: modular-scale(5);
   }
-  @extend .ticker;
-  text-transform: lowercase;
+  @media screen and (min-width: $large-screen) {
+    font-size: modular-scale(4);
+  }
+  // @extend .ticker;
 
   span {
     opacity: 0;
   }
   .line {
-    color: $black;
+    color: $blue;
+    display: inline-block !important;
+    width: auto !important;
     animation: fadeInHeroLine 3s 0.5s forwards;
     text-align: center;
-    text-transform: lowercase;
-    padding: $small-spacing/2 $base-spacing;
-    margin: $small-spacing/2 (-$base-spacing) 0;
-    background-color: white;
-    clip-path: polygon(1% 6%, 97% 0%, 100% 100%, 1% 92%);
+    margin: $base-spacing 0 0;
+    position: relative;
+    &::before {
+      z-index: -1;
+      content: '';
+      position: absolute;
+      top: -$small-spacing/2;
+      bottom: -$small-spacing/2;
+      left: -$base-spacing;
+      right: -$base-spacing;
+      background-color: white;
+      clip-path: polygon(1% 6%, 97% 0%, 100% 100%, 1% 92%);
+    }
     &:nth-child(2) {
       animation-delay: 1.5s;
-      clip-path: polygon(4% 1%, 96% 5%, 95% 100%, 0% 90%);
+      &::before {
+        clip-path: polygon(4% 1%, 100% 5%, 97% 100%, 0% 90%);
+      }
     }
     &:nth-child(3) {
       animation-delay: 2.5s;
-      clip-path: polygon(4% 5%, 98% 2%, 100% 90%, 0% 95%);
+      &::before {
+        clip-path: polygon(4% 5%, 98% 2%, 100% 92%, 0% 95%);
+      }
+    }
+    &:nth-child(4) {
+      animation-delay: 3.5s;
+      &::before {
+        clip-path: polygon(1% 1%, 96% 5%, 100% 95%, 2% 100%);
+      }
     }
   }
 }

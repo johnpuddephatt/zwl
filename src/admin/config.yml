@@ -17,6 +17,8 @@ collections:
         file: "/src/_data/home.json"
         fields:
           - {label: 'Title', name: 'title', widget: 'string' }
+          - {label: 'Subtitle', name: 'subtitle', widget: 'string' }
+          - {label: 'Headline', name: 'headline', widget: 'string' }
           - label: Intro section
             name: intro
             widget: object
@@ -29,9 +31,26 @@ collections:
             fields:
               - { label: 'Title', name: 'title', widget: 'string' }
               - {label: 'Description', name: 'description', widget: 'markdownm ' }
-              - { label: 'Link', name: 'link', widget: 'string' }
-          - label: New ideas section
+              - label: Link
+                name: link
+                widget: object
+                fields:
+                  - { label: 'Text', name: 'text', widget: 'string' }
+                  - { label: 'URL', name: 'url', widget: 'string' }
+          - label: Ideas section
             name: ideas
+            widget: object
+            fields:
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - {label: 'Description', name: 'description', widget: 'markdown' }
+              - label: Link
+                name: link
+                widget: object
+                fields:
+                  - { label: 'Text', name: 'text', widget: 'string' }
+                  - { label: 'URL', name: 'url', widget: 'string' }
+          - label: Get involved section
+            name: get_involved
             widget: object
             fields:
               - { label: Title, name: title, widget: string }

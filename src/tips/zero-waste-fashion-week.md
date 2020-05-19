@@ -3,10 +3,11 @@ layout: layouts/post.njk
 title: Zero Waste Fashion Week
 date: 2020-03-02T16:06:35.071Z
 image: /uploads/zerowastefashionweek.png
+tags: stuff
 ---
 4000 tonnes of clothing and textiles end up in Leeds' black bins every year. [Zero Waste Fashion week](https://zerowastefashion.fashion.blog/fashion-week/) will be a series of events to celebrate the rich textile, fashion and clothing history of Leeds and explore how we can lead the world again but in a more sustainable way.
 
-The week will take place from Friday 17th April to 24th 2020 and will be a series of events at different venues across Leeds that aim to: 
+The week will take place from Friday 17th April to 24th 2020 and will be a series of events at different venues across Leeds that aim to:
 
 \- Share **practical** ways for people in Leeds to manage the impacts of their clothing choices
 

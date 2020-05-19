@@ -34,7 +34,8 @@
     "sass": "^1.26.5",
     "sass-loader": "^7.3.1",
     "sharp": "^0.23.4",
-    "typesplit": "^1.0.0"
+    "typesplit": "^1.0.0",
+    "vue-template-compiler": "^2.6.11"
   },
   "dependencies": {
     "eleventy-plugin-srcset": "^0.1.15"

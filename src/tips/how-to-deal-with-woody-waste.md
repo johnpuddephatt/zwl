@@ -2,18 +2,18 @@
 layout: layouts/post.njk
 title: How to deal with woody waste
 date: 2020-05-14T14:35:04.127Z
-tags: composting-compost-heap-advice
+tags: garden-waste
 image: /uploads/wheelbarrow-isobel.jpg
 ---
 <!--StartFragment-->
 
-So many things can go in your compost heap but woody waste is not one of them.  So what can you do with it? Here are some ideas! 
+So many things can go in your compost heap but woody waste is not one of them.  So what can you do with it? Here are some ideas!
 
 ### **Create a wildlife habitat**
 
-This is probably the simplest and easiest thing you can do. Take your logs and branches and pile them up, a shady spot works really well for this as it replicates a forest floor where these piles occur naturally. 
+This is probably the simplest and easiest thing you can do. Take your logs and branches and pile them up, a shady spot works really well for this as it replicates a forest floor where these piles occur naturally.
 
-It’s also a good way to use a part of your garden where plants don’t grow very well due the lack of light, even better if it’s a bit damp. 
+It’s also a good way to use a part of your garden where plants don’t grow very well due the lack of light, even better if it’s a bit damp.
 
 If you place these logs near a pond, the frogs will really thank you for it, they’ll use it to shelter in the summer and it will house the animals that frogs eat. They may also spend the winter there as frogs don't live in ponds all year round.
 
@@ -35,11 +35,11 @@ If you have access to a wood chipper then you can chip logs to make woodchip. If
 
 > you can chip logs to make woodchip
 
-We’d love to see your creative uses for waste wood in the garden, send in your pictures and we’ll share them on the website. 
+We’d love to see your creative uses for waste wood in the garden, send in your pictures and we’ll share them on the website.
 
 
 
-Here's a video we made with permaculturist and keen gardener, Damian Nicholls, with his top tips for using garden waste. 
+Here's a video we made with permaculturist and keen gardener, Damian Nicholls, with his top tips for using garden waste.
 
 
 

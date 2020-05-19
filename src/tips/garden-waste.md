@@ -2,12 +2,12 @@
 layout: layouts/post.njk
 title: Tips for reusing garden waste
 date: 2020-05-13T12:22:07.813Z
-tags: composting-compost-heap-advice
+tags: garden-waste
 image: /uploads/garden-waste.png
 ---
 ### What is garden waste?
 
-It’s the waste that you generate in your garden such as grass clippings, weeds, prunings, dead plants, leaves, twigs and branches or logs. It can also include some kitchen waste that can go in your compost bin like veg peelings, tea leaves, coffee grounds and fruit. 
+It’s the waste that you generate in your garden such as grass clippings, weeds, prunings, dead plants, leaves, twigs and branches or logs. It can also include some kitchen waste that can go in your compost bin like veg peelings, tea leaves, coffee grounds and fruit.
 
 All of this will end up in your brown (garden waste) or black (general waste) bins unless you compost it. Here’s how to divert garden waste from your bins into a really beneficial product that will enrich your garden.
 

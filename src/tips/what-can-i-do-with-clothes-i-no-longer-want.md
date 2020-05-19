@@ -4,8 +4,7 @@ title: What can I do with clothes i no longer want?
 date: 2020-05-14T11:10:39.572Z
 tags: recycling
 image: /uploads/4000tonnes-1-1-.png
-image_alt: Did you know that 4000 tonnes of clothing is thrown away in Leeds
-  black bins every year?
+image_alt: Did you know that 4000 tonnes of clothing is thrown away in Leeds black bins every year?
 ---
 It’s estimated that the average household in Leeds throws away around 12 kilos of clothing and textiles every year.
 

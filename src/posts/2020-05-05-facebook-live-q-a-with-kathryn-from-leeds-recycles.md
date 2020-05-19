@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Facebook Live Q & A with Kathryn from Leeds Recycles
+title: Facebook Live Q&A with Kathryn from Leeds Recycles
 date: 2020-05-05T14:11:18.523Z
 image: /uploads/kathrynevent1.jpg
 image_alt: Image of Kathryn Irish to promote the recycling Q & A

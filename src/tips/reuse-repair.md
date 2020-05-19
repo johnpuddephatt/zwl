@@ -4,6 +4,7 @@ title: Get to know your reuse and repair options in Leeds
 date: 2019-01-02T00:00:00.000Z
 image: /uploads/sewing.jpg
 image_alt: Sewing machine
+tags: stuff
 ---
 When we're thinking about wasting less, we often end up focusing first on recycling.
 

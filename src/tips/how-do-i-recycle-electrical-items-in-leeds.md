@@ -4,10 +4,9 @@ title: How do I recycle electrical items in Leeds?
 date: 2020-05-14T11:27:43.653Z
 tags: recycling
 image: /uploads/weee.png
-image_alt: Please don't put small electrical items in your black bin - they can
-  cause a fire hazard.
+image_alt: Please don't put small electrical items in your black bin - they can cause a fire hazard.
 ---
-It’s important not to put **small electrical items** that are no longer working in your black bin or in your green bin. 
+It’s important not to put **small electrical items** that are no longer working in your black bin or in your green bin.
 
 \
 They can present a fire hazard in the bin wagon - and throwing them away is also a waste of precious natural resources. Many small electrical items contain materials that - if they're collected for recycling - can be recovered and used again.\
