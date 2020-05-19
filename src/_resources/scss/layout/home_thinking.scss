@@ -68,6 +68,9 @@
 
   .thinking__item__title {
     font-size: modular-scale(1);
+    @media screen and (min-width: $medium-screen) {
+      font-size: modular-scale(0);
+    }
   }
 
 
