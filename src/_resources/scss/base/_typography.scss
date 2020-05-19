@@ -90,6 +90,7 @@ a {
   text-decoration: none;
   border-bottom: none;
   font-size: modular-scale(-1);
+  -webkit-font-smoothing: antialiased;
 
   &::after {
     display: inline-block;

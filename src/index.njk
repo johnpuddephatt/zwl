@@ -146,7 +146,7 @@ layout: layouts/base.njk
       {% for post in collections.posts | reverse | slice(1,4) -%}
       <div class="thinking__item">
         <a href="{{ post.url }}" class="thinking__item__image">
-          {% srcset post.data.image, featuredPost.data.image_alt, "thinking__item__image", 320, 240, "(min-width: 1120px) 172px, 30vw" %}
+          {% srcset post.data.image, featuredPost.data.image_alt, "thinking__item__image", 240, 240, "(min-width: 1120px) 172px, 30vw" %}
         </a>
         <div class="thinking__item__text">
           <h3 class="thinking__item__title">{{ post.data.title }}</h3>

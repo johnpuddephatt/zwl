@@ -26,6 +26,7 @@
 
 .intro__projects {
   margin-top: $base-spacing;
+
   p {
     color: $dark-gray;
     font-size: modular-scale(-1);
@@ -41,7 +42,7 @@
 }
 
 .project__description {
-  margin-bottom: $base-spacing;
+  margin-bottom: 0;
 }
 
 .intro__project {
