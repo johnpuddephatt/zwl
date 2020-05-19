@@ -9,9 +9,15 @@ $_button-background-color-hover: shade($action-color, 20%);
   color: $black;
   text-decoration: none;
   text-transform: lowercase;
+  transition: background-color $base-duration $base-timing, color $base-duration $base-timing;
 
   &__large {
     font-size: modular-scale(2);
+  }
+
+  &:hover {
+    background-color: $pink;
+    color: $black;
   }
 }
 
