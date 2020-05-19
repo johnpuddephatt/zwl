@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: How can i recycle paint in Leeds?
+title: How can I recycle paint in Leeds?
 date: 2020-05-14T14:06:50.502Z
 tags: recycling
 image: /uploads/canva-blue-paint-beside-blue-paint-roller.jpg
