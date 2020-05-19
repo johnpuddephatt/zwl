@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: TOP TIPS ON AVOIDING FOOD WASTE DURING THE COVID-19 OUTBREAK
+title: Top tips on avoiding food waste
 date: 2020-05-18T13:35:12.133Z
 tags: food-waste
 image: /uploads/food-waste.png
