@@ -82,23 +82,23 @@ a {
     outline: $focus-outline;
     outline-offset: $focus-outline-offset;
   }
-
-  &.read-more {
-    font-weight: 700;
-    color: $black;
-    text-decoration: none;
-    border-bottom: none;
-
-    &::after {
-      display: inline-block;
-      font-weight: 900;
-      margin-left: .25em;
-      content: '>';
-      font-family: $heading-font-family;
-    }
-  }
 }
 
+.read-more {
+  font-weight: 700;
+  color: $black;
+  text-decoration: none;
+  border-bottom: none;
+  font-size: modular-scale(-1);
+
+  &::after {
+    display: inline-block;
+    font-weight: 900;
+    margin-left: .25em;
+    content: '>';
+    font-family: $heading-font-family;
+  }
+}
 
 blockquote {
   color: $blue;
