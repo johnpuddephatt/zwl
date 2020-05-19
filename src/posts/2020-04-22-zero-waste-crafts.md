@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Zero Waste Crafts
 date: 2020-04-22T09:43:14.248Z
-image: /uploads/evo0gr5uuaakc9c.jpeg
+image: /uploads/craftcollage.jpg
 ---
 Show us your Zero Waste Crafts! We'll make a collage of all the pictures you send - a nice memory from our coronavirus lockdown 🌈
 
