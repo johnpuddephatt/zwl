@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Facebook Live Q&A with Kathryn from Leeds Recycles
 date: 2020-05-05T14:11:18.523Z
-image: /uploads/kathrynevent1.jpg
+image: /uploads/kathryn-2-.jpg
 image_alt: Image of Kathryn Irish to promote the recycling Q & A
 ---
 Last week we invited Kathryn Irish from Leeds City Council's recycling team to join us for [a live Q & A session on our Facebook page](https://www.facebook.com/zerowasteleeds/videos/1128891030780225/).
