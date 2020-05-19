@@ -150,7 +150,7 @@ layout: layouts/base.njk
         </a>
         <div class="thinking__item__text">
           <h3 class="thinking__item__title">{{ post.data.title }}</h3>
-          <p>{{ post.templateContent | striptags | truncate(50) | safe }}</p>
+          <p>{{ post.templateContent | striptags | truncate(75) | safe }}</p>
           <a class="read-more" href="{{ post.url }}">Learn more</a>
         </div>
       </div>
