@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: TOP TIPS ON AVOIDING FOOD WASTE DURING THE COVID-19 OUTBREAK
 date: 2020-05-18T13:35:12.133Z
 tags: food-waste
-image: /uploads/compost.png
+image: /uploads/food-waste.png
 ---
 At a time when we need to be more careful with food than ever, there's plenty of potential for even more food waste to be created because of bulk buying. Here are our top tips for reducing food waste during the COVID-19 outbreak.
 
