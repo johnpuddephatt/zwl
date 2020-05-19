@@ -9,10 +9,8 @@ Every year, approximately [6.6 million tonnes of food are wasted](https://wrap.o
 
 Confusion over 'use by' and 'best before' labels is one reason why some food is being wasted prematurely. 
 
-
-
 ![](/uploads/use-by-and-bbe-dates-on-food.png)
 
-The Best Before date is the biggest culprit when it comes to food waste - food is often fine for ages after the date, especially if it's been stored properly. You can use the Best Before date as a guide, it's about quality - The Food Standards Agency agrees, 'food will be safe to eat after the date but may not be at it's best' - so, no need to throw it away, but do think about how to use it up. 
+The Best Before date is the biggest culprit when it comes to food waste. Food is often fine for ages after this date, especially if it's been stored properly. The Food Standards Agency advises that 'food will be safe to eat after the date but may not be at it's best'. So, no need to throw it away, but do think about how to use it up. 
 
 The Use By date is trickier - that relates to food safety so follow the instructions and don't forget, your freezer is your friend, if you're not going to use it before the date, freeze it to use later.
