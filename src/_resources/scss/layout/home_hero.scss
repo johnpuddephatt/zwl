@@ -94,7 +94,7 @@
 .home-hero__link {
   @media screen and (max-width: $medium-screen) {
     position: absolute;
-    bottom: 3 * $base-spacing;
+    bottom: 4 * $base-spacing;
     left: 50%;
     width: 85%;
     max-width: 75%;
@@ -106,7 +106,7 @@
   text-align: center;
   text-decoration: none;
   line-height: $heading-line-height;
-  margin: 2 * $base-spacing auto (-2 * $base-spacing);
+  margin: 2 * $base-spacing auto (-3 * $base-spacing);
   position: relative;
   z-index: 999;
   text-transform: none;
