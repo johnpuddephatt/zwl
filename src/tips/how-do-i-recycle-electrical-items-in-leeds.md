@@ -3,10 +3,13 @@ layout: layouts/post.njk
 title: How do I recycle electrical items in Leeds?
 date: 2020-05-14T11:27:43.653Z
 tags: recycling
-image: /uploads/weee.png
-image_alt: Please don't put small electrical items in your black bin - they can cause a fire hazard.
+image: /uploads/repair-1-.png
+image_alt: Please don't put small electrical items in your black bin - they can
+  cause a fire hazard.
 ---
 It’s important not to put **small electrical items** that are no longer working in your black bin or in your green bin.
+
+![Please don't put small electrical items in your black bin as it could be a fire risk.  Use the map linked to in this article to find your nearest recycling drop-off point.](/uploads/weee.png "Please don't put small electrical items in your black bin")
 
 \
 They can present a fire hazard in the bin wagon - and throwing them away is also a waste of precious natural resources. Many small electrical items contain materials that - if they're collected for recycling - can be recovered and used again.\
@@ -19,11 +22,7 @@ Longer term, there are plans in place to make it easier for you to return small 
 \
 But for now you can either find a small electricals bank on the map, or wait until things go back to normal at the Household Waste Sites, and drop things off there for recycling.
 
-![Please don't put small electrical items in your black bin as it could be a fire risk.  Use the map linked to in this article to find your nearest recycling drop-off point.](/uploads/weee.png "Please don't put small electrical items in your black bin")
-
-
-
-- - -
+![](/uploads/weee2.png)
 
 If you have a **large electrical item**, such as a TV or washing machine, and it's still in good condition and in working order, then please think about donating it to a charity shop. There's [a list of some of the local charities that take items](https://www.leeds.gov.uk/residents/bins-and-recycling/get-rid-of-unwanted-items) (and which offer a limited collection service) on the Council website.   
 
