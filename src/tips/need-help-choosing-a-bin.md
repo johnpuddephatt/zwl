@@ -55,7 +55,7 @@ Some choices come down to space or the type of waste you have at your disposal. 
 
 *Helen Butt has been composting for over 10 years and volunteering with [Leeds Rotters](http://leedsrotters.org.uk/) for over eighteen months. You can read [Helen's own blog](http://silverbells2012.wordpress.com/) here.*
 
-*[Leeds City Council](https://www.leeds.gov.uk/residents/bins-and-recycling/composting) offer discounts on compost bins of up to 35% through their partner supplier [Great Green Systems.  ](https://www.greatgreensystems.com/shop/local-council-deals?rv)*
+*[Leeds City Council](https://www.leeds.gov.uk/residents/bins-and-recycling/composting) offer discounts on compost bins of up to 35% through their partner supplier [Great Green Systems.](https://www.greatgreensystems.com/shop/local-council-deals?rv)*
 
 <!--EndFragment-->
 
