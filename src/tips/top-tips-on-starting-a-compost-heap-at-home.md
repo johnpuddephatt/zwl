@@ -6,7 +6,7 @@ tags: garden-waste
 image: /uploads/compost.png
 image_alt: Image of fruit and veg peelings about to go in a compost heap
 ---
-Leeds City Council have had to suspend garden waste (brown bin) collections until w/c 25 May due to the coronavirus outbreak. So we've shared some tips on how you can create your own compost heap at home.
+We've shared some tips on how you can create your own compost heap at home.
 
 Many people are put off composting, thinking it’s too difficult or results in a smelly mess. Follow these tips and you should end up with a rich compost that can go back on your garden.
 
