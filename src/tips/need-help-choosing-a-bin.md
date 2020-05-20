@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Need help choosing a bin? "
+title: "Need help choosing a compost bin? "
 date: 2020-05-20T14:46:51.108Z
 tags: garden-waste
 image: /uploads/garden.jpg
