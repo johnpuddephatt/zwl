@@ -11,7 +11,7 @@ My first ambition upon acquiring a house with a garden was *to make compost*. Wi
 
 **Collapsible bins**
 
-The first compost bin I had was one of the collapsible plastic kind that you might have seen around – unfortunately, the plastic breaks down pretty quickly, which is the last thing you want for either yourself or the environment. Fortunately, [RHS Harlow Carr](https://www.rhs.org.uk/gardens/harlow-carr) came to the rescue with another collapsible bin by Haxnicks, which was made with a much more durable – and breathable – material.
+The first compost bin I had was one of the collapsible plastic kind that you might have seen around – unfortunately, the plastic breaks down pretty quickly, which is the last thing you want for either yourself or the environment. Fortunately, [RHS Harlow Carr](https://www.rhs.org.uk/gardens/harlow-carr) came to the rescue with another collapsible bin by [Haxnicks](https://www.haxnicks.co.uk/garden-products/composting), which was made with a much more durable – and breathable – material.
 
 Oxygen is important for decomposition of your compost bin’s contents. A breathable wall therefore is one consideration. Another is your ability to turn the contents of the bin. In the case of the Haxnicks bin, this process was made easy by virtue of it being a tube which could simply be lifted off. The tube could then be moved to a new location and refilled with the compost which needed more time in the bin, whilst the finished compost could be put to good use in the garden.
 
@@ -54,6 +54,8 @@ Some choices come down to space or the type of waste you have at your disposal. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ONhJJRf77RY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Helen Butt has been composting for over 10 years and volunteering with [Leeds Rotters](http://leedsrotters.org.uk/) for over eighteen months. You can read [Helen's own blog](http://silverbells2012.wordpress.com/) here.*
+
+*[Leeds City Council](https://www.leeds.gov.uk/residents/bins-and-recycling/composting) offer discounts on compost bins of up to 35% through their partner supplier [Great Green Systems.  ](https://www.greatgreensystems.com/shop/local-council-deals?rv)*
 
 <!--EndFragment-->
 
