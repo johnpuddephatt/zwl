@@ -27,7 +27,7 @@ The principle is that the brown material will soak up water which reduces the ne
 
 ![](/uploads/img_2928.jpg)
 
-I was actually able to plant my tomato plants straight into the soil over the trench because of the finished compost and the fact that the green waste was already partially decomposed.
+I was actually able to plant my cucumber plants straight into the soil over the trench because of the finished compost and the fact that the green waste was already partially decomposed.
 
 ![](/uploads/img_2929.jpg)
 
@@ -36,8 +36,6 @@ If, however, you are starting from scratch without finished compost and with was
 Once you’ve got the hang of making a trench in this way, you can add other ingredients to the mix. Got an old pair of jeans? Use latex gloves around the house? Drink filtered coffee? These can all be composted too. The thing to avoid is cooked food, dairy and meat, as these will attract rats, who will make short work of the contents of the trench.
 
 Should you wish to turn all food waste into valuable compost for your garden, there are however fantastic ways of doing this, which you can find elsewhere on the Zero Waste Leeds website. In the meantime, why not give the trench method a go?
-
-
 
 *Our Guest Blogger Helen Butt has been composting for over 10 years and volunteering with [Leeds Rotters](http://leedsrotters.org.uk/) for over eighteen months.  You can read [Helen's own blog](http://silverbells2012.wordpress.com) here.*  
 
