@@ -5,7 +5,7 @@ date: 2020-05-18T15:23:36.163Z
 tags: garden-waste
 image: /uploads/earth-and-worms.jpg
 ---
-### This a guest blog from Helen Butt of the [Leeds Rotters](https://www.facebook.com/leedsrotters/)
+### A guest blog from Helen Butt of the [Leeds Rotters](https://www.facebook.com/leedsrotters/)
 
 There are many ways to compost at home. You could buy a bin which is specifically designed for this purpose, or you can simply pile up garden waste in a heap in the corner of the garden, for example. But what about an even easier way to deal with both carbon and green waste which means the compost will be right where you need it from the word go?
 
