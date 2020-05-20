@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: "Need help choosing a bin? "
 date: 2020-05-20T14:46:51.108Z
 tags: garden-waste
-image: /uploads/img_2935.jpg
+image: /uploads/garden.jpg
 ---
 My personal experience - Guest blog from Helen Butt of Leeds Rotters
 
@@ -27,7 +27,7 @@ A disadvantage of the dalek is that it is hard to turn the compost over in order
 
 Another disadvantage of the dalek is that it is not good for food waste. I used to add vegetable peelings, for example, but I was still having to throw away things such as chicken skin and the pulp left over from making preserves.
 
-![](/uploads/img_2935.jpg)
+![](/uploads/garden.jpg)
 
 **Bokashi bin**
 
