@@ -5,7 +5,7 @@ date: 2020-05-14T15:19:17.787Z
 tags: garden-waste
 image: /uploads/1.jpg
 ---
-**There’s so much information out there about composting and how to make it.  No one size fits all and different methods work for different situations.**
+**No one size fits all and different methods work for different situations.  That's one sure fire thing we know about composting.**  
 
 **There are however some common challenges that all gardeners will face at some point on their composting journey.   Here are the tops ones we've come across and ways to solve them.**
 
