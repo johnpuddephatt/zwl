@@ -1,8 +1,9 @@
 ---
 order: 1
 title: Recycling
-intro: Most of us do it, but many of us could be much better at it. Start learning how to level up.
+intro: Most of us do it, but many of us could be much better at it. Start
+  learning how to level up.
 slug: recycling
-icon: "/uploads/recycling-icon.png"
-image: "/uploads/recycling.jpg"
+icon: /uploads/recycling-icon.png
+image: /uploads/canva-photo-of-plastic-bottles-1-.jpg
 ---
