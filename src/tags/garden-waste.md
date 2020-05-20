@@ -1,8 +1,8 @@
 ---
 order: 3
 title: Garden waste
-intro: With the right approach, the garden can easily become a waste reducer’s
-  best friend.
+intro: "Want to start composting, creating wildlife habitats, reusing what's in
+  your garden? We've got plenty of tips to get you started. "
 slug: garden-waste
 icon: /uploads/garden-waste-icon.png
 image: /uploads/garden-waste-5-.png
