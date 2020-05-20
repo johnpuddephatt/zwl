@@ -5,5 +5,5 @@ intro: With the right approach, the garden can easily become a waste reducer’s
   best friend.
 slug: garden-waste
 icon: /uploads/garden-waste-icon.png
-image: /uploads/garden-waste.jpg
+image: /uploads/garden-waste-5-.png
 ---
