@@ -11,7 +11,7 @@ My first ambition upon acquiring a house with a garden was *to make compost*. Wi
 
 **Collapsible bins**
 
-The first compost bin I had was one of the collapsible plastic kind that you might have seen around – unfortunately, the plastic breaks down pretty quickly, which is the last thing you want for either yourself or the environment. Fortunately, RHS Harlow Carr came to the rescue with another collapsible bin by Haxnicks, which was made with a much more durable – and breathable – material.
+The first compost bin I had was one of the collapsible plastic kind that you might have seen around – unfortunately, the plastic breaks down pretty quickly, which is the last thing you want for either yourself or the environment. Fortunately, [RHS Harlow Carr](https://www.rhs.org.uk/gardens/harlow-carr) came to the rescue with another collapsible bin by Haxnicks, which was made with a much more durable – and breathable – material.
 
 Oxygen is important for decomposition of your compost bin’s contents. A breathable wall therefore is one consideration. Another is your ability to turn the contents of the bin. In the case of the Haxnicks bin, this process was made easy by virtue of it being a tube which could simply be lifted off. The tube could then be moved to a new location and refilled with the compost which needed more time in the bin, whilst the finished compost could be put to good use in the garden.
 
@@ -23,7 +23,9 @@ A year or so later, friends gave me a dalek style compost bin. This was a genero
 
 A disadvantage of the dalek is that it is hard to turn the compost over in order to mix the contents and add oxygen. As mentioned above, oxygen is an important part of the compost-making process, but fortunately there are other means of getting it into your bin. Basically, taking a garden fork to the contents will break them up and introduce channels for air to get into the compost. As the bin also has a hatch at the bottom for removing compost, you can shift some from the bottom to the top to mix things up a bit.
 
-Another disadvantage of the dakek is that it is not good for food waste. I did used to add vegetable peelings, for example, but I was still having to throw away things such as chicken skin and the pulp left over from making preserves.
+> oxygen is an important part of the compost-making process
+
+Another disadvantage of the dalek is that it is not good for food waste. I used to add vegetable peelings, for example, but I was still having to throw away things such as chicken skin and the pulp left over from making preserves.
 
 ![](/uploads/img_2935.jpg)
 
@@ -46,5 +48,13 @@ It’s early days with the Green Johanna, so I have yet to take any finished com
 These are just a few options for making compost in your own garden. There are others methods you can use, such as a **wormery** or a **drum composter**, the one which also allows you to compost food waste and the other making compost more quickly than a static compost bin.
 
 Some choices come down to space or the type of waste you have at your disposal. However, they will all provide you with a very pleasing alternative to throwing your waste away.
+
+<!--StartFragment-->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ONhJJRf77RY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Helen Butt has been composting for over 10 years and volunteering with [Leeds Rotters](http://leedsrotters.org.uk/) for over eighteen months. You can read [Helen's own blog](http://silverbells2012.wordpress.com/) here.*
+
+<!--EndFragment-->
 
 <!--EndFragment-->
