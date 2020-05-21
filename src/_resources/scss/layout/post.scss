@@ -34,6 +34,7 @@
 
 .page-body {
   margin-top: 3 * $base-spacing;
+  @extend %pretty_links;
 
   &::before,
   &::after {
