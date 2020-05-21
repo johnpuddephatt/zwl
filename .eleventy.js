@@ -97,11 +97,11 @@ module.exports = function(eleventyConfig) {
 
 
   eleventyConfig.srcsetWidths = [ 320, 640, 960, 1280, 1600, 1920, 2240, 2560 ];
-  
+
   eleventyConfig.addShortcode('srcset', (path, alt, className, width, height, sizes, resize) => {
-    const src = `${path}?nf_resize=${resize||'smartcrop'}&w=${ width }&h=${ height }`;
+    const src = `${path.split(" ").join("%20")}?nf_resize=${resize||'smartcrop'}&w=${ width }&h=${ height }`;
     const srcset = eleventyConfig.srcsetWidths.map(w => {
-      return `${path}?nf_resize=${resize||'smartcrop'}&w=${ w }&h=${ (width && height) ? Math.floor(height/width * w) : '' }`;
+      return `${path.split(" ").join("%20")}?nf_resize=${resize||'smartcrop'}&w=${ w }&h=${ (width && height) ? Math.floor(height/width * w) : '' }`;
     }).join(', ');
     return `<img src="${src}" class="${className}" srcset="${srcset}" sizes="${sizes ? sizes : '100vw'}" alt="${alt ? alt : ''}">`;
   });
