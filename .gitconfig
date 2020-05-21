@@ -1,2 +1,2 @@
-[credential]
-  helper = netlify
+[credential "https://jolly-meninsky-d8f3ae.netlify.app"]
+helper = netlify
