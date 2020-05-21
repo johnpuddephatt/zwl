@@ -1,8 +1,9 @@
 ---
 order: 2
 title: Food waste
-intro: From packaging to leftovers, there are loads of ways to get on top of food waste.
+intro: Research suggests many of us have reduced how much food we waste over the
+  last couple of months
 slug: food-waste
-icon: "/uploads/food-waste-icon.png"
-image: "/uploads/food-waste.jpg"
+icon: /uploads/food-waste-icon.png
+image: /uploads/food-waste.jpg
 ---
