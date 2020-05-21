@@ -4,6 +4,7 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 site_url: https://www.zerowasteleeds.org.uk
 media_folder: '/src/uploads'
+logo_url: https://www.zerowasteleeds.org.uk/assets/images/logo.svg
 # public_folder: "/uploads"
 publish_mode: editorial_workflow
 collections:
