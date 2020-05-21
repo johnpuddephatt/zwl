@@ -16,21 +16,20 @@ collections:
         name: "home"
         file: "/src/_data/home.json"
         fields:
-          - {label: 'Title', name: 'title', widget: 'string' }
-          - {label: 'Subtitle', name: 'subtitle', widget: 'string' }
-          - {label: 'Headline', name: 'headline', widget: 'string' }
           - label: Intro section
             name: intro
             widget: object
             fields:
-              - { label: 'Title', name: 'title', widget: 'string' }
-              - {label: 'Description', name: 'description', widget: 'markdown' }
+              - {label: 'Title', name: 'title', widget: 'string', required: false }
+              - {label: 'Subtitle', name: 'subtitle', widget: 'string', required: false }
+              - {label: 'Headline', name: 'headline', widget: 'string', required: false }
+              - {label: 'Description', name: 'description', widget: 'markdown', required: false }
           - label: Projects
             name: projects
             widget: list
             fields:
               - { label: 'Title', name: 'title', widget: 'string' }
-              - {label: 'Description', name: 'description', widget: 'markdownm ' }
+              - {label: 'Description', name: 'description', widget: 'markdown' }
               - label: Link
                 name: link
                 widget: object
