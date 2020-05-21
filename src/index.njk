@@ -50,7 +50,7 @@ layout: layouts/base.njk
   <div class="container">
     {% include "lightbulb.svg" %}
     <div class="ideas__text">
-      <h2 class="section-title">{{ home.ideas.title | nl2br | safe }}</h2>
+      <h2 class="section-title">{{ home.ideas.title | nl2br | safe }}!</h2>
       {{ home.ideas.description | markdownify | safe}}
       <a class="button button__large button__inverted type-4" href="{{ home.ideas.link.url }}">{{ home.ideas.link.text }}</a>
     </div>
