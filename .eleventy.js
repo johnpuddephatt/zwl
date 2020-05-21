@@ -1,5 +1,5 @@
 const path = require('path');
-const pluginSrcsetImg = require( "eleventy-plugin-srcset" );
+// const pluginSrcsetImg = require( "eleventy-plugin-srcset" );
 const svgContents = require("eleventy-plugin-svg-contents");
 
 
@@ -11,7 +11,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addShortcode('excerpt', article => extractExcerpt(article));
 
   // Plugins
-  eleventyConfig.addPlugin( pluginSrcsetImg );
+  // eleventyConfig.addPlugin( pluginSrcsetImg );
   eleventyConfig.addPlugin(svgContents);
 
   // Copy files
@@ -94,6 +94,17 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addNunjucksFilter("markdownify", markdownString => md.render(markdownString));
+
+
+  eleventyConfig.srcsetWidths = [ 320, 640, 960, 1280, 1600, 1920, 2240, 2560 ];
+  
+  eleventyConfig.addShortcode('srcset', (path, alt, className, width, height, sizes, resize) => {
+    const src = `${path}?nf_resize=${resize||'smartcrop'}&w=${ width }&h=${ height }`;
+    const srcset = eleventyConfig.srcsetWidths.map(w => {
+      return `${path}?nf_resize=${resize||'smartcrop'}&w=${ w }&h=${ (width && height) ? Math.floor(height/width * w) : '' }`;
+    }).join(', ');
+    return `<img src="${src}" class="${className}" srcset="${srcset}" sizes="${sizes ? sizes : '100vw'}" alt="${alt ? alt : ''}">`;
+  });
 
   return {
     dir: {
