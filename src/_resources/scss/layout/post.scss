@@ -84,6 +84,9 @@
     list-style-type: disc;
     margin-left: 1.5 * $base-spacing;
   }
+  ol li {
+    list-style-type: decimal;
+  }
   li + li {
     margin-top: $small-spacing;
   }
