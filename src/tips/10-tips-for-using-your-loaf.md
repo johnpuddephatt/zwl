@@ -28,7 +28,7 @@ We’ve pulled together some top tips and delicious recipes so that you’ll nev
 
 **Panzanella Salad**
 
-![](/uploads/salad.png)
+![](/uploads/08appe2-articlelarge.jpg)
 
 A mixed punnet of different, small, heritage tomatoes makes the best panzanella.
 
