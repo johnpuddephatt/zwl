@@ -93,7 +93,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addNunjucksFilter("markdownify", markdownString => md.render(markdownString));
 
 
-  eleventyConfig.srcsetWidths = [ 320, 640, 960, 1280, 1600, 1920, 2240, 2560 ];
+  eleventyConfig.srcsetWidths = [ 320, 540, 960, 1280, 1600, 1920, 2240, 2560 ];
   eleventyConfig.autoselector = '.page-body img';
   eleventyConfig.fallbackWidth = 540;
 
