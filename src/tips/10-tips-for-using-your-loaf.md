@@ -22,9 +22,15 @@ We’ve pulled together some top tips and delicious recipes so that you’ll nev
 9. Use your freezer - if you’ve had your loaf a few days and you’re not going to use it, pop it in your freezer for an endless supply of toast.
 10. Look up bread-based recipes. Most involve bread that has gone stale. See our a recipe suggestion below.
 
+<!--StartFragment-->
 
+> In the UK we throw away 24 million slices of bread EVERY DAY
+
+<!--EndFragment-->
 
 **Panzanella Salad**
+
+![](/src/uploads/salad.png)
 
 A mixed punnet of different, small, heritage tomatoes makes the best panzanella. 
 
@@ -41,6 +47,8 @@ Add your stale bread croutons and mix so that they soak up the dressing.
 To make this into a bigger meal you could add mozzarella cheese and basil, prawns, tuna or some salami.
 
 **Bread and butter pudding**
+
+![](/src/uploads/bread-and-butter-pud.png)
 
 8 slices of stale bread buttered and cut into triangles (brown or white, either is fine but white probably better). 
 
