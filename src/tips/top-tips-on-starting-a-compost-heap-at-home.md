@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Top tips on starting a compost heap at home
 date: 2020-04-03T13:13:08.851Z
 tags: garden-waste
-image: /uploads/compost.png
+image: /uploads/compost.jpg
 image_alt: Image of fruit and veg peelings about to go in a compost heap
 ---
 We've shared some tips on how you can create your own compost heap at home.

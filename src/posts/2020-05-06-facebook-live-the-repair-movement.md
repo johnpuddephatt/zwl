@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Facebook Live - The Repair Movement
 date: 2020-05-06T14:22:05.632Z
-image: /uploads/repair.png
+image: /uploads/repair.jpg
 image_alt: Repair Facebook Live Event image
 ---
 Today we hosted a Facebook Live Q & A about all things to do with repair.
