@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: 10 tips for using your loaf
 date: 2020-05-22T13:43:04.619Z
 tags: food-waste
-image: /src/uploads/bread.png
+image: /uploads/bread.png
 ---
 In the UK we throw away 24 million slices of bread EVERY DAY. It’s time we learned to use our loaf.
 
@@ -28,17 +28,17 @@ We’ve pulled together some top tips and delicious recipes so that you’ll nev
 
 **Panzanella Salad**
 
-![](/src/uploads/salad.png)
+![](/uploads/salad.png)
 
-A mixed punnet of different, small, heritage tomatoes makes the best panzanella. 
+A mixed punnet of different, small, heritage tomatoes makes the best panzanella.
 
-Slice a whole punnet (not thin slices, you need chunks or cut a cherry tomato in half for example). 
+Slice a whole punnet (not thin slices, you need chunks or cut a cherry tomato in half for example).
 
 Thinly slice a whole red onion. Mix the tomatoes and onion together in a bowl, season with salt and pepper.
 
-Leave at room temperature for an hour - the salt will draw the juice from the tomatoes. You could add sliced, mixed peppers for a more substantial salad. 
+Leave at room temperature for an hour - the salt will draw the juice from the tomatoes. You could add sliced, mixed peppers for a more substantial salad.
 
-Pour over a good glug of olive oil and a little white wine vinegar. 
+Pour over a good glug of olive oil and a little white wine vinegar.
 
 Add your stale bread croutons and mix so that they soak up the dressing.
 
@@ -46,17 +46,17 @@ To make this into a bigger meal you could add mozzarella cheese and basil, prawn
 
 **Bread and butter pudding**
 
-![](/src/uploads/bread-and-butter-pud.png)
+![](/uploads/bread-and-butter-pud.png)
 
-8 slices of stale bread buttered and cut into triangles (brown or white, either is fine but white probably better). 
+8 slices of stale bread buttered and cut into triangles (brown or white, either is fine but white probably better).
 
-If you like orange marmalade you could spread a thin layer of that on some slices for extra flavour and/or you can grate some orange zest over the buttered bread too. 
+If you like orange marmalade you could spread a thin layer of that on some slices for extra flavour and/or you can grate some orange zest over the buttered bread too.
 
-Warm 30ml of full fat milk and 50ml of cream in a saucepan over a low heat. 
+Warm 30ml of full fat milk and 50ml of cream in a saucepan over a low heat.
 
-In a separate bowl crack 2 eggs and whisk together with three tablespoons of caster sugar. 
+In a separate bowl crack 2 eggs and whisk together with three tablespoons of caster sugar.
 
-Pour the warm milk slowly over the egg mixture, whisking all the time. 
+Pour the warm milk slowly over the egg mixture, whisking all the time.
 
 Arrange the slices of bread in a dish, scatter dried fruit between the layers (mixed dried fruit or whatever you have in) 50-100g - I like a lot!
 
