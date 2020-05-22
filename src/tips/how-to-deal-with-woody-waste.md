@@ -7,7 +7,7 @@ image: /uploads/wheelbarrow-isobel.jpg
 ---
 <!--StartFragment-->
 
-So many things can go in your compost heap but woody waste is not one of them.  So what can you do with it? Here are some ideas!
+Woody waste can't go in your compost heap. So what can you do with it? Here are some ideas!
 
 ### **Create a wildlife habitat**
 
@@ -37,10 +37,6 @@ If you have access to a wood chipper then you can chip logs to make woodchip. If
 
 We’d love to see your creative uses for waste wood in the garden, send in your pictures and we’ll share them on the website.
 
-
-
 Here's a video we made with permaculturist and keen gardener, Damian Nicholls, with his top tips for using garden waste.
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-cMpVlkUGag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
