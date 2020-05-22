@@ -1,11 +1,8 @@
 const path = require('path');
-// const pluginSrcsetImg = require( "eleventy-plugin-srcset" );
 const svgContents = require("eleventy-plugin-svg-contents");
-
-
+const { JSDOM } = require('jsdom');
 
 module.exports = function(eleventyConfig) {
-
 
   // Shortcodes
   eleventyConfig.addShortcode('excerpt', article => extractExcerpt(article));
@@ -97,14 +94,48 @@ module.exports = function(eleventyConfig) {
 
 
   eleventyConfig.srcsetWidths = [ 320, 640, 960, 1280, 1600, 1920, 2240, 2560 ];
+  eleventyConfig.autoselector = '.page-body img';
+  eleventyConfig.fallbackWidth = 540;
 
-  eleventyConfig.addShortcode('srcset', (path, alt, className, width, height, sizes, resize) => {
-    const src = `${path.split(" ").join("%20")}?nf_resize=${resize||'smartcrop'}&w=${ width }&h=${ height }`;
+  const createMarkup = (path, alt, className, width, height, sizes, resize) => {
+    const src = `${path.split(" ").join("%20")}?nf_resize=${resize||'smartcrop'}&w=${ width }${ height ? '&h=' + height : '' }`;
     const srcset = eleventyConfig.srcsetWidths.map(w => {
-      return `${path.split(" ").join("%20")}?nf_resize=${resize||'smartcrop'}&w=${ w }&h=${ (width && height) ? Math.floor(height/width * w) : '' } ${w}w`;
+      return `${path.split(" ").join("%20")}?nf_resize=${resize||'smartcrop'}&w=${ w }${ (height && width) ? '&h=' + Math.floor(height/width * w) : '' } ${w}w`;
     }).join(', ');
     return `<img src="${src}" class="${className}" srcset="${srcset}" sizes="${sizes ? sizes : '100vw'}" alt="${alt ? alt : ''}">`;
+  }
+
+  eleventyConfig.addShortcode('srcset', (path, alt, className, width, height, sizes, resize) => {
+    return createMarkup(path, alt, className, width, height, sizes, resize);
   });
+
+  eleventyConfig.addTransform('autoSrcset', async (content, outputPath) => {
+    if( outputPath.endsWith(".html") && eleventyConfig.autoselector) {
+      const dom = new JSDOM(content);
+      const images = [...dom.window.document.querySelectorAll(eleventyConfig.autoselector)];
+      if(images.length > 0) {
+        await Promise.all(images.map(updateImage));
+      }
+      content = dom.serialize();
+      return content;
+    }
+  });
+
+  const updateImage = async imgElem => {
+    let path = imgElem.src;
+    let alt = imgElem.alt | '';
+    let className = 'post-image';
+    let sizes = `(min-width: ${ eleventyConfig.fallbackWidth || 800 }px) ${ eleventyConfig.fallbackWidth || 800 }px, 100vw`;
+    let resize = eleventyConfig.autoResizeMode || 'fit';
+    let imageExtension = path.split('.').pop();
+    let height = eleventyConfig.fallbackHeight || null;
+    let width = eleventyConfig.fallbackWidth || 800;
+    if(imageExtension != 'svg') {
+      let newMarkup = createMarkup(path, alt, className, width, height, sizes, resize);
+      imgElem.insertAdjacentHTML('afterend', newMarkup);
+      imgElem.remove();
+    }
+  }
 
   return {
     dir: {

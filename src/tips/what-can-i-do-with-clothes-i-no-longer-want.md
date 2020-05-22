@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: What can I do with clothes I no longer want?
 date: 2020-05-14T11:10:39.572Z
 tags: recycling
-image: /uploads/clothespile.png
+image: /uploads/clothespile.jpg
 image_alt: Did you know that 4000 tonnes of clothing is thrown away in Leeds
   black bins every year?
 ---
