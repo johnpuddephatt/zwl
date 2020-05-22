@@ -5,7 +5,7 @@ date: 2020-05-20T14:46:51.108Z
 tags: garden-waste
 image: /uploads/garden.jpg
 ---
-My personal experience - Guest blog from Helen Butt of [Leeds Rotters](https://www.facebook.com/leedsrotters/)
+My compost bin journey (Guest blog from Helen Butt of [Leeds Rotters](https://www.facebook.com/leedsrotters/)) 
 
 My first ambition upon acquiring a house with a garden was *to make compost*. Without even knowing it at that time, compost-making has turned out to be one of the most satisfying jobs I’ve ever done.
 
