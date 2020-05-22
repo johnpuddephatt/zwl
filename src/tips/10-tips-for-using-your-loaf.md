@@ -40,9 +40,9 @@ Add your stale bread croutons and mix so that they soak up the dressing.
 
 To make this into a bigger meal you could add mozzarella cheese and basil, prawns, tuna or some salami.
 
-**Bread and butter pudding**
+### Bread and butter pudding
 
-![](/uploads/bread-and-butter-pud.png)
+![](/uploads/letterbox_orange-bread-_-butter-pudding593.jpg)
 
 8 slices of stale bread buttered and cut into triangles (brown or white, either is fine but white probably better).
 
