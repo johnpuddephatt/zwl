@@ -13,8 +13,6 @@ We’ve pulled together some top tips and delicious recipes so that you’ll nev
 2. Proper storage - somewhere dark and cool and tie the bag tight so that air can’t get in.
 3. Revive stale bread - stick a slice in the microwave for 5-10 seconds max to revive it. If your baguette has gone soft, sprinkle with a little water and bake for 10 mins at 180 to revive that lovely, crisp crust.
 4. Toast it - plan a quick and easy lunch or tea, pile it up with buttery scrambled eggs or slice fresh tomatoes, layer over the toast and season with salt and pepper or why not spread with a little chutney then sprinkle with loads of grated cheese and grill.
-
-   ![](/src/uploads/copy-of-love-toast.png)
 5. Croutons - stale bread makes gorgeous croutons for salads or soups. Sprinkle cheese on a large crouton, grill until golden then top your bowl of soup with it. See the panzanella recipe for a great way to use in a salad.
 6. Pizza - practically any slice of bread or a baguette will make a fab pizza base. Lightly toast then load with your favourite toppings, tomatoes, cheese, mushrooms, salami - grill or bake - delicious! If you have children, they’ll love making their own pizza slices.
 7. Cut the crust - lots of people don’t like crusts and this creates a lot of waste. Some crusts are quite thick so you could always just take the very end off with your bread knife and turn a crust into a slice. Lay your slice flat, crust up, and cut horizontally.
@@ -64,4 +62,4 @@ Arrange the slices of bread in a dish, scatter dried fruit between the layers (m
 
 Pour over the custard and bake at 160 fan for 30-40 minutes until the custard is set.
 
-<!--EndFragment-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uBquLnG7S84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
