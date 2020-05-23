@@ -20,7 +20,7 @@ We’ve pulled together some top tips and delicious recipes so that you’ll nev
 9. Use your freezer - if you’ve had your loaf a few days and you’re not going to use it, pop it in your freezer for an endless supply of toast.
 10. Look up bread-based recipes. Most involve bread that has gone stale. See our recipe suggestions below.
 
-In the UK we throw away 24 million slices of bread EVERY DAY
+> In the UK we throw away 24 million slices of bread EVERY DAY
 
 ### **Panzanella Salad**
 
