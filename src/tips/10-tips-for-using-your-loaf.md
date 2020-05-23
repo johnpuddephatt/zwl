@@ -18,9 +18,9 @@ We’ve pulled together some top tips and delicious recipes so that you’ll nev
 7. Cut the crust - lots of people don’t like crusts and this creates a lot of waste. Some crusts are quite thick so you could always just take the very end off with your bread knife and turn a crust into a slice. Lay your slice flat, crust up, and cut horizontally.
 8. Breadcrumbs - whizz stale bread in your food processor (if it’s still a little soft you can bake it for a few minutes in the oven to dry it out first). You can use them straight away or freeze them. If they come out of the freezer a little damp, just spread them on a baking tray and bake at 180 for 5 minutes.
 9. Use your freezer - if you’ve had your loaf a few days and you’re not going to use it, pop it in your freezer for an endless supply of toast.
-10. Look up bread-based recipes. Most involve bread that has gone stale. See our a recipe suggestion below.
+10. Look up bread-based recipes. Most involve bread that has gone stale. See our recipe suggestions below.
 
-In the UK we throw away 24 million slices of bread EVERY DAY
+> In the UK we throw away 24 million slices of bread EVERY DAY
 
 ### **Panzanella Salad**
 
