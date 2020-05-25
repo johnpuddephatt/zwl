@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: 10 tips for using your loaf
+title: Ten tips for using your loaf
 date: 2020-05-22T13:43:04.619Z
 tags: food-waste
 image: /uploads/bread.png
