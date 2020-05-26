@@ -17,11 +17,11 @@ With lots of people making their own masks at the minute, elastic is like gold d
 
 Jenny's top top is to use different colours for different sides of the face covering so you know which is the side that touches your mouth.
 
-There are plenty of how-to videos and patterns that you can download from The Big Community Sew website, including this one from Patrick Grant.
+There are plenty of how-to videos and patterns that you can download from [The Big Community Sew website](https://www.bigcommunitysew.co.uk/), including this one from Patrick Grant.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wJEDtTBAdfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Put the word out in your community that you're making the masks, ask for offers of help or offer help to others. It's a community thing! There's so much support available online too. It's worth having a look on the Big Community sew website to see who is already making them in your area. Or look in community groups on Facebook. Make some for friends and family. The more you make the less likely it is they'll try to get hold of much needed medical masks.
+Put the word out in your community that you're making the masks, ask for offers of help or offer help to others. It's a community thing! There's so much support available online too. It's worth having a look on [The Big Community Sew website](https://www.bigcommunitysew.co.uk/) to see who is already making them in your area. Or look in community groups on Facebook. Make some for friends and family. The more you make the less likely it is they'll try to get hold of much needed medical masks.
 
 <br>
 
