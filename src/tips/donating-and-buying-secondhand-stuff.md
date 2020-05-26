@@ -7,7 +7,9 @@ image: /uploads/canva-blue-sofa.jpg
 ---
 With so many options to buy and donate secondhand stuff in Leeds, there's really very little need to buy new! Many reuse organisations in Leeds are run by charities or social enterprises, so by buying from them, not only are you saving precious environmental resources, but you are also often supporting a really good cause.
 
-We have listed all the reuse options we know in Leeds below. Please [get in touch](mailto:info@zerowasteleeds.org.uk) if we have missed any. Please note that due to Covid-19, many of the organisations below are closed for now.
+We have listed all the reuse options we know in Leeds below. Please [get in touch](mailto:info@zerowasteleeds.org.uk) if we have missed any. 
+
+\*Please note that due to Covid-19, many of the organisations below are closed for now. Check their websites for details.\*
 
 ## For furniture, clothing, books, CDs and more
 
