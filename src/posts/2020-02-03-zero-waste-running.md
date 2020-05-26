@@ -2,10 +2,12 @@
 layout: layouts/post.njk
 title: Zero Waste Running featured in Runners World magazine!
 date: 2020-02-03T10:14:27.933Z
-image: /uploads/Screen Shot 2020-02-03 at 15.13.46.png
+image: /uploads/running.png
 image_alt: Zero Waste Running
 ---
 Our work with local running clubs and race organisers is featured in the latest edition of Runners World magazine!
+
+![](/uploads/Screen Shot 2020-02-03 at 15.13.46.png)
 
 Many of us love to run - and lots run to race. And there are all sorts of positive impacts of all of that! But naturally there are some less positive impacts too - most notably the enormous amount of single-use plastics that hundreds of runners can get through.
 
