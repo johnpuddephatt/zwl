@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Zero Waste Fashion
 date: 2019-12-17T14:53:37.629Z
-image: /uploads/Zero Waste project logo.jpg
+image: /uploads/fashionhack.jpg
 image_alt: Leeds Community Clothing Exchange
 ---
 Zero Waste Fashion aims to increase awareness of the best ways to recycle, reuse, repair and upcycle clothing and textiles in Leeds.
