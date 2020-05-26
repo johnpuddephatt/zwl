@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
-title: 'Info about #LeedsBins during #covid19'
+title: "Info about #LeedsBins during #covid19"
 date: 2020-03-23T14:24:25.058Z
-image: /uploads/zw-logo-white-grey.jpg
+image: /uploads/leedsbins.jpeg
 ---
 During the current Covid-19 outbreak, we are pausing the rest of our work and focusing on supporting the Council in communicating changes to bin collections, recycling and waste management.
 
