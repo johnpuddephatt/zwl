@@ -2,10 +2,12 @@
 layout: layouts/post.njk
 title: Helping you to have a Zero Waste Christmas
 date: 2019-12-17T15:53:03.754Z
-image: /uploads/12days.jpg
+image: /uploads/christmas.png
 image_alt: 12 Days of Zero Waste Image
 ---
 Christmas can be a time when so much gets wasted or thrown away - but it doesn't need to be that way!
+
+![](/uploads/12days.jpg)
 
 We've been working on a really exciting project with local TV production company [True North](https://www.truenorth.tv/), to produce a series of [twelve short films](https://www.youtube.com/channel/UCD4AOnL4OuGUnxHqDi_5ghQ/videos?view_as=public) on the theme of a Zero Waste Christmas.
 
