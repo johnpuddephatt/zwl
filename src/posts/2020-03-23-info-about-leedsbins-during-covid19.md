@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Info about #LeedsBins during #covid19"
+title: "Info about #LeedsBins during #Covid19"
 date: 2020-03-23T14:24:25.058Z
 image: /uploads/leedsbins.jpeg
 ---
