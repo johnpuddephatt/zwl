@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: How can I get my bike repaired in Leeds?
 date: 2020-05-27T15:28:25.043Z
 tags: stuff
-image: /uploads/canva-black-road-bicycle-inside-room.jpg
+image: /uploads/screen-shot-2020-05-27-at-17.31.20.png
 image_alt: Photo of a bicycle in a repair shop by Alexander Dummer via Canva
 ---
 It's been great to see so many more more people out on bikes in Leeds over the last few weeks.
