@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: What are my bike repair options in Leeds?
+title: How can I get my bike repaired in Leeds?
 date: 2020-05-27T15:28:25.043Z
 tags: stuff
 image: /uploads/canva-black-road-bicycle-inside-room.jpg
