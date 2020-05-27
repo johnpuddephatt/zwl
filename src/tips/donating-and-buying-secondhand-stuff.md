@@ -9,7 +9,7 @@ With so many options to buy and donate secondhand stuff in Leeds, there's really
 
 We have listed all the reuse options we know in Leeds below. Please [get in touch](mailto:info@zerowasteleeds.org.uk) if we have missed any. 
 
-\*Please note that due to Covid-19, many of the organisations below are closed for now. Check their websites for details.\*
+\*Please note that due to Covid-19, many of the organisations below are closed for now. Check their websites for details. However, they will need your donations more than ever once they are able to reopen, so please keep hold of stuff for now.\*
 
 ## For furniture, clothing, books, CDs and more
 
