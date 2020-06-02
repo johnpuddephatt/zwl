@@ -5,7 +5,7 @@ date: 2020-06-01T13:38:05.264Z
 tags: stuff
 image: /uploads/de-clutter.png
 ---
-On Monday, we talked to Lesley Naylor from [Clutter Therapy UK](https://cluttertherapy.uk/) and Nicola Woodgate from [St Gemma's Hospice](https://www.st-gemma.co.uk/charity-shops) about decluttering at a time when it's harder to get rid of your clutter. You can watch the live back below.
+We recently talked to Lesley Naylor from [Clutter Therapy UK](https://cluttertherapy.uk/) and Nicola Woodgate from [St Gemma's Hospice](https://www.st-gemma.co.uk/charity-shops) about decluttering at a time when it's harder to get rid of your clutter. You can watch the Lunchtime Live conversation back below.
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fzerowasteleeds%2Fvideos%2F714842562645251%2F&show_text=1&width=560" width="560" height="426" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
