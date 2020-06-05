@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: How to make a face mask from stuff you have lying around the house
+title: How to make a face covering from stuff you have lying around the house
 date: 2020-05-26T14:36:21.831Z
 tags: stuff
 image: /uploads/93796060_617929519067512_4356177176366185127_n.jpg
@@ -11,9 +11,9 @@ It's really easy to make face coverings out of stuff you have lying around your 
 
 [The Big Community Sew](https://www.bigcommunitysew.co.uk/) was set up to help ensure that every person in every community in Britain has the face covering they need. With around six million sewing machines in homes across the UK, if every one of those machines was used to make just a dozen face coverings that would be enough for every person in the UK. 
 
-You can make a face mask out of any spare fabrics you have in the house, whether that's an old pillow case, duvet cover, or a cotton t-shirt. Silk and linen work less well. The best materials are those that are thick enough to allow filtration but are breathable and comfortable. Two layers tends to be more effective than one.
+You can make a face covering out of any spare fabrics you have in the house, whether that's an old pillow case, duvet cover, or a cotton t-shirt. Silk and linen work less well. The best materials are those that are thick enough to allow filtration but are breathable and comfortable. Two layers tends to be more effective than one.
 
-With lots of people making their own masks at the minute, elastic is like gold dust! Instead, Jenny suggests you could try using a hair bobble. You could even use shoe laces, bag handles, dress or bra straps, or cut strips from old t shirts or jersey fabrics.
+With lots of people making their own face coverings at the minute, elastic is like gold dust! Instead, Jenny suggests you could try using a hair bobble. You could even use shoe laces, bag handles, dress or bra straps, or cut strips from old t shirts or jersey fabrics.
 
 Jenny's top top is to use different colours for different sides of the face covering so you know which is the side that touches your mouth.
 
