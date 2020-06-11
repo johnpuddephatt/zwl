@@ -17,7 +17,7 @@ All the varieties you find in the supermarket such as cos, lollo rosso, butterhe
 
 At this time of year they will germinate in a few days and you’ll have leaves you can eat in about 3 weeks. The great thing about them is you can just pick what you want and keep coming back to them.  If you sow a few seeds every week, you’ll have a steady supply all summer long. If you have a gap in a flower border they can go there.  They also grow well in pots either outside or on a sunny window ledge.
 
-### **Microgreens and sprouting seeds** 
+### **Microgreens and sprouting seeds**
 
 ![](/uploads/microgreens.png)
 
@@ -27,7 +27,7 @@ Methods for growing them varies between each but it’s all straightforward, usu
 
 They grow so quickly that it's better to start them off whenever you think you’re going to need them.  As they're sprouting seeds you don’t need light and can grow them at any time of year.
 
-### **Radishes** 
+### **Radishes**
 
 ![](/uploads/radish.png)
 
@@ -51,7 +51,7 @@ It’s too late now (June) to sow seeds for a successful crop this year, but you
 
 If you’re growing chilli peppers then they can be picked as you need them, usually though you’ll get to the end of the summer and have loads left.  All you do is pick them, spread them out and leave somewhere warm to dry. Once dried they can be used whole in chillies or curries or chopped and ground up to be used as a powder.  They’ll last years if stored well.
 
-### Tomatoes 
+### Tomatoes
 
 ![](/uploads/tomatoes.png)
 
@@ -61,13 +61,11 @@ As tomatoes are best grown in pots you can grow inside in a sunny spot but lots 
 
 All they need is a largish pot, some support to grow up, water, a feed every week or two and plenty of light.  Again you can harvest them as you need them.  If you produce more than you can eat then they’re very easy to make into soup, chopped tomatoes or passata and frozen or preserved.  You can even have a go at making your own sun dried tomatoes (or put them in the oven when you’re cooking your frozen chips if it’s not sunny enough)
 
-### **Strawberries** 
+<!--StartFragment-->
 
-If you’ve never eaten a homegrown one then after a single bite you’ll wonder why they don’t all taste like this and how you’ve put up with the tasteless ones in the supermarkets all these years. 
+> Fresh salad leaves are one of the most frequently wasted food items
 
-This is partly down to how some of the commercial varieties are grown and partly because some of the tastiest varieties bruise easily and don’t store well. 
-
-Buy a few plants of a really tasty variety (like Cambridge Favourite) and you’ll have a delicious seasonal crop; they grow well in pots or in the garden and once they’ve finished fruiting they send out runners.  If you push these runners into a pot with some compost in they will root in a few weeks and you’ll have another plant for free – and once you’ve eaten your own strawberries you’ll want as many of them as you can grow.  You can also plant the seeds from the strawberries themselves to create new plants. 
+<!--EndFragment-->
 
 These are just a few of the things you can grow easily yourself and hopefully once you’ve tried it you’ll get bitten by the bug. Growing your own really is a virtuous circle, there’s no packaging, no transport, everything is fresh and nutritious and you’re in control of how your food is grown. 
 
