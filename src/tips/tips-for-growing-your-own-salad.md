@@ -61,8 +61,14 @@ As tomatoes are best grown in pots you can grow inside in a sunny spot but lots 
 
 All they need is a largish pot, some support to grow up, water, a feed every week or two and plenty of light.  Again you can harvest them as you need them.  If you produce more than you can eat then they’re very easy to make into soup, chopped tomatoes or passata and frozen or preserved.  You can even have a go at making your own sun dried tomatoes (or put them in the oven when you’re cooking your frozen chips if it’s not sunny enough)
 
-Strawberries – we’re in the middle of strawberry season right now, if you’ve never eaten a homegrown one then after a single bite you’ll wonder why they don’t all taste like this and how you’ve put up with the tasteless ones in the supermarkets all these years. This is partly down to how some of the commercial varieties are grown and partly because some of the tastiest varieties bruise easily and don’t store well. Buy a few plants of a really tasty variety (like Cambridge Favourite) and you’ll have a delicious seasonal crop; they grow well in pots or in the garden and once they’ve finished fruiting they send out runners, if you push these runners into a pot with some compost in they will root in a few weeks and you’ll have another plant for free – and once you’ve eaten your own strawberries you’ll want as many of them as you can grow
+### **Strawberries** 
 
-These are just a few of the things you can grow easily yourself and hopefully once you’ve tried it you’ll get bitten by the bug. Grow your own really is a virtuous circle, there’s no packaging, no transport, everything is fresh and nutritious and you’re in control of how your food is grown, ie use of harmful chemicals
+If you’ve never eaten a homegrown one then after a single bite you’ll wonder why they don’t all taste like this and how you’ve put up with the tasteless ones in the supermarkets all these years. 
+
+This is partly down to how some of the commercial varieties are grown and partly because some of the tastiest varieties bruise easily and don’t store well. 
+
+Buy a few plants of a really tasty variety (like Cambridge Favourite) and you’ll have a delicious seasonal crop; they grow well in pots or in the garden and once they’ve finished fruiting they send out runners.  If you push these runners into a pot with some compost in they will root in a few weeks and you’ll have another plant for free – and once you’ve eaten your own strawberries you’ll want as many of them as you can grow.  You can also plant the seeds from the strawberries themselves to create new plants. 
+
+These are just a few of the things you can grow easily yourself and hopefully once you’ve tried it you’ll get bitten by the bug. Growing your own really is a virtuous circle, there’s no packaging, no transport, everything is fresh and nutritious and you’re in control of how your food is grown. 
 
 <!--EndFragment-->
