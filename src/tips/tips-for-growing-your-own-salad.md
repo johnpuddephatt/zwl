@@ -17,7 +17,7 @@ All the varieties you find in the supermarket such as cos, lollo rosso, butterhe
 
 At this time of year they will germinate in a few days and you’ll have leaves you can eat in about 3 weeks. The great thing about them is you can just pick what you want and keep coming back to them.  If you sow a few seeds every week, you’ll have a steady supply all summer long. If you have a gap in a flower border they can go there.  They also grow well in pots either outside or on a sunny window ledge.
 
-**Microgreens and sprouting seeds** 
+### **Microgreens and sprouting seeds** 
 
 ![](/uploads/microgreens.png)
 
@@ -27,13 +27,15 @@ Methods for growing them varies between each but it’s all straightforward, usu
 
 They grow so quickly that it's better to start them off whenever you think you’re going to need them.  As they're sprouting seeds you don’t need light and can grow them at any time of year.
 
-**Radishes** 
+### **Radishes** 
 
 ![](/uploads/radish.png)
 
 These seem to grow for fun and there are loads of different varieties to choose from. Like lettuce they will grow in most locations and will be ready to eat in a few weeks. They will also grow in pots if you don’t have a garden. Just sow the seeds where you want them to grow, keep them watered and they’ll do the rest.
 
-**Herbs**
+### **Herbs**
+
+![](/uploads/herbs.png)
 
 There are so many herbs to choose from, some are small annual plants that you grow each year and others are bushy perennials such as sage and rosemary. 
 
@@ -41,7 +43,9 @@ Most of the herbs we eat are well suited to Mediterranean style climates and soi
 
 Like lettuce you can pick leaves as and when you need them, or if you have a glut you can dry the leaves, chop them up and store them for use as dried herbs – like the ones you buy in the shops.
 
-Peppers – it’s too late now to sow seeds for a successful crop this year, but you can buy plants of many varieties in garden centres. These are perfect for window ledges or a sheltered sunny spot in the garden. If you’re growing chilli peppers then these can be picked as you need them, usually though you’ll get to the end of the summer and have loads left. All you do is pick them, spread them out and leave somewhere warm to dry. Once dried they can be used whole in chillies or curries or chopped and ground up to be used as a powder, they’ll last years if stored well.
+**Peppers**
+
+ it’s too late now to sow seeds for a successful crop this year, but you can buy plants of many varieties in garden centres. These are perfect for window ledges or a sheltered sunny spot in the garden. If you’re growing chilli peppers then these can be picked as you need them, usually though you’ll get to the end of the summer and have loads left. All you do is pick them, spread them out and leave somewhere warm to dry. Once dried they can be used whole in chillies or curries or chopped and ground up to be used as a powder, they’ll last years if stored well.
 
 Tomatoes – many people are put off growing tomatoes because they think you need a greenhouse, they’re difficult to grow or both. Some varieties do need a greenhouse but many don’t, as tomatoes are best grown in pots you can grow inside in a sunny spot but lots have been bred to grow outside in the UK, particularly cherry tomatoes. All they need is a largish pot, some support to grow up, water, a feed every week or two and plenty of light. Again you can harvest them as you need them, if you produce more than you can eat then they’re very easy to make into soup, chopped tomatoes or passata and frozen or preserved. You can even have a go at making your own sun dried tomatoes (or put them in the oven when you’re cooking your frozen chips if it’s not sunny enough)
 
