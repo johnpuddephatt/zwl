@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Tips for growing your own salad
 date: 2020-06-11T16:51:30.455Z
-tags: garden-waste
+tags: food-waste
 image: /uploads/salad.png
 ---
 It's summer and the time of year when plants and gardens are growing furiously and salads become a bigger part of our diet.   Fresh salad leaves are one of the most frequently wasted food items and they usually come wrapped in plastic as well, so here are some tips for growing your own and reducing waste at the same time.
