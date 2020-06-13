@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Tips for growing your own salad
 date: 2020-06-11T16:51:30.455Z
 tags: food-waste
-image: /uploads/salad.png
+image: /uploads/salad2.jpg
 ---
 It's summer and the time of year when plants and gardens are growing furiously and salads become a bigger part of our diet.   Fresh salad leaves are one of the most frequently wasted food items and they usually come wrapped in plastic as well, so here are some tips for growing your own and reducing waste at the same time.
 
@@ -11,7 +11,7 @@ If you haven’t grown salad leaves, lettuces or microgreens before you may be s
 
 ### Lettuce
 
-![](/uploads/lettuce.jpg)
+![](/uploads/lettuce2.jpg)
 
 All the varieties you find in the supermarket such as cos, lollo rosso, butterhead, iceberg, rocket are very easy to grow. 
 
@@ -19,7 +19,7 @@ At this time of year they will germinate in a few days and you’ll have leaves 
 
 ### **Microgreens and sprouting seeds**
 
-![](/uploads/microgreens.png)
+![](/uploads/microgreens2.png)
 
 These include cress, some types of basil, bean sprouts, alfalfa and fenugreek.  They’re even easier to grow than lettuce and some will give you food to eat within a few days.  
 
@@ -61,12 +61,6 @@ As tomatoes are best grown in pots you can grow inside in a sunny spot but lots 
 
 All they need is a largish pot, some support to grow up, water, a feed every week or two and plenty of light.  Again you can harvest them as you need them.  If you produce more than you can eat then they’re very easy to make into soup, chopped tomatoes or passata and frozen or preserved.  You can even have a go at making your own sun dried tomatoes (or put them in the oven when you’re cooking your frozen chips if it’s not sunny enough)
 
-<!--StartFragment-->
-
 > Fresh salad leaves are one of the most frequently wasted food items
 
-<!--EndFragment-->
-
-These are just a few of the things you can grow easily yourself and hopefully once you’ve tried it you’ll get bitten by the bug. Growing your own really is a virtuous circle, there’s no packaging, no transport, everything is fresh and nutritious and you’re in control of how your food is grown. 
-
-<!--EndFragment-->
+These are just a few of the things you can grow easily yourself and hopefully once you’ve tried it you’ll get bitten by the bug. Growing your own really is a virtuous circle, there’s no packaging, no transport, everything is fresh and nutritious and you’re in control of how your food is grown.
