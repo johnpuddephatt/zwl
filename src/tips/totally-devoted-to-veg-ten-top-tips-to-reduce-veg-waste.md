@@ -62,24 +62,10 @@ TINNED CHICKPEAS AND OTHER PULSES - adds texture and substance to your veg.
 
 Veg curry recipes
 
-
-
 You could go either Thai or Indian with this depending on the spices you use. Gently fry off your onion and add the spices (for Thai you can use a paste rather than dried spices if you like). Any veg can go in but for Thai I think onion, pepper, carrot, courgette, celery, broccoli, baby corn, green beans and mange-tout work particularly well, you can throw in some small, cubed potato and chick peas too. Cut/slice everything quite small as you’re not cooking for long. Add your veg and gently fry until softening. Add a tin of coconut milk, a little water (rinse the coconut milk tin out with it - you need about ⅓ of a tin of water) and simmer the veg for 10-15 minutes whilst your rice is cooking.
-
-
 
 For an Indian curry, any veg really works and you’re cooking for a little longer than a Thai curry so they can be decent sized chunks. Start with the onions and spices, add your veg, a stock cube, some water to cover. Bring to the boil and simmer gently for 20 minutes. Add a tin of tomatoes, some rinsed, split lentils and (if you like it creamy) a tin of coconut milk (add more water or another tin of tomatoes if you don’t want it creamy). Simmer for a further 10-15 minutes until the lentils are soft
 
-
-
 <!--EndFragment-->
 
-<!--EndFragment--><!--EndFragment-->
-
-<!--EndFragment-->
-
-<!--EndFragment-->
-
-<!--EndFragment-->
-
-<!--EndFragment-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vv61t8suHX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
