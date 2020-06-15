@@ -3,8 +3,8 @@ layout: layouts/post.njk
 title: The End of Term Big Clear Out  - information for Leeds students
 date: 2020-06-15T11:25:23.021Z
 tags: stuff
-image: /uploads/screen-shot-2020-06-15-at-12.27.39.png
-image_alt: End of Term Big Clear Out image
+image: /uploads/freeshopimage.jpg
+image_alt: Image of a Free Shop at a previous end of term clearout
 ---
 Lots of students will be leaving Leeds over the next few weeks - and naturally there's potential - this year more than ever - for lots of food and other household items to get thrown away.  
 
