@@ -12,7 +12,7 @@ Fortunately there's an excellent project in Leeds that's set up to deal with thi
 
 ![Flyer with information about the Big Clear Out in Leeds](/uploads/bigclearout.png "End of Term Big Clear Out Flyer")
 
-All the information is in the flyer, but in summary:
+All the information is in [this flyer](https://www.facebook.com/hydeparksource/photos/pcb.1657888021041707/1657887337708442/?type=3&theater), but in summary:
 
 You can fill **Blue Bags** - which have been delivered across Leeds 6 - with clean and reusable items such as clothing, paired shoes, books, small electrical items, pans and crockery.
 
@@ -24,6 +24,6 @@ Unopened, non-perishable, in-date food items can also be donated in this way - b
 
 Blue bags can also be dropped off at the following donation points - [Cardigan Centre](http://cardigancentre.org.uk/), [Hyde Park Picture House](https://www.hydeparkpicturehouse.co.uk/) & [Gateway Church](https://gatewayleeds.net/) on **Tuesdays and Thursdays from 16th to 30th of June from 11-4pm**. 
 
-If you have food - unopened, in-date and non-perishable - you can drop it off at [Rainbow Junktion](http://rainbowjunktion.org.uk/), [Gateway Church](https://gatewayleeds.net/), [Cardigan Centre](http://cardigancentre.org.uk/) or [Hyde Park Picture House](https://www.hydeparkpicturehouse.co.uk/).  Please see the flyer above for dates and times for each of them - or follow the [University of Leeds Sustainability Service](https://www.facebook.com/UoLSustainability/) on Facebook.  
+If you have food - unopened, in-date and non-perishable - you can drop it off at [Rainbow Junktion](http://rainbowjunktion.org.uk/), [Gateway Church](https://gatewayleeds.net/), [Cardigan Centre](http://cardigancentre.org.uk/) or [Hyde Park Picture House](https://www.hydeparkpicturehouse.co.uk/) **on certain dates over the coming weeks**.  Please see [this flyer](https://www.facebook.com/hydeparksource/photos/pcb.1657888021041707/1657887337708442/?type=3&theater) for dates and times for each of them - or follow the [University of Leeds Sustainability Service](https://www.facebook.com/UoLSustainability/) on Facebook.  
 
 Some local residents will also be accepting donations of unopened, in-date and non-perishable food - more information on this will be available on the [Headingley and Hyde Park News Facebook](https://www.facebook.com/HeadingleyCouncillors/) page.
