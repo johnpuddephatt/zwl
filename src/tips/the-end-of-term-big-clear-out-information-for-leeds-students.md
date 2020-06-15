@@ -12,8 +12,6 @@ Fortunately there's an excellent project in Leeds that's set up to deal with thi
 
 ![Flyer with information about the Big Clear Out in Leeds](/uploads/bigclearout.png "End of Term Big Clear Out Flyer")
 
-
-
 All the information is in the flyer, but in summary:
 
 You can fill **Blue Bags** - which have been delivered across Leeds 6 - with clean and reusable items such as clothing, paired shoes, books, small electrical items, pans and crockery.
@@ -29,5 +27,3 @@ Blue bags can also be dropped off at the following donation points - [Cardigan C
 If you have food - unopened, in-date and non-perishable - you can drop it off at [Rainbow Junktion](http://rainbowjunktion.org.uk/), [Gateway Church](https://gatewayleeds.net/), [Cardigan Centre](http://cardigancentre.org.uk/) or [Hyde Park Picture House](https://www.hydeparkpicturehouse.co.uk/).  Please see the flyer above for dates and times for each of them - or follow the [University of Leeds Sustainability Service](https://www.facebook.com/UoLSustainability/) on Facebook.  
 
 Some local residents will also be accepting donations of unopened, in-date and non-perishable food - more information on this will be available on the [Headingley and Hyde Park News Facebook](https://www.facebook.com/HeadingleyCouncillors/) page.
-
-We very much encourage students who are leaving their accommodation to make the most of this excellent service - particularly so this year as other options for donating goods are more limited.  We will
