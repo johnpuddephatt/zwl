@@ -3,8 +3,8 @@ layout: layouts/post.njk
 title: The End of Term Big Clear Out  - information for Leeds students
 date: 2020-06-15T11:25:23.021Z
 tags: stuff
-image: /uploads/freeshopimage.jpg
-image_alt: Image of a Free Shop at a previous end of term clearout
+image: /uploads/screen-shot-2020-06-15-at-14.21.52.png
+image_alt: A collection of reusable items outside Hyde Park Picture House
 ---
 Lots of students will be leaving Leeds over the next few weeks - and naturally there's potential - this year more than ever - for lots of food and other household items to get thrown away.  
 
