@@ -5,11 +5,7 @@ date: 2020-06-16T14:01:19.867Z
 tags: food-waste
 image: /uploads/lovefruit.png
 ---
-
-
-
-
-[Every year, UK households waste around 1.1 million tonnes of fruit](https://www.wrap.org.uk/sites/files/wrap/WRAP%20Fruit%2015%20-%20final.pdf). Around half of this is avoidable and could have been eaten. So we've gathered seven heavenly ideas to use up your fruit and avoid food waste.
+[Every year, UK households waste around 1.1 million tonnes of fruit](https://www.wrap.org.uk/sites/files/wrap/WRAP%20Fruit%2015%20-%20final.pdf). Around half of this is avoidable and could have been eaten. So we've shared seven heavenly ideas to use up your fruit and avoid food waste.
 
 [This is also a great guide](https://lovefoodhatewaste.com/article/food-storage-a-z) to storing lots of different foods including fruit from Love Food Hate Waste. Don’t be too wedded to your fruit bowl, lots of fruit is best stored in the fridge (except bananas - although storing them in the fridge will stop them ripening if that’s what you need to do to make them last a couple more days).
 
