@@ -27,3 +27,5 @@ Blue bags can also be dropped off at the following donation points - [Cardigan C
 If you have food - unopened, in-date and non-perishable - you can drop it off at [Rainbow Junktion](http://rainbowjunktion.org.uk/), [Gateway Church](https://gatewayleeds.net/), [Cardigan Centre](http://cardigancentre.org.uk/) or [Hyde Park Picture House](https://www.hydeparkpicturehouse.co.uk/) **on certain dates over the coming weeks**.  Please see [this flyer](https://www.facebook.com/hydeparksource/photos/pcb.1657888021041707/1657887337708442/?type=3&theater) for dates and times for each of them - or follow the [University of Leeds Sustainability Service](https://www.facebook.com/UoLSustainability/) on Facebook.  
 
 Some local residents will also be accepting donations of unopened, in-date and non-perishable food - more information on this will be available on the [Headingley and Hyde Park News Facebook](https://www.facebook.com/HeadingleyCouncillors/) page.
+
+More information can also be found on the Leeds City Council [website](https://www.leeds.gov.uk/residents/bins-and-recycling/university-students).
