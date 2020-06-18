@@ -39,11 +39,11 @@
   },
   "projects": [
     {
-      "title": "Changes to collections",
-      "description": "Bin collections could be disrupted in the coming weeks if Council staff can’t report for work due to the COVID-19 outbreak.",
+      "title": "Zero Waste Fashion",
+      "description": "We launched [Zero Waste Fashion](https://zerowastefashion.fashion.blog/) to help make it easier for people to recycle, reuse, repair and upcycle clothing and textiles in our city.  We want to reduce the amount of clothing that ends of up in household bins - currently 4000 tonnes per year!  Take a look at our [map](https://www.google.com/maps/d/u/1/viewer?hl=en&mid=18ktKdUeew3oQpjOnezeTyLtt9pk1KK7w&ll=53.83676365656107%2C-1.5013154999999188&z=11) of all the textile banks, charity shops, repair shops, sewing classes and clothes exchanges in Leeds.",
       "link": {
-        "text": "Get the latest updates from the Council",
-        "url": "https://www.leeds.gov.uk/residents/bins-and-recycling"
+        "text": "See our Zero Waste Fashion website",
+        "url": "https://zerowastefashion.fashion.blog/"
       }
     },
     {
