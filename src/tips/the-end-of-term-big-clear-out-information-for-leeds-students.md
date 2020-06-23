@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: The End of Term Big Clear Out  - information for Leeds students
+title: The End of Term Big Clear Out  – information for Leeds students
 date: 2020-06-15T11:25:23.021Z
 tags: stuff
 image: /uploads/screen-shot-2020-06-15-at-14.21.52.png
