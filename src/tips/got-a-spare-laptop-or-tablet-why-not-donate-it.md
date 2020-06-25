@@ -7,9 +7,7 @@ image: /uploads/hpbcdawy.jpg
 image_alt: Stuart Clarke from Leeds Digital Festival donating laptops to DAWY at
   Hyde Park Book Club
 ---
-We chatted recently to Jack Simpson from [Hyde Park Book Club](https://www.hydeparkbookclub.co.uk/), about [Digital Access West Yorkshire](https://accesswy.org/) - a new project that's he's part of, which takes donated laptops and tablets and passing them on to people who need them in Leeds and Bradford.
-
-
+We chatted recently to Jack Simpson from [Hyde Park Book Club](https://www.hydeparkbookclub.co.uk/), about [Digital Access West Yorkshire](https://accesswy.org/) - a new project that's he's part of which takes donated laptops and tablets and passes them on to people who need them in Leeds and Bradford.
 
 You can watch our conversation with Jack here:
 
@@ -19,7 +17,7 @@ Jack explained how Digital Access West Yorkshire was set up in response to the C
 
 The idea is pretty simple - you can [donate](https://accesswy.org/donate/) your laptop or tablet to DAWY - who will then wipe the machine's data - before passing it on to people who could benefit from it.  They work with local organisations - such as [LS14 Trust](http://www.ls14trust.org/) and [Seagulls](https://seagullsreuse.org.uk/) - to find people who can benefit from the donated machines.
 
-There's more information on what they can accept on [their website](https://accesswy.org/donate/) - in summary they are looking for machines which work, are safe and run a minimum of Windows 7.  Ideally they should be under 5 years old.
+There's more information on what they can accept on [their website](https://accesswy.org/donate/) - in summary they are looking for machines which work, are safe and run a minimum of Windows 7.  Ideally they should be under 5 years old.  If you're unsure whether to donate your laptop or tablet, you can [check with them first](https://accesswy.org/donate/).   
 
 Alongside donating a laptop or tablet, there are other ways to support their work - including by donating to their [crowdfunding campaign](https://accesswy.org/can-you-support-our-gofundme-campaign/) (to support things like buying data plans to help people to get online) - or by [volunteering](https://accesswy.org/volunteer/).
 
