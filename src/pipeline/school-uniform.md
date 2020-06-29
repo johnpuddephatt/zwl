@@ -4,7 +4,7 @@ title: How can we make school uniform reuse the norm in Leeds?
 intro: Lots of good quality uniform gets thrown away every year in Leeds – could
   it be redistributed?
 date: 2020-06-29T11:59:04.253Z
-image: /uploads/school-uniform.jpg
+image: /uploads/school-uniform1.jpg
 image_alt: Photo of typical school uniform
 ideas_link: ""
 ---
