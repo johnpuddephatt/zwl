@@ -28,6 +28,8 @@ If you have food - unopened, in-date and non-perishable - you can drop it off at
 
 Some local residents will also be accepting donations of unopened, in-date and non-perishable food - more information on this will be available on the [Headingley and Hyde Park News Facebook](https://www.facebook.com/HeadingleyCouncillors/) page.
 
+Until 5th of July [you can go to Kirkstall Recycling Centre](https://twitter.com/LeedsRecycles/status/1277552245857562624) without booking an appointment if you show your student card. You can go in a car or on foot,  - but no vans or trailers.  The address is [here](https://www.leeds.gov.uk/residents/bins-and-recycling/recycling-sites/kirkstall-road-household-waste-sorting-site) - and don't forget there is also a [Revive](http://www.reviveleeds.co.uk/) reuse shop here.  
+
 More information can also be found on the Leeds City Council [website](https://www.leeds.gov.uk/residents/bins-and-recycling/university-students).
 
 There are also opportunities to volunteer to help with collections - for more information please either contact [Hyde Park Source via Facebook](https://www.facebook.com/hydeparksource/), or email [a.m.jackson@leeds.ac.uk](mailto:a.m.jackson@leeds.ac.uk).
