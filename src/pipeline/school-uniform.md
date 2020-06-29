@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: How can we make school uniform reuse the norm in Leeds?
+title: Join us to make school uniform reuse the norm in Leeds
 intro: Lots of good quality uniform gets thrown away every year in Leeds – could
   it be redistributed?
 date: 2020-06-29T11:59:04.253Z
@@ -14,7 +14,7 @@ And then there's the environmental cost of lots of perfectly good uniforms that 
 
 So we'd like to do what we can to make it easier for people to offer up uniforms for reuse - and to get second hand uniforms themselves.
 
-But as always, we want to work with other people to do this.  It's the kind of thing works best at a very local level - at a school, amongst parents. Local people getting together to do things - like [Education Aid](https://www.facebook.com/EducationAid18) in Leeds.
+But as always, we want to work with other people to do this.  It's the kind of thing that works best at a very local level - at a school, amongst parents. Local people getting together to do things - like [Education Aid](https://www.facebook.com/EducationAid18) in Leeds.
 
 In some ways it's a pretty simple issue to solve - but it's clear that for a whole host of practical reasons, far too much good quality uniform currently gets thrown away. That's such a waste - particularly when reuse could have big benefits for people living in poverty in our city. And the environmental impacts of throwing away so much clothing (much of which is polyester - made from petrochemicals) - are huge.
 
