@@ -21,18 +21,18 @@ It's clear to us that this kind of thing works best at a local level.  Sometimes
 
 # What next?
 
-Over the next few months we'll be doing the following.  We'll map all the schemes that are out there, and then we'll identify gaps - particularly in areas of the city where children and families could benefit most (particularly schools where there are more children who have Free School Meals).  
+Over the next few months we'll be doing the following.  We'll map all the schemes that are out there, and then we'll identify gaps - particularly in areas of the city where children and families could benefit most (for example schools where there are more children who have Free School Meals).  
 
 We'll gather together loads of top tips from schemes that are already running - so that we can share these tips with people who are keen to set up a scheme themselves.  Uniform reuse doesn't have to be complicated - but there can be obstacles to overcome - so it's worth learning about how other people in our city have overcome them.
 
-We're really keen on this project because it can bring social as well as environmental benefits - helping to tackle waste, whilst also offering support to families who need a bit of help.  
-
 # How can I get involved?
 
-We've set up a Facebook group to keep in touch with people who are interested in the project.  If you're not on Facebook, feel free to email us.  
+We've set up [a Facebook group](https://www.facebook.com/groups/603050533660854/?source_id=215809088977622) to keep in touch with people who are interested in the project.  If you're not on Facebook, feel free to [email us](mailto:rob@zerowasteleeds.org.uk).  
 
 We're very grateful for the financial support this project has received from Leeds City Council and Leeds Community Foundation.  But we'd still welcome other support - including funding and sponsorship.  And in-kind support would be really useful too - eg around helping us to develop some branding for the project that helps to challenge the stigma that can exist around second hand uniforms.
 
-We're confident that together we can make school uniform reuse an everyday, normal, easy thing to do in Leeds!
+We're really keen on this project because it can bring social as well as environmental benefits - helping to tackle waste, whilst also offering support to families who need a bit of help.  
+
+And we're confident that together we can make school uniform reuse an everyday, normal, easy thing to do in Leeds!
 
 ![Flyer about Zero Waste Leeds' school uniform reuse project](/uploads/uniformzwl.png)
