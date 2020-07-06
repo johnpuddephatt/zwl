@@ -1,12 +1,12 @@
 ---
 layout: layouts/post.njk
-title: Recycling paper and card in Leeds
+title: Recycling paper and card in your green bin in Leeds
 date: 2020-07-06T14:03:05.897Z
 tags: recycling
 image: /uploads/canva-garbage-lot.jpg
 image_alt: Photo of bales of cardboard and paper by Alex Fu via Canva
 ---
-We recently chatted with Kathryn from Leeds City Council to find out everything you need to know about cardboard and paper recycling in Leeds.
+We recently chatted with Kathryn from [Leeds City Counci](https://www.leeds.gov.uk/residents/bins-and-recycling)l to find out everything you need to know about cardboard and paper recycling in Leeds.
 
 You can watch our chat with Kathryn here:
 
@@ -14,11 +14,16 @@ You can watch our chat with Kathryn here:
 
 Card and paper are amongst the most commonly recycled materials - in fact around half (by weight) of a green recycling bin in Leeds will be made up of paper and card.
 
-Now there's every chance that over the last few months you've been getting quite a few home deliveries, so you'll have a good amount of cardboard to recycle.  
+There's every chance that over the last few months you've been getting quite a few home deliveries, so you'll have a good amount of cardboard to recycle.  
 
-In our chat with Kathryn we put the questions that people ask us most regularly to her, and here are some of the main points she raised:
+In our chat with Kathryn we put the questions that people ask us most regularly to her, and here are some of the main points she raised.
 
-There's a list of the main paper and card products that can go in your green bin in Leeds [here](https://www.leeds.gov.uk/residents/bins-and-recycling/your-bins/green-recycling-bin).  \
+
+
+# Card and paper recycling top tips
+
+There's a list of the main paper and card products that can go in your green bin in Leeds [here](https://www.leeds.gov.uk/residents/bins-and-recycling/your-bins/green-recycling-bin).  
+
 You don't have to worry about removing the tape from boxes - but do flatten them (so you can fit more in your bin).
 
 You can recycle pizza boxes - as long as there's only a bit of grease on theme.  If there's any food on the box - pop it in your black bin.  It's possible that half the box is clean - in that case rip the box and put the clean part in your green bin.
@@ -35,4 +40,12 @@ Shredded paper can't go in your green bin, as it damages the machinery at the so
 
 Tetrapaks - which are made of up a number of materials including paper and card - can go in your green bin.
 
-Plastic lined single-use coffee cups can't go in your green bin - but can be recycled at a number of sites across Leeds.  They can also be recycled, if you're out and about in Leeds city centre, in #LeedsByExample coffee cup bins.
+It's important that paper and card doesn't get wet - as it makes it much more difficult to recycle.  So it's a good idea to allow other things (like cans or plastic bottles) to dry before you put them in your green bin.
+
+
+
+# How to find out more
+
+You can keep in touch with the Council's Leeds Recycles team on [Facebook](https://www.facebook.com/LeedsRecycles/) and [Twitter](https://twitter.com/leedsrecycles) - and you can also sign up to their [e-newsletter](https://content.govdelivery.com/accounts/UKLEEDS/bulletins/293e0ec?fbclid=IwAR3V5WHghy1q_xyu-km8P4-Bag5S68S9CDE49K7jZZV9bGy8Zk0oAnJwebw) - which has lots of top tips on recycling in Leeds.
+
+And as always, if you have any questions, just get in touch with us, via [Facebook](https://www.facebook.com/zerowasteleeds/), [Twitter](https://twitter.com/zerowasteleeds), [Instagram](https://www.instagram.com/zerowasteleeds/) or [LinkedIn](https://www.linkedin.com/company/56466378/admin/).
