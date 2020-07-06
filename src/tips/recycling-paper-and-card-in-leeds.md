@@ -24,7 +24,7 @@ In our chat with Kathryn we put the questions that people ask us most regularly 
 
 There's a list of the main paper and card products that can go in your green bin in Leeds [here](https://www.leeds.gov.uk/residents/bins-and-recycling/your-bins/green-recycling-bin).  
 
-You don't have to worry about removing the tape from boxes - but do flatten them (so you can fit more in your bin).
+You don't have to worry about removing the tape from cardboard boxes - but do flatten them (so you can fit more in your bin).
 
 You can recycle pizza boxes - as long as there's only a bit of grease on theme.  If there's any food on the box - pop it in your black bin.  It's possible that half the box is clean - in that case rip the box and put the clean part in your green bin.
 
@@ -41,6 +41,8 @@ Shredded paper can't go in your green bin, as it damages the machinery at the so
 Tetrapaks - which are made of up a number of materials including paper and card - can go in your green bin.
 
 It's important that paper and card doesn't get wet - as it makes it much more difficult to recycle.  So it's a good idea to allow other things (like cans or plastic bottles) to dry before you put them in your green bin.
+
+Think about reuse too - maybe someone else might want your cardboard (bike boxes in particular are always in demand) or perhaps you can use your cardboard boxes for something else - like [den making](https://twitter.com/edleeds/status/1240585977141354496?s=20) or a [\#PEWithJoe exercise mat](https://www.facebook.com/zerowasteleeds/videos/1717931671681121/)!
 
 
 
